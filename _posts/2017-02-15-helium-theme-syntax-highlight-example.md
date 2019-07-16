@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Example how post on Jekyll Helium"
+autor: Example how post on Jekyll Helium
 tags : [jekyll, code]
 img : syntax-hightlight.jpg
 img2 : 

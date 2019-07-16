@@ -1,4 +1,5 @@
 ---
+title: Viaje por las regiones equinocciales del Nuevo Continente
 layout: post
 category : lessons
 tagline: "Using heliumjk.github.io"
