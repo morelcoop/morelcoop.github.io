@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4816,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/febres/Documentos/heliumjk.github.io",
+		"/home/febres/Documentos/heliumjk.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-09-helium-jekyll-theme-markdown-examples.md",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-10-helium-jekyll-theme-markdown-examples.md",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-11-helium-jekyll-theme-markdown-examples.md",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-13-helium-jekyll-theme-markdown-examples.md",
+		"/home/febres/Documentos/heliumjk.github.io/_includes/themes/bootstrap/post.html",
+		"/home/febres/Documentos/heliumjk.github.io/index.html",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-01-01-hello-world.md",
+		"/home/febres/Documentos/heliumjk.github.io/_includes/side-bar.html",
+		"/home/febres/Documentos/heliumjk.github.io/_site/assets/css/main.css",
+		"/home/febres/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/febres/Documentos/heliumjk.github.io/_includes/themes/bootstrap/default.html",
+		"/home/febres/Documentos/heliumjk.github.io/_layouts/post.html",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/docs/2017-10-08-helium-jekyll-theme-markdown-examples.md",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/lessons/2017-03-20-make-your-jekyll-website-ugly.md",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/lessons/2017-01-17-testing-locally-helium-jekyll.md",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/lessons/2017-01-01-hello-world.md",
+		"/home/febres/Documentos/heliumjk.github.io/_includes/themes/bootstrap/nav-bar.html",
+		"/home/febres/Documentos/heliumjk.github.io/_posts/core-samples/2017-02-15-helium-theme-syntax-highlight-example.md",
+		"/home/febres/Documentos/heliumjk.github.io/_config.yml",
+		"/home/febres/Documentos/heliumjk.github.io/navigations.html",
+		"/home/febres/Documentos/heliumjk.github.io/blog.html",
+		"/home/febres/Documentos/heliumjk.github.io/index_.html",
+		"/home/febres/Documentos/strata-jekyll-theme/index.html",
+		"/home/febres/Documentos/strata-jekyll-theme/_sass/main.scss",
+		"/home/febres/Documentos/strata-jekyll-theme/assets/css/main.css",
+		"/home/febres/Documentos/beautiful-jekyll/_config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/admin/config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/index.html",
+		"/home/febres/Documentos/beautiful-jekyll/_includes/head.html",
+		"/home/febres/Documentos/beautiful-jekyll/admin/index.html",
+		"/home/febres/Documentos/beautiful-jekyll/retiros.html",
+		"/home/febres/Documentos/beautiful-jekyll/practicas.html",
+		"/home/febres/Documentos/beautiful-jekyll/talleres.html",
+		"/home/febres/Documentos/beautiful-jekyll/ensenanzas.html",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-01-20-el-habla-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-12-zen-y-budismo-zen.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-16-concentracion-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-30-la-vision-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/ceremonias.html",
+		"/home/febres/Documentos/beautiful-jekyll/noticias.html",
+		"/home/febres/Documentos/beautiful-jekyll/_includes/header.html",
+		"/home/febres/Documentos/beautiful-jekyll/404.html",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-05-12-taller-practico-meditacion.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-05-18-bienvenidos-nuevos-participantes.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-28-ceremonia-de-ordenacion.md",
+		"/home/febres/Documentos/beautiful-jekyll/_layouts/post.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"",
+			"/home/febres/Documentos/beautiful-jekyll/_posts",
+			"<open folders>,-/home/febres/Documentos/beautiful-jekyll/_site",
+			"<open folders>,-/home/febres/Documentos/beautiful-jekyll/_posts",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hero-content",
+			"content",
+			"img",
+			"author",
+			"navbar4",
+			"/assets/css/animate.css",
+			"`/assets/css/animate.css'",
+			"carloseduardoalayon",
+			"insta",
+			"'VER'",
+			"VER",
+			"view",
+			"doesn't",
+			"publicado el",
+			"older posts",
+			"older",
+			"tags",
+			"posted on",
+			"public",
+			"publi",
+			"categories",
+			"posted",
+			"posted on",
+			"posted",
+			"next",
+			"previous post",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tags"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "morel2.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/beautiful-jekyll/dokan.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
