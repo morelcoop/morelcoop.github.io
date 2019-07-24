@@ -5,15 +5,15 @@
             <div class="col-xs-12 col-sm-6">
               <div class="hero-content-v2" style="margin-top:10px!important;">
                 <h3><strong>{{ page.title }}</strong></h3>
-                <p>Obra de {{ page.category }} publicada en {{ page.ciudad }} por {{ page.editorial }} en {{ page.edicion }} {% if page.year %}. Publicada por primera vez en {{ page.year }}. {% endif %}{% if page.repositorio %}. Recuperada por {{ page.repositorio }}. {% endif %}
+                <p>Obra de {% assign categories = page.categories %}{% for category in categories %}{{category}},{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %} publicada en {{ page.ciudad }} por {{ page.editorial }} en {{ page.edicion }}{% if page.year %}. Publicada por primera vez en {{ page.year }}{% endif %}{% if page.repositorio %}. Recuperada por {{ page.repositorio }}. {% endif %}
                 </p>
-                <a href="#post" class="page-scroll btn btn-lg btn-default-filled">Descargar</a>
+                <a href="{{ page.descarga }}"><button>Descargar</button></a>
                 <div class="mb-60"></div>                      
               </div>
             </div>
             <div class="col-xs-12 col-sm-6">
               {% if page.img %}<figure>
-                <img src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="">
+                <img src="{{ page.img }}" alt="">
               </figure>{% endif %}
             </div>
           </div>
@@ -31,7 +31,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-9">
-          <div class="mb-60"></div>
+          
            {{ content }}                 
         </div>                    
         <div class="col-sm-12 col-md-3">
