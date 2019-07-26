@@ -7,7 +7,7 @@ edicion:
 year: 
 categories: 
 - Alejandro de Humboldt
-- Aimé Bonplandt
+- Aimé Bonpland
 - Lisandro Alvarado
 repositorio: "Biblioteca Digital de Venezuela"
 repurl: 
