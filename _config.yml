@@ -8,7 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: 
-baseurl: http://morelcoop.github.io
+baseurl: 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -25,9 +25,9 @@ title : Literatura venezolana
 tagline: libros gratis de dominio público
 author : 
   name : MOREL
-  site: https://morel.github.io
-  description : 
-  image : 
+  site: https://morelcoop.xyz
+  description : Metadatos de Obras para Repositorios Electrónicos Latinoamericanos impulsa la creación de archivos digitales autosustentables administrados de forma cooperativa. Literaturavenezolana.xyz es su primera aplicación.
+  image : avatar.png
   email : proyectomorel@gmail.com
   github : morelcoop
   twitter : morelcoop

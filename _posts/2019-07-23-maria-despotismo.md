@@ -10,6 +10,7 @@ repositorio: Achive.org
 repurl: 
 img: http://www.literaturavenezolana.xyz/img/Zulima_Maria-o-el-despotismo|literatura-venezolana.jpg
 descarga: https://archive.org/download/maraoeldespotism14318lpez/maraoeldespotism14318lpez.pdf
+tag: Dramaturgia
 ---
 {% include JB/setup %}
 

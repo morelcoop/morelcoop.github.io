@@ -10,6 +10,7 @@ repositorio: Biblioteca Virtual Miguel de Cervantes
 repurl: 
 img: http://www.literaturavenezolana.xyz/morel/sites/default/files/portada/Rufino_blanco_fombona_la_mascara_heroica_literatura_venezolana.jpg
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Rufino_blanco_fombona_la_mascara_heroica_literatura_venezolana.pdf
+tag: "Ficción"
 ---
 {% include JB/setup %}
 

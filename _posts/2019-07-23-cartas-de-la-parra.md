@@ -10,6 +10,7 @@ repositorio: "Biblioteca Digital de Venezuela"
 repurl: 
 img: http://www.literaturavenezolana.xyz/img/Teresa_de_la_parra_cartas_literatura_venezolana.jpg
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Teresa_de_la_parra_cartas_literatura_venezolana.pdf
+tag: "Intimidad"
 ---
 {% include JB/setup %}
 

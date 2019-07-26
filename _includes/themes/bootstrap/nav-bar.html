@@ -1,23 +1,6 @@
-<!--            <div class="top-menu">
-              <p>
-                <span class="left">
-                  <a href="#"><i class="fa fa-map-marker"></i>New South Wales, Sydney</a>
-                  <a href="#"><i class="fa fa-mobile-phone"></i>+9 34476 3244</a>
-                  <a href="#"><i class="fa fa-envelope"></i>email@example.com</a>
-              	</span>
-                <span class="right hidden-sm-down">                          
-                  {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-facebook"></i></a>{% endif %}
-                  {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-                  {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/"><i class="fa fa-linkedin"></i></a>{% endif %}
-                  {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-instagram"></i></a>{% endif %}                            
-              	</span>
-              </p>
-            </div>-->
-
-            <!-- navbar-default -->
-<nav class="navbar navbar-toggleable-sm navbar-light bg-black">
+<nav class="navbar navbar-toggleable-sm navbar-light bg-white">
               <div class="container">
-                <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/logo-2.png" alt=""></a>
+                <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar4" aria-expanded="false" aria-label="Toggle navigation">
                   <i class="fa fa-bars"></i>
                 </button>
@@ -26,22 +9,20 @@
                     <li class="nav-item">
                       <a class="nav-link" href="index.html">MOREL</a>
                     </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="about.html">PARTICIPAR</a>
-                    </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">OBRAS</a>
                       <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">No ficci&oacute;n</a>
-                        <a class="dropdown-item" href="#">Ficci&oacute;n</a>
-                        <a class="dropdown-item" href="#">Poesía</a>
+                        <a class="dropdown-item" href="autores.html">Por autor</a>
+                        <a class="dropdown-item" href="generos.html">Por género</a>
                       </div>
                     </li>
+                    <li class="nav-item">
+                      <a class="nav-link hidden-md-up" href="search.html">BUSCADOR</a>
+                    </li>
                   </ul>
-                  <form class="form-inline hidden-sm-down">
+                  <form class="form-inline hidden-sm-down" action="/search.html" method="get">
                     <div class="top_search_con">
-                      <input class="form-control mr-sm-2" placeholder="Search Here ..." type="text">
-                      <span class="top_search_icon"><i class="fa fa-search"></i></span>
+                      <input class="form-control mr-sm-2" placeholder="busca aquí ..." type="text" style="color:var(--color-1);" id="search-box" name="query">
                     </div>
                   </form>
                 </div>

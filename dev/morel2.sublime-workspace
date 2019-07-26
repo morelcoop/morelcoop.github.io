@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"se",
+				"search-box"
+			],
+			[
+				"AGROI",
+				"agroindustriales"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/febres/Documentos/morel/_includes/themes/bootstrap/nav-bar.html",
+			"settings":
+			{
+				"buffer_size": 3037,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/febres/Documentos/morel/_includes/themes/bootstrap/footer.html",
+			"settings":
+			{
+				"buffer_size": 1284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/febres/Documentos/morel/_config.yml",
+			"settings":
+			{
+				"buffer_size": 5038,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/febres/Documentos/morel/_layouts/blog.html",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/febres/Documentos/morel/index.html",
+			"settings":
+			{
+				"buffer_size": 2701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/febres/Documentos/morel/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 78377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/febres/Documentos/morel",
+		"/home/febres/Documentos/morel/_includes",
+		"/home/febres/Documentos/morel/_includes/themes",
+		"/home/febres/Documentos/morel/_includes/themes/bootstrap",
+		"/home/febres/Documentos/morel/_layouts",
+		"/home/febres/Documentos/morel/_plugins",
+		"/home/febres/Documentos/morel/assets",
+		"/home/febres/Documentos/morel/assets/css",
+		"/home/febres/Documentos/litven_1"
+	],
+	"file_history":
+	[
+		"/home/febres/Documentos/morel/_includes/themes/bootstrap/page.html",
+		"/home/febres/Documentos/morel/search.html",
+		"/home/febres/Documentos/morel/_includes/themes/bootstrap/post.html",
+		"/home/febres/Documentos/morel/assets/css/main.css",
+		"/home/febres/Documentos/morel/assets/js/search.js",
+		"/home/febres/Documentos/morel/index.html",
+		"/home/febres/Documentos/morel/_config.yml",
+		"/home/febres/Documentos/litven_1/main.css",
+		"/home/febres/Documentos/morel/assets/js/lunr.min.js",
+		"/home/febres/Documentos/morel/_includes/themes/bootstrap/nav-bar.html",
+		"/home/febres/Documentos/morel/about-sample.html",
+		"/home/febres/Documentos/morel/blog-sample.html",
+		"/home/febres/Documentos/morel/blog.html",
+		"/home/febres/Documentos/morel/buttons.html",
+		"/home/febres/Documentos/morel/cards.html",
+		"/home/febres/Documentos/morel/components.html",
+		"/home/febres/Documentos/morel/contact.html",
+		"/home/febres/Documentos/morel/features.html",
+		"/home/febres/Documentos/morel/footers.html",
+		"/home/febres/Documentos/morel/headers.html",
+		"/home/febres/Documentos/morel/index__.html",
+		"/home/febres/Documentos/morel/labels-alerts.html",
+		"/home/febres/Documentos/morel/list.html",
+		"/home/febres/Documentos/morel/maps.html",
+		"/home/febres/Documentos/morel/navigations.html",
+		"/home/febres/Documentos/morel/portfolio.html",
+		"/home/febres/Documentos/morel/pricing.html",
+		"/home/febres/Documentos/morel/progress-bars.html",
+		"/home/febres/Documentos/morel/services.html",
+		"/home/febres/Documentos/morel/sliders.html",
+		"/home/febres/Documentos/morel/tables.html",
+		"/home/febres/Documentos/morel/tabs-accordions.html",
+		"/home/febres/Documentos/morel/typography.html",
+		"/home/febres/Documentos/morel/_site/about-sample.html",
+		"/home/febres/Documentos/morel/_site/blog-sample.html",
+		"/home/febres/Documentos/morel/_site/blog.html",
+		"/home/febres/Documentos/morel/_site/buttons.html",
+		"/home/febres/Documentos/morel/_site/cards.html",
+		"/home/febres/Documentos/morel/_site/components.html",
+		"/home/febres/Documentos/morel/_site/contact.html",
+		"/home/febres/Documentos/morel/_site/features.html",
+		"/home/febres/Documentos/morel/_site/footers.html",
+		"/home/febres/Documentos/morel/_site/headers.html",
+		"/home/febres/Documentos/morel/_site/index__.html",
+		"/home/febres/Documentos/morel/_site/labels-alerts.html",
+		"/home/febres/Documentos/morel/_site/list.html",
+		"/home/febres/Documentos/morel/_site/maps.html",
+		"/home/febres/Documentos/morel/_site/navigations.html",
+		"/home/febres/Documentos/morel/_site/portfolio.html",
+		"/home/febres/Documentos/morel/_site/pricing.html",
+		"/home/febres/Documentos/morel/_site/progress-bars.html",
+		"/home/febres/Documentos/morel/_site/services.html",
+		"/home/febres/Documentos/morel/_site/sliders.html",
+		"/home/febres/Documentos/morel/_site/tables.html",
+		"/home/febres/Documentos/morel/_site/tabs-accordions.html",
+		"/home/febres/Documentos/morel/_site/typography.html",
+		"/home/febres/Documentos/litven_1/cartas.html",
+		"/home/febres/Documentos/morel/_layouts/post.html",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-cartas-de-la-parra.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-ifigenia.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-mascara-heroica.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-memorias-decadencia-1.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-torre-timon.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-viaje-regiones-1.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-viaje-regiones-3.md",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-maria-despotismo.md",
+		"/home/febres/Documentos/morel/_site/index.html",
+		"/home/febres/Documentos/morel/_site/alejandro de humboldt/aimé bonpland/lisandro alvarado/2019/07/23/viaje-regiones-1.html",
+		"/home/febres/Documentos/morel/_site/alejandro de humboldt/aimé bonplandt/lisandro alvarado/2019/07/23/viaje-regiones-3.html",
+		"/home/febres/Documentos/morel/_site/josé antonio ramos sucre/2019/07/23/torre-timon.html",
+		"/home/febres/Documentos/morel/_site/jósé rafael pocaterra/2019/07/23/memorias-decadencia-1.html",
+		"/home/febres/Documentos/morel/_site/rufino blanco fombona/2019/07/23/mascara-heroica.html",
+		"/home/febres/Documentos/morel/_site/teresa de la parra/2019/07/23/cartas-de-la-parra.html",
+		"/home/febres/Documentos/morel/_site/teresa de la parra/2019/07/23/ifigenia.html",
+		"/home/febres/Documentos/morel/_posts/2017-01-01-historia-indias-1.md",
+		"/home/febres/Documentos/morel/_posts/2017-01-01-obras-completas-1-filosofia-ent.md",
+		"/home/febres/Documentos/morel/_posts/2017-01-01-historia-conquista-pob-1.md",
+		"/home/febres/Documentos/febres/content/post/jalabolismo.md",
+		"/home/febres/Documentos/litven/one-click-hugo-cms/site/layouts/partials/newsletter-form.html",
+		"/home/febres/Documentos/litven/one-click-hugo-cms/site/layouts/partials/footer.html",
+		"/home/febres/Documentos/litven/one-click-hugo-cms/src/css/imports/_typography.css",
+		"/home/febres/Documentos/litven/one-click-hugo-cms/src/css/imports/_variables.css",
+		"/home/febres/Documentos/febres/content/post/2018-08-31-katia.md",
+		"/home/febres/Documentos/febres/content/hello.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-26-michael-schumager.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-10-trauma-contarlo.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-31-dignidad-trauma.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-06-trauma-juicio-publico.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-02-trauma-pn.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-30-para-joven-escritor.md",
+		"/home/febres/Documentos/febres/content/post/hello.md",
+		"/home/febres/Documentos/marianny/config.toml",
+		"/home/febres/Documentos/febres/config.toml",
+		"/home/febres/Documentos/febres/content/post/ego-inflado.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-27-cayo-muerto.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-25-abuelo-alcoholico.md",
+		"/home/febres/Documentos/marianny/netlify.toml",
+		"/home/febres/Documentos/marianny/content/posts/editatona-por-las-mujeres.md",
+		"/home/febres/Descargas/Wikipedia.svg",
+		"/home/febres/Documentos/marianny/layouts/partials/svg.html",
+		"/home/febres/Documentos/marianny/themes/hermit/layouts/partials/svg.html",
+		"/home/febres/Documentos/stream-ui-kit/productos.html",
+		"/home/febres/Documentos/stream-ui-kit/nosotros.html",
+		"/home/febres/Documentos/stream-ui-kit/assets/vendors/font-awesome-5/css/fontawesome-all.min.css",
+		"/home/febres/Documentos/stream-ui-kit/package-lock.json",
+		"/home/febres/Documentos/stream-ui-kit/gulpfile.js",
+		"/home/febres/Documentos/stream-ui-kit/assets/css/min.styles.css",
+		"/home/febres/Documentos/stream-ui-kit/assets/css/styles.css",
+		"/home/febres/Documentos/stream-ui-kit/assets/include/scss/blocks/globals/_globals.scss",
+		"/home/febres/Documentos/stream-ui-kit/assets/vendors/typedjs/typed.css",
+		"/home/febres/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/febres/Documentos/stream-ui-kit/home-page.html",
+		"/home/febres/Documentos/heliumjk.github.io/about.html",
+		"/home/febres/Documentos/heliumjk.github.io/_config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-01-20-el-habla-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-05-12-taller-practico-meditacion.md",
+		"/home/febres/Documentos/beautiful-jekyll/_config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/admin/config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/index.html",
+		"/home/febres/Documentos/beautiful-jekyll/_includes/head.html",
+		"/home/febres/Documentos/beautiful-jekyll/admin/index.html",
+		"/home/febres/Documentos/beautiful-jekyll/retiros.html",
+		"/home/febres/Documentos/beautiful-jekyll/practicas.html",
+		"/home/febres/Documentos/beautiful-jekyll/talleres.html",
+		"/home/febres/Documentos/beautiful-jekyll/ensenanzas.html",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-12-zen-y-budismo-zen.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-16-concentracion-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-30-la-vision-correcta.md"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"/home/febres/Documentos/beautiful-jekyll/_posts",
+			"<open folders>,-/home/febres/Documentos/beautiful-jekyll/_site",
+			"<open folders>,-/home/febres/Documentos/beautiful-jekyll/_posts",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"default-foot",
+			"shado",
+			"drop",
+			"navbar",
+			"-lg",
+			"-lg-",
+			"-l-",
+			"body {",
+			"info",
+			"morel",
+			"stron",
+			"body {",
+			"body",
+			"button",
+			"form-inline",
+			"input",
+			"submit",
+			"input",
+			"submit",
+			"nav-link",
+			"bg-",
+			"https://heliumjk.github.io",
+			"helium",
+			"NAV",
+			"button {",
+			"button",
+			"butto",
+			"body ",
+			"body",
+			"morel",
+			"famil",
+			"descarga: http://literaturavenezolana.xyz/morel/default/files",
+			"descarga: http://literaturavenezolana.xyz/sites/",
+			"descarga: https://www.literaturavenezolana.xyz/sites",
+			"descarga: http://www.literaturavenezolana.xyz/sites",
+			"descarga:",
+			"descarga",
+			"literaturavenezolana.info",
+			"download",
+			"eye",
+			"ima",
+			"img",
+			"logo.svg",
+			"dict",
+			"ocupaado",
+			"febres",
+			"2019",
+			"cop",
+			"posts",
+			"font",
+			"width",
+			"githu",
+			"hugo hermit",
+			"huho hermit",
+			"agríco",
+			"nosotros",
+			"fas",
+			"headset",
+			"head",
+			"qué quere",
+			"cómo",
+			"h2",
+			"h3",
+			"cursor",
+			"servicio",
+			"calidad",
+			"innovative",
+			"creative",
+			"back to ui",
+			"stream",
+			"doesn't",
+			"publicado el",
+			"older posts",
+			"older",
+			"tags",
+			"posted on",
+			"public",
+			"publi",
+			"categories",
+			"posted",
+			"posted on",
+			"posted",
+			"next",
+			"previous post",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://morelcoop.github.io",
+			"descarga: http://literaturavenezolana.xyz/morel/sites/default/files",
+			"descarga: http://literaturavenezolana.xyz/morel/",
+			"literaturavenezolana.xyz",
+			"tags"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/febres/Documentos/morel/_includes/themes/bootstrap/nav-bar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2973,
+								2973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/febres/Documentos/morel/_includes/themes/bootstrap/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/febres/Documentos/morel/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/febres/Documentos/morel/_layouts/blog.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/febres/Documentos/morel/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2639,
+								2639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 906.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/febres/Documentos/morel/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8350,
+								8350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 35.0,
+						"translation.y": 9464.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "morel2.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/heliumjk.github.io/morel2.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 461.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

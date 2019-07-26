@@ -10,6 +10,7 @@ repositorio: Biblioteca Ayacucho
 repurl: 
 img: http://www.literaturavenezolana.xyz/morel/sites/default/files/portada/Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1_literatura_venezolana.jpg
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1_literatura_venezolana.pdf
+tag: "No ficcion"
 ---
 {% include JB/setup %}
 

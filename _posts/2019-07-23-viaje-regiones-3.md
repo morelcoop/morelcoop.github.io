@@ -13,6 +13,7 @@ repositorio: "Biblioteca Digital de Venezuela"
 repurl: 
 img: http://www.literaturavenezolana.xyz/img/libro-5.jpg
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Alejandro_Humbolt_viaje_a_las_regiones_equinocciales_tomo_1.pdf
+tag: ["No ficcion", "Ensayo"]
 ---
 {% include JB/setup %}
 

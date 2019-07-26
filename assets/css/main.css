@@ -44,6 +44,11 @@ h6 {
     font-size: 16px
 }
 
+a.morel {
+  color: var(--color-1);
+  font-weight: 500;
+  transition: all 1s ease; }
+
 a {
     color: #EB586F;
     -moz-transition: .2s ease-in;
@@ -54,6 +59,10 @@ a {
     letter-spacing: 0px;
     outline: 0 !important
 }
+
+a.morel:hover, a.morel:active, a.morel:focus {
+  color: var(--color-2);
+  cursor: pointer; }
 
 a:hover,
 a:active,
@@ -297,7 +306,12 @@ strong {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #fff
+    color: #fff;
+    transition: all 1s ease; }
+}
+
+.nav-link.morel {
+    font-size: 1.3rem;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
@@ -385,7 +399,7 @@ strong {
 .hero-content-v2 h3 strong {
     display: block;
     font-size: 48px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 62px;
     margin-bottom: 25px
 }
@@ -531,9 +545,10 @@ footer #copyright .nav-inline {
 }
 
 .default-footer {
-    background: #232935;
+    background: var(--background);
     padding-bottom: 100px;
-    padding-top: 100px
+    padding-top: 100px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.12), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
 .copy-right {
@@ -1137,10 +1152,17 @@ footer .menu li a:hover {
 
 .bg-black {
     background-color: #333
+
 }
 
-.bg-black .navbar-nav .nav-link {
-    color: #fff
+.bg-white {
+    background-color: var(--background);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.12), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+}
+
+.bg-white .navbar-nav .nav-link {
+    color: var(--color-1);
 }
 
 .navbar-fixed-top {
@@ -1161,7 +1183,7 @@ footer .menu li a:hover {
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-toggler {
-    color: #EB586F !important
+    color: var(--color-1) !important
 }
 
 .navbar-toggle .icon-bar {
@@ -1195,25 +1217,24 @@ footer .menu li a:hover {
 
 .dropdown-item:focus,
 .dropdown-item:hover {
-    background: #EB586F;
-    color: #fff
+    background: var(--color-2);
+    color: var(--background)
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #EB586F
+    color: var(--color-2)
 }
 
 .navbar-nav .nav-link {
     color: #fff;
-    font-size: 14px;
     margin-right: 18px;
-    font-weight: 400;
+    font-weight: 500;
     padding: 18px 0px
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #EB586F
+    color: var(--color-2)
 }
 
 .navbar-light .navbar-nav .nav-link:hover:focus {
@@ -1253,7 +1274,7 @@ footer .menu li a:hover {
     border-radius: 50px;
     min-height: 42px;
     padding: 7px 20px;
-    background: transparent
+    background-color: white;
 }
 
 .top_search_icon {
@@ -1392,7 +1413,6 @@ footer .menu li a:hover {
     border-radius: 50px;
     min-height: 42px;
     padding: 7px 20px;
-    background: transparent
 }
 
 .top-menu {
@@ -1835,9 +1855,10 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .info {
-    background: #F6F6F6;
+    background: var(--fondo);
     padding: 15px 0 10px;
-    text-align: center
+    text-align: center;
+    margin-bottom: 25px;
 }
 
 .info h2 {
@@ -3044,7 +3065,7 @@ address i {
 .form-control {
     color: #444;
     background: #f7f7f7;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 0px;
     border: 1px solid #ddd;
     border-radius: 0;
@@ -3331,7 +3352,9 @@ address i {
     background-color: #ec7160;
     border: 2px solid #ec7160
 }
-
+.nav-pills {
+    display: inline-block;
+}
 .nav-pills>li.active>a,
 .nav-pills>li.active>a:focus,
 .nav-pills>li.active>a:hover {
@@ -3340,8 +3363,8 @@ address i {
 }
 
 .nav-pills>li>a:hover {
-    color: #fff;
-    background-color: #EB586F
+    color: var(--background);
+    background-color: var(--color-2)
 }
 
 .nav-pills>li>a {
@@ -3351,8 +3374,8 @@ address i {
 }
 
 .badge {
-    color: #fff;
-    background-color: #EB586F;
+    color: var(--background);
+    background-color: var(--color-2);
     font-size: 10px;
     font-weight: 400;
     border-radius: 5px;
@@ -4519,7 +4542,8 @@ body {
   font-family: 'Kanit', "Lucida Console", Monaco, monospace;
   line-height: 2em;
   font-size: 1em; 
-    letter-spacing: 0px
+    letter-spacing: 0px;
+    background-color: var(--background);
 }
 
 html,

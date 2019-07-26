@@ -15,19 +15,16 @@ tagline: libros gratis de dominio público
             </div>
             <!-- Books row 02 -->
             <div class="team-members mtb-50">
-              <div class="sub-title">
-                <span>&uacute;ltimas disponibles</span>
-              </div>
               <div class="row">
                 {% for post in site.posts %}
-                <div class="col-sm-6 col-md-3">
+                <div class="col-sm-6 col-md-4 col-lg-3">
                   <!-- Team Item Starts -->
                   <div class="team-item">
                     <figure class="team-profile">
                       <img src="{{ post.img }}" alt="">
                       <figcaption class="our-team">
                         <div class="details">
-                          <p class="content-white">Edición publicada en {{ post.ciudad }} por {{ post.editorial }} en {{ post.edicion }} {% if post.year %}. Publicada por primera vez en {{ post.year }}. {% endif %}</p>
+                          <p class="content-white">Edición publicada en {{ post.ciudad }} por {{ post.editorial }} en {{ post.edicion }}</p>
                           <hr class="small-divider border-white">
                           <div class="social">
                             <a class="facebook" href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-eye"></i></a>
@@ -60,4 +57,4 @@ tagline: libros gratis de dominio público
       </div>
     </div>
     <!-- Content Area End -->
-    <div class="text-center">Love this UI Kit? Get more Free and Premium <a href="https://uideck.com/products/category/ui-kits/">Bootstrap UI Kits</a> </div>
+    <div class="text-center">¿Quieres una librería digital como esta? <a href="https://github.com/morelcoop/morelcoop.github.io" class="morel">Forkea nuestro repositorio</a> o <a class="morel" href="mailto:proyectomorel@gmail.com">contáctanos</a></div>
