@@ -6,7 +6,7 @@ ciudad:  Santiago de Chile
 edicion: 1883
 year: 1883
 categories: 
--Andrés Bello
+- Andrés Bello
 repositorio: 
 repurl: 
 img: Andrés_Bello-obras_completas_tomo_3_poesias-MOREL.jpg

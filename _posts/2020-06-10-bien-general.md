@@ -1,12 +1,12 @@
 ---
-title: Telmo A. Romero
+title: El bien general
 layout: post
 editorial: Imprenta de la Nación
 ciudad:  Caracas
 edicion: 1884
 year: 1884
 categories: 
--Ensayo
+- Telmo A. Romero
 repositorio: Biblioteca Nacional Digital
 repurl: [repurl]
 img: el_bien_general-Telmo_Romero-MOREL.jpg

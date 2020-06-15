@@ -3,14 +3,14 @@ title: Memorias de Mama Blanca
 layout: post
 editorial: Ministerio de Educación Nacional de Venezuela
 ciudad:  Buenos Aires
-edicion: 
-year: 1945
+edicion: 1945
+year: 
 categories: 
--Teresa de la Parra
+- Teresa de la Parra
 repositorio: Biblioteca Nacional Digital
-repurl: [url BNV]
+repurl: http://bibliotecadigital.bnv.gob.ve/
 img: memorias_de_mama_blanca-teresa_de_la_parra-MOREL.jpg
-descarga: [file url]
+descarga: https://ia601403.us.archive.org/17/items/memorias_de_mama_blanca_teresa_de_la_parra/memorias_de_mama_blanca_teresa_de_la_parra.pdf
 tag: ["ficción"]
 ---
 {% include JB/setup %}

@@ -6,7 +6,7 @@ ciudad: Caracas
 edicion: 2006
 year: 
 categories: 
--José Carlos Mariátegui
+- José Carlos Mariátegui
 repositorio: Biblioteca Ayacucho Digital
 repurl: [ayacucho url]
 img: Jose-Carlos-Mariátegui_Literatura y estética_MOREL.jpg

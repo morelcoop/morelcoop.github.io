@@ -6,8 +6,8 @@ ciudad:  México
 edicion: 
 year: 1919
 categories: 
--Emiliano Zapata
--Atenor Sala
+- Emiliano Zapata
+- Atenor Sala
 repositorio: The Internet Archive
 repurl: http://archive.org
 img: Plan_de_Ayala-Emiliano_Zapata-MOREL.jpg

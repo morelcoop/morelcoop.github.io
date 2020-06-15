@@ -6,9 +6,9 @@ ciudad:  Madrid
 edicion: 
 year: 1918
 categories: 
--Rafael Bolívar Coronado
--Maestre Juan de Ocampo
--Fray Nemesio de la Concepción Zapata
+- Rafael Bolívar Coronado
+- Maestre Juan de Ocampo
+- Fray Nemesio de la Concepción Zapata
 repositorio: [repository]
 repurl: [repurl]
 img: Los_caciques_heroicos-Bolivar_Coronado-MOREL.jpg

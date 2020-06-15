@@ -6,7 +6,7 @@ ciudad:  Madrid
 edicion: 
 year: 1919
 categories: 
--Daniel F. O'Leary
+- Daniel F. O'Leary
 repositorio: [rep]
 repurl: [repurl]
 img: Daniel_O'Leary-gran-colombia_y_espana_1819_1822.jpg

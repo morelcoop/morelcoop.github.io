@@ -6,7 +6,7 @@ ciudad:  Buenos Aires
 edicion: 1918
 year: 1918
 categories: 
--Alfonsina Storni
+- Alfonsina Storni
 repositorio: Wikimedia Commons
 repurl: [commons url]
 img: El_Dulce_Daño-Alfonsina_Storni_MOREL.jpg

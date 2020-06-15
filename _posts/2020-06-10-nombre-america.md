@@ -6,7 +6,7 @@ ciudad:  Mérida, Venezuela
 edicion: 1892
 year: 1892
 categories: 
--Ensayo
+- Ensayo
 repositorio: Biblioteca Nacional Digital
 repurl:"[repurl]"
 img: Tulio_Febres_Cordero-El_nombre_de_America-MOREL.jpg

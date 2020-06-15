@@ -6,9 +6,9 @@ ciudad:  Bogotá
 edicion: 1626
 year: 1882
 categories: 
--Fray Pedro Simón
+- Fray Pedro Simón
 repositorio: Biblioteca de la Universidad de California
-repurl: 
+repurl: https://libraries.universityofcalifornia.edu/
 img: Noticias_historiales-Fray_Pedro_Simon-MOREL.jpg
 descarga: 
 tag: ["no ficción"]
