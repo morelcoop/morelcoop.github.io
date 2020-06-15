@@ -14,7 +14,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+      searchResults.innerHTML = '<li>Aún no disponible. <a href="mailto:proyectomorel@gmail.com">Sugiere su incorporación</a></li>';
     }
   }
 

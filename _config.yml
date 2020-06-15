@@ -37,7 +37,7 @@ author :
   pinterest: 
   feedburner : 
 
-twitter_username: literaturavenezolana
+twitter_username: morelcoop
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -48,8 +48,12 @@ twitter_username: literaturavenezolana
 #
 production_url :
 
+#Collections
+collections:
+  products:
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
+
 JB :
   version : 0.3.0
 
@@ -96,6 +100,7 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
 
+  
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.

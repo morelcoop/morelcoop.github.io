@@ -4,6 +4,7 @@ title: Literatura venezolana
 tagline: libros gratis de dominio público
 ---
 {% include JB/setup %}
+
     <!-- Content Area Start -->
     <div id="content">
       <div class="container">
@@ -21,7 +22,7 @@ tagline: libros gratis de dominio público
                   <!-- Team Item Starts -->
                   <div class="team-item">
                     <figure class="team-profile">
-                      <img src="{{ post.img }}" alt="">
+                      <img src="{{ post.img }}" alt="{{ post.title }}">
                       <figcaption class="our-team">
                         <div class="details">
                           <p class="content-white">Edición publicada en {{ post.ciudad }} por {{ post.editorial }} en {{ post.edicion }}</p>
@@ -40,7 +41,7 @@ tagline: libros gratis de dominio público
                       <p>
                       {% assign categories = post.categories %}
                       {% for category in categories %}
-                      <!--a href="{{site.baseurl}}/categories/#{{category|slugize}}"-->{{category}}<!--/a-->
+                      {{category}}
                       {% unless forloop.last %}&nbsp;{% endunless %}
                       {% endfor %}
                       </p>
@@ -58,3 +59,4 @@ tagline: libros gratis de dominio público
     </div>
     <!-- Content Area End -->
     <div class="text-center">¿Quieres una librería digital como esta? <a href="https://github.com/morelcoop/morelcoop.github.io" class="morel">Forkea nuestro repositorio</a> o <a class="morel" href="mailto:proyectomorel@gmail.com">contáctanos</a></div>
+

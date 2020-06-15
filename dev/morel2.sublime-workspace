@@ -35,6 +35,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/febres/Documentos/morel/_products/plantilla.md",
+			"settings":
+			{
+				"buffer_size": 217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -77,20 +86,23 @@
 	"expanded_folders":
 	[
 		"/home/febres/Documentos/morel",
-		"/home/febres/Documentos/morel/_includes",
-		"/home/febres/Documentos/morel/_includes/themes",
-		"/home/febres/Documentos/morel/_includes/themes/bootstrap",
-		"/home/febres/Documentos/morel/_layouts",
-		"/home/febres/Documentos/morel/dev",
-		"/home/febres/Documentos/morel/dev/sample pages",
+		"/home/febres/Documentos/morel/_products",
 		"/home/febres/Documentos/litven_1"
 	],
 	"file_history":
 	[
+		"/home/febres/Documentos/morel/_products/uno.md",
+		"/home/febres/Documentos/morel/_config.yml",
+		"/home/febres/Documentos/morel/_products/2017-01-01-historia-indias-1.md",
+		"/home/febres/Documentos/morel/autores2.html",
+		"/home/febres/Documentos/morel/index.html",
+		"/home/febres/Documentos/morel/products.html",
+		"/home/febres/Documentos/morel/assets/js/search.js",
+		"/home/febres/Documentos/morel/_includes/themes/bootstrap/default.html",
+		"/home/febres/Documentos/morel/_posts/2019-07-23-viaje-regiones-2.md",
 		"/home/febres/Documentos/morel/404.html",
 		"/home/febres/Documentos/morel/_includes/themes/bootstrap/post.html",
 		"/home/febres/Documentos/morel/autores.html",
-		"/home/febres/Documentos/morel/_posts/2019-07-23-viaje-regiones-2.md",
 		"/home/febres/Documentos/morel/_includes/side-bar.html",
 		"/home/febres/Documentos/morel/assets/css/main.css",
 		"/home/febres/Documentos/morel/assets/css/bootstrap.min.css",
@@ -98,7 +110,6 @@
 		"/home/febres/Documentos/morel/generos.html",
 		"/home/febres/Documentos/morel/_includes/JB/pages_list",
 		"/home/febres/Documentos/morel/_includes/JB/tags_list",
-		"/home/febres/Documentos/morel/index.html",
 		"/home/febres/Documentos/morel/_includes/themes/bootstrap/blog.html",
 		"/home/febres/Documentos/morel/_posts/2017-01-01-historia-conquista-pob-1.md",
 		"/home/febres/Documentos/morel/_posts/2017-01-01-historia-indias-1.md",
@@ -112,12 +123,10 @@
 		"/home/febres/Documentos/morel/_posts/2019-07-23-maria-despotismo.md",
 		"/home/febres/Documentos/morel/_posts/2019-07-23-cartas-de-la-parra.md",
 		"/home/febres/Documentos/morel/_posts/2017-01-01-obras-completas-1-filosofia-ent.md",
-		"/home/febres/Documentos/morel/_config.yml",
 		"/home/febres/Documentos/morel/_includes/themes/bootstrap/footer.html",
 		"/home/febres/Documentos/litven_1/main.css",
 		"/home/febres/Documentos/marianny/config.toml",
 		"/home/febres/Documentos/morel/_includes/themes/bootstrap/page.html",
-		"/home/febres/Documentos/morel/assets/js/search.js",
 		"/home/febres/Documentos/morel/assets/js/lunr.min.js",
 		"/home/febres/Documentos/morel/about-sample.html",
 		"/home/febres/Documentos/morel/blog-sample.html",
@@ -209,12 +218,7 @@
 		"/home/febres/Documentos/stream-ui-kit/assets/vendors/typedjs/typed.css",
 		"/home/febres/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/home/febres/Documentos/stream-ui-kit/home-page.html",
-		"/home/febres/Documentos/heliumjk.github.io/about.html",
-		"/home/febres/Documentos/heliumjk.github.io/_config.yml",
-		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-01-20-el-habla-correcta.md",
-		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-05-12-taller-practico-meditacion.md",
-		"/home/febres/Documentos/beautiful-jekyll/_config.yml",
-		"/home/febres/Documentos/beautiful-jekyll/admin/config.yml"
+		"/home/febres/Documentos/heliumjk.github.io/about.html"
 	],
 	"find":
 	{
@@ -238,6 +242,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"no results",
 			"cover.css",
 			"maps",
 			"576px",
@@ -375,8 +380,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/febres/Documentos/morel/_products/plantilla.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -439,7 +473,7 @@
 		[
 			[
 				"",
-				"~/Documentos/heliumjk.github.io/morel2.sublime-workspace"
+				"~/Documentos/febres/conpulsi0n.sublime-project"
 			]
 		],
 		"width": 380.0

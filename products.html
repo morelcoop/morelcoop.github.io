@@ -1,0 +1,62 @@
+---
+layout: index
+title: Literatura venezolana
+tagline: libros gratis de dominio público
+---
+{% include JB/setup %}
+
+    <!-- Content Area Start -->
+    <div id="content">
+      <div class="container">
+        <!-- row start -->
+        <div class="row">
+          <div class="col-md-12">
+            <div class="page-header-title">
+              <h2 class="heading-title text-center">Descargas gratuitas</h2>
+            </div>
+            <!-- Books row 02 -->
+            <div class="team-members mtb-50">
+              <div class="row">
+                {% for product in site.products %}
+                 <div class="col-sm-6 col-md-4 col-lg-3">
+                  <!-- Team Item Starts -->
+                  <div class="team-item">
+                    <figure class="team-profile">
+                      <img src="{{ product.img }}" alt="">
+                      <figcaption class="our-team">
+                        <div class="details">
+                          <p class="content-white">Afiche enmarcado de grabado de posadas</p>
+                          <hr class="small-divider border-white">
+                          <div class="social">
+                            <a class="facebook" href="{{ BASE_PATH }}{{ product.url }}"><i class="fa fa-eye"></i></a>
+                            <a class="twitter" href="{{ product.descarga }}"><i class="fa fa-shopping-cart"></i></a>
+                          </div>
+                        </div>
+                      </figcaption>
+                    </figure>
+                    <div class="info">
+                      <h2>
+                        {{ product.price }}
+                      </h2>
+                      <p>
+                      {% assign categories = product.categories %}
+                      {% for category in categories %}
+                      {{category}}
+                      {% unless forloop.last %}&nbsp;{% endunless %}
+                      {% endfor %}
+                      </p>
+                    </div>
+                  </div>
+                  <!-- Team Item Ends -->
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+            <!-- End Books row 02 -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Content Area End -->
+    <div class="text-center">¿Quieres una librería digital como esta? <a href="https://github.com/morelcoop/morelcoop.github.io" class="morel">Forkea nuestro repositorio</a> o <a class="morel" href="mailto:proyectomorel@gmail.com">contáctanos</a></div>
+

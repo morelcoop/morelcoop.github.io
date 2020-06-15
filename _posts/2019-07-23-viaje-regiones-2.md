@@ -3,7 +3,7 @@ title: "Viaje a las regiones equinocciales del nuevo continente, tomo II"
 layout: post
 editorial: "Biblioteca Venezolana de Cultura"
 ciudad:  Caracas
-edicion: 
+edicion: 1941
 year: 
 categories: 
 - Alejandro de Humboldt
