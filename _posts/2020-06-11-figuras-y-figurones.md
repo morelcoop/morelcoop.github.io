@@ -1,17 +1,18 @@
 ---
-title: 
+title: Figuras y figurones
 layout: post
-editorial: 
-ciudad:  
-edicion: 
-year: 
-categories: 
--
-repositorio:
-repurl: 
-img: 
-descarga: 
-tag: ["", ""]
+editorial: Tipografía de Louis Bellenand et Fills
+ciudad:  Paris
+edicion: 1938
+year: 1938
+categories:
+- Manuel González Prada
+- Rufino Blanco-Fombona 
+repositorio: Cervantes Virtual
+repurl: http://www.cervantesvirtual.com
+img: Manuel_Gonzalez_Prada-Figuras_y_figurones-MOREL.jpg
+descarga: http://www.cervantesvirtual.com/descargaPdf/figuras-y-figurones-manuel-pardo-pierola-romana-jose-pardo/
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

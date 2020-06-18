@@ -11,7 +11,7 @@ repositorio: Biblioteca Nacional Digital
 repurl: http://bibliotecadigital.bnv.gob.ve/
 img: memorias_de_mama_blanca-teresa_de_la_parra-MOREL.jpg
 descarga: https://ia601403.us.archive.org/17/items/memorias_de_mama_blanca_teresa_de_la_parra/memorias_de_mama_blanca_teresa_de_la_parra.pdf
-tag: ["ficción"]
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

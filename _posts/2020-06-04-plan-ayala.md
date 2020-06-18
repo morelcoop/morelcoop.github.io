@@ -12,7 +12,7 @@ repositorio: The Internet Archive
 repurl: http://archive.org
 img: Plan_de_Ayala-Emiliano_Zapata-MOREL.jpg
 descarga: [download URL]
-tag: ["ensayo"]
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

@@ -8,9 +8,9 @@ year:
 category: "Andrés Bello"
 repositorio: "Biblioteca Virtual Miguel de Cervantes"
 repurl: 
-img: http://www.literaturavenezolana.xyz/img/libro-7.jpg
+img: 
 descarga: http://www.literaturavenezolana.xyz/descargas/Andr%C3%A9s_Bello_obras_completas_tomo_1_filosofia_del_entendimiento.pdf
-tag: "Ensayo"
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 

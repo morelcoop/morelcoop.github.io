@@ -11,7 +11,7 @@ repositorio:
 repurl: 
 img: Andrés_Bello-obras_completas_tomo_3_poesias-MOREL.jpg
 descarga: [PDF URL]
-tag: ["poesía"]
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 

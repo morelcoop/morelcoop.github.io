@@ -6,11 +6,11 @@ ciudad:  Caracas
 edicion: 1990
 year: 
 category : "Jósé Rafael Pocaterra"
-repositorio: Biblioteca Ayacucho
+repositorio: Biblioteca Ayacucho Digital
 repurl: 
-img: http://www.literaturavenezolana.xyz/morel/sites/default/files/portada/Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1_literatura_venezolana.jpg
+img: 
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1_literatura_venezolana.pdf
-tag: "No ficcion"
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

@@ -8,9 +8,9 @@ year:
 category: "Bartolomé de Las Casas"
 repositorio: "Proyecto Gutenberg"
 repurl: 
-img: http://www.literaturavenezolana.xyz/img/Bartolome_de_las_casas_historias_de_las_indias_tomo_1_literatura_venezolana%7CMOREL.png
-descarga: http://www.literaturavenezolana.xyz/morel/sites/default/files/descargas/Bartolome_de_las_casas_historias_de_las_indias_tomo_1_literatura_venezolana.pdf
-tag: "No ficcion"
+img:
+descarga: 
+tag: "Colonial"
 ---
 {% include JB/setup %}
 

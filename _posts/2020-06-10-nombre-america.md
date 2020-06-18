@@ -11,7 +11,7 @@ repositorio: Biblioteca Nacional Digital
 repurl:"[repurl]"
 img: Tulio_Febres_Cordero-El_nombre_de_America-MOREL.jpg
 descarga: [fileurl]
-tag: ["", ""]
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 

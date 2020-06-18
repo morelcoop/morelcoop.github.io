@@ -11,7 +11,7 @@ repositorio: [rep]
 repurl: [repurl]
 img: Daniel_O'Leary-gran-colombia_y_espana_1819_1822.jpg
 descarga: [descurl] 
-tag: ["no ficción"]
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 

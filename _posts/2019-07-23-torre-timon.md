@@ -8,9 +8,9 @@ year: 1925
 category : "José Antonio Ramos Sucre"
 repositorio: Biblioteca Digital Hispánica
 repurl: 
-img: http://www.literaturavenezolana.xyz/morel/sites/default/files/styles/portada_monocroma/public/2018-08/jose_antonio_ramos_sucre_la_torre_de_timon_literatura_venezolana.jpg?itok=bunEHQ8T
+img: 
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/jose_antonio_ramos_sucre_la_torre_de_timon_literatura_venezolana.pdf
-tag: Poesía
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

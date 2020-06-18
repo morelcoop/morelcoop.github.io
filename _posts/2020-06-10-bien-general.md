@@ -11,7 +11,7 @@ repositorio: Biblioteca Nacional Digital
 repurl: [repurl]
 img: el_bien_general-Telmo_Romero-MOREL.jpg
 descarga: [descurl]
-tag: ["", ""]
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 

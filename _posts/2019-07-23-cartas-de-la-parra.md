@@ -6,11 +6,11 @@ ciudad: Caracas
 edicion: 1951
 year: 1951
 category : "Teresa de la Parra"
-repositorio: "Biblioteca Digital de Venezuela"
+repositorio: "Biblioteca Digital César Rengifo"
 repurl: 
-img: http://www.literaturavenezolana.xyz/img/Teresa_de_la_parra_cartas_literatura_venezolana.jpg
+img: 
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Teresa_de_la_parra_cartas_literatura_venezolana.pdf
-tag: "Intimidad"
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

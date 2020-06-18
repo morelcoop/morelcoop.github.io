@@ -5,12 +5,13 @@ editorial: Editorial Mundo Latino
 ciudad:  Madrid
 edicion: 1923
 year: 1923
-category : "Rufino Blanco Fombona"
+category :
+- Rufino Blanco-Fombona
 repositorio: Biblioteca Virtual Miguel de Cervantes
 repurl: 
-img: http://www.literaturavenezolana.xyz/morel/sites/default/files/portada/Rufino_blanco_fombona_la_mascara_heroica_literatura_venezolana.jpg
+img: 
 descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Rufino_blanco_fombona_la_mascara_heroica_literatura_venezolana.pdf
-tag: "Ficción"
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

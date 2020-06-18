@@ -11,7 +11,7 @@ repositorio: Google
 repurl: http://books.google.com
 img: Elegias_de_varones_ilustres_de_Indias-Juan_de_Castellanos.jpg
 descarga: [descurl]
-tag: ["no ficción"]
+tag: "Colonial"
 ---
 {% include JB/setup %}
 

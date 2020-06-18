@@ -11,7 +11,7 @@ repositorio: Biblioteca Ayacucho Digital
 repurl: [ayacucho url]
 img: Jose-Carlos-Mariátegui_Literatura y estética_MOREL.jpg
 descarga: 
-tag: ["ensayo"]
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

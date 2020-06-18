@@ -11,7 +11,7 @@ repositorio: Wikimedia Commons
 repurl: [commons url]
 img: El_Dulce_Daño-Alfonsina_Storni_MOREL.jpg
 descarga: [commons url]/El_Dulce_Daño_-_Alfonsina_Storni.pdf
-tag: ["poesía"]
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

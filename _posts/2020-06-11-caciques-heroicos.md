@@ -13,7 +13,7 @@ repositorio: [repository]
 repurl: [repurl]
 img: Los_caciques_heroicos-Bolivar_Coronado-MOREL.jpg
 descarga: [descurl]
-tag: ["", ""]
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

@@ -8,9 +8,9 @@ year: 1885
 category: Zulima
 repositorio: Achive.org
 repurl: 
-img: http://www.literaturavenezolana.xyz/img/Zulima_Maria-o-el-despotismo|literatura-venezolana.jpg
+img: 
 descarga: https://archive.org/download/maraoeldespotism14318lpez/maraoeldespotism14318lpez.pdf
-tag: Dramaturgia
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 

@@ -11,7 +11,7 @@ repositorio: Biblioteca de la Universidad de California
 repurl: https://libraries.universityofcalifornia.edu/
 img: Noticias_historiales-Fray_Pedro_Simon-MOREL.jpg
 descarga: 
-tag: ["no ficción"]
+tag: "Colonial"
 ---
 {% include JB/setup %}
 
