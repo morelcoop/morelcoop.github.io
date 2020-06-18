@@ -4,12 +4,14 @@ layout: post
 editorial: "Imprenta de Miguel Ginesta"
 ciudad: Madrid
 edicion: 1875
-year: 
+year: 1875
 category: "Bartolomé de Las Casas"
 repositorio: "Proyecto Gutenberg"
-repurl: 
-img:
-descarga: 
+repurl: https://archive.org/details/university_of_california_libraries
+img: Bartolome_de_las_casas_historias_de_las_indias_tomo_1-MOREL.jpg
+descarga: https://ia802706.us.archive.org/31/items/historiaindias01casarich/historiaindias01casarich_bw.pdf
+epub: http://www.gutenberg.org/ebooks/49298.epub.images?session_id=56b234db0ded45306dce8647c8c495be5425c064
+comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=bartolomé de las casas&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=1df54a1357b17ec9e837e5e990d3dfbb
 tag: "Colonial"
 ---
 {% include JB/setup %}
