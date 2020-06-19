@@ -6,7 +6,8 @@ ciudad: Madrid
 edicion: 1875
 year: 1875
 category: "Bartolomé de Las Casas"
-repositorio: "Proyecto Gutenberg"
+repositorio: "Bibliotecas de la Universidad de California"
+repositorio2: "Proyecto Gutenberg"
 repurl: https://archive.org/details/university_of_california_libraries
 img: Bartolome_de_las_casas_historias_de_las_indias_tomo_1-MOREL.jpg
 descarga: https://ia802706.us.archive.org/31/items/historiaindias01casarich/historiaindias01casarich_bw.pdf

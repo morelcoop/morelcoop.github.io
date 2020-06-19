@@ -4,12 +4,12 @@ layout: post
 editorial: "Consejo de Instrucción Pública"
 ciudad:  "Santiago de Chile"
 edicion: 1881
-year: 
+year: 1881
 category: "Andrés Bello"
 repositorio: "Biblioteca Virtual Miguel de Cervantes"
-repurl: 
-img: 
-descarga: http://www.literaturavenezolana.xyz/descargas/Andr%C3%A9s_Bello_obras_completas_tomo_1_filosofia_del_entendimiento.pdf
+repurl: http://www.cervantesvirtual.com
+img: Andrés_Bello-obras_completas_tomo_1_filosodia-MOREL.jpg
+descarga: https://ia601506.us.archive.org/4/items/andres-bello-filosofia-del-emtendimiento-tomo-1-morel/Andres_Bello_Filosofia_del_Emtendimiento_Tomo_1-MOREL.pdf
 tag: "Siglo XIX"
 ---
 {% include JB/setup %}
