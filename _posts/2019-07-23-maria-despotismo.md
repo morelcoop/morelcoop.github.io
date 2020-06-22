@@ -6,9 +6,9 @@ ciudad:  Caracas
 edicion: 1885
 year: 1885
 category: Zulima
-repositorio: Achive.org
-repurl: 
-img: 
+repositorio: Universidad de North Carolina en Chapell Hill
+repurl: https://archive.org/details/unclibraries
+img: Zulima_Maria-o-el-despotismo-MOREL.jpg
 descarga: https://archive.org/download/maraoeldespotism14318lpez/maraoeldespotism14318lpez.pdf
 tag: "Siglo XX"
 ---

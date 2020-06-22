@@ -4,12 +4,12 @@ layout: post
 editorial: Biblioteca Ayacucho
 ciudad:  Caracas
 edicion: 1990
-year: 
+year: 1937
 category : "Jósé Rafael Pocaterra"
 repositorio: Biblioteca Ayacucho Digital
 repurl: 
-img: 
-descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1_literatura_venezolana.pdf
+img: Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1-MOREL.jpg
+descarga: https://ia601400.us.archive.org/2/items/jose_rafael_pocaterra-memorias_de_un_venezolano_de_la_decadencia/jose_rafael_pocaterra-memorias_de_un_venezolano_de_la_decadencia.pdf
 tag: "Siglo XX"
 ---
 {% include JB/setup %}
