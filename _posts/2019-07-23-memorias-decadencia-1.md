@@ -9,7 +9,8 @@ category : "Jósé Rafael Pocaterra"
 repositorio: Biblioteca Ayacucho Digital
 repurl: 
 img: Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1-MOREL.jpg
-descarga: https://ia601400.us.archive.org/2/items/jose_rafael_pocaterra-memorias_de_un_venezolano_de_la_decadencia/jose_rafael_pocaterra-memorias_de_un_venezolano_de_la_decadencia.pdf
+descarga: https://ia601400.us.archive.org/2/items/jose_rafael_pocaterra-memorias_de_un_venezolano_de_la_decadencia/jose_rafael_pocaterra-memorias_de_un_venezolano_de_la_decadencia.pdfhttps://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=jose rafael pocaterra&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=76ff0c0bc21cdfe867c67ed311a696f9
+comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=jose rafael pocaterra&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=76ff0c0bc21cdfe867c67ed311a696f9
 tag: "Siglo XX"
 ---
 {% include JB/setup %}

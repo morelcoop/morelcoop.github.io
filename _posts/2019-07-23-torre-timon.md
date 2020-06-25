@@ -7,11 +7,12 @@ edicion: 1925
 year: 1925
 category : "José Antonio Ramos Sucre"
 repositorio: Biblioteca Digital Hispánica
-repurl: 
-img: 
-descarga: http://literaturavenezolana.xyz/morel/sites/default/files/descargas/jose_antonio_ramos_sucre_la_torre_de_timon_literatura_venezolana.pdf
+repurl: http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html
+img: jose_antonio_ramos_sucre_la_torre_de_timon-MOREL.jpg
+descarga: https://ia601507.us.archive.org/14/items/latorredetimn-textoimpreso/LatorredetimnTextoimpreso.pdf
+comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=jose antonio ramos sucre&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=6f6e63325b571cdb210f31ac004c3b0d
 tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
-Ahora pensabas que tu muerte sería pública, como tu aparición en el mundo; que algún día vendría ella a liberarte de tus enemigos, la miseria, el dolor y el vicio; que la crónica de los periódicos, registrando el sucedo, no diría tu nombre de emperatriz o de heroína, sustituyéndolo por el apodo infame.
+Al encontrarte, quedaremos unidos por el convencimiento de nuestro destierro en la ciudad moderna que se atormenta con el afán del oro. Ese día, demasiado tarde, el último de mi juventud, en que despertarán, como fantasmas, recuerdos semimuertos al formar el invierno la mortaja de la tierra, será el primero de nuestro amor infinito y estéril. Unidos en un mismo ensueño, huiremos del mundo, cada día más bárbaro y avaro. Huiremos en un vuelo, porque nuestras vidas terminarán sin huellas, de tal modo que éste será el epitafio de nuestro idilio y de nuestra existencia: pasaron como sonámbulos sobre la tierra maldita.
