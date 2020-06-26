@@ -8,7 +8,7 @@ year: 1882
 categories: 
 - Fray Pedro Simón
 repositorio: Biblioteca de la Universidad de California
-repurl: https://libraries.universityofcalifornia.edu/
+repurl: https://archive.org/details/university_of_california_libraries
 img: Noticias_historiales-Fray_Pedro_Simon-MOREL.jpg
 descarga: 
 tag: "Colonial"

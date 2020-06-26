@@ -7,10 +7,10 @@ edicion: 1884
 year: 1884
 categories: 
 - Telmo A. Romero
-repositorio: Biblioteca Nacional Digital
-repurl: [repurl]
+repositorio: Biblioteca Digital César Rengifo
+repurl: http://bibliotecadigital.bnv.gob.ve/
 img: el_bien_general-Telmo_Romero-MOREL.jpg
-descarga: [descurl]
+descarga: https://ia601404.us.archive.org/23/items/telmo_romero-el_bien_general/telmo_romero-el_bien_general.pdf
 tag: "Siglo XIX"
 ---
 {% include JB/setup %}

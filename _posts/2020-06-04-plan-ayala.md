@@ -3,15 +3,16 @@ title: El problema agrario en la república mexicana / El sistema Sala y el Plan
 layout: post
 editorial: Imprenta Franco-Mexicana
 ciudad:  México
-edicion: 
+edicion: 1919
 year: 1919
 categories: 
 - Emiliano Zapata
 - Atenor Sala
-repositorio: The Internet Archive
-repurl: http://archive.org
+repositorio: University of Toronto
+repurl: https://archive.org/details/university_of_toronto
 img: Plan_de_Ayala-Emiliano_Zapata-MOREL.jpg
-descarga: [download URL]
+descarga: https://ia800300.us.archive.org/33/items/emilianozapataye00salauoft/emilianozapataye00salauoft_bw.pdf
+comprar:https://amzn.to/31koWJR
 tag: "Siglo XX"
 ---
 {% include JB/setup %}
