@@ -7,11 +7,12 @@ edicion: 1892
 year: 1892
 categories: 
 - Ensayo
-repositorio: Biblioteca Nacional Digital
-repurl:"[repurl]"
+repositorio: Biblioteca Digital César Rengifo
+repurl: http://bibliotecadigital.bnv.gob.ve/s
 img: Tulio_Febres_Cordero-El_nombre_de_America-MOREL.jpg
-descarga: [fileurl]
+descarga: https://ia601506.us.archive.org/23/items/el_nombre_de_america_/el_nombre_de_america_.pdf
 tag: "Siglo XIX"
+comprar: https://amzn.to/31koWJR
 ---
 {% include JB/setup %}
 

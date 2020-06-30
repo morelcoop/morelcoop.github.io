@@ -3,14 +3,15 @@ title: Gran Colombia y España (1819-1822)
 layout: post
 editorial: América
 ciudad:  Madrid
-edicion: 
-year: 1919
+edicion: 1919
+year: 
 categories: 
 - Daniel F. O'Leary
-repositorio: [rep]
-repurl: [repurl]
+repositorio: Cervantes Virtual
+repurl: http://www.cervantesvirtual.com/
 img: Daniel_O'Leary-gran-colombia_y_espana_1819_1822.jpg
-descarga: [descurl] 
+descarga: https://ia601409.us.archive.org/5/items/daniel-o-leary-gran-colombia-y-espana-1819-1822/Daniel_O%27Leary-gran-colombia_y_espana_1819_1822.pdf
+comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords="general o'leary"&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=acdb3171ad84e18582adb225ef0ce7ce
 tag: "Siglo XIX"
 ---
 {% include JB/setup %}

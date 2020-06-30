@@ -3,16 +3,15 @@ title: Los caciques heroicos
 layout: post
 editorial: América
 ciudad:  Madrid
-edicion: 
+edicion: 1918
 year: 1918
 categories: 
 - Rafael Bolívar Coronado
-- Maestre Juan de Ocampo
-- Fray Nemesio de la Concepción Zapata
-repositorio: [repository]
-repurl: [repurl]
+repositorio: Biblioteca Digital César Rengifo
+repurl: http://bibliotecadigital.bnv.gob.ve/s
 img: Los_caciques_heroicos-Bolivar_Coronado-MOREL.jpg
-descarga: [descurl]
+descarga: https://ia601405.us.archive.org/35/items/los_caciques_heroicos/los_caciques_heroicos.pdf
+comprar: https://amzn.to/31koWJR
 tag: "Siglo XX"
 ---
 {% include JB/setup %}

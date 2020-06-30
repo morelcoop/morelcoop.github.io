@@ -3,14 +3,15 @@ title: Elegías de varones ilustres de Indias
 layout: post
 editorial: M. Rivadeneyra
 ciudad:  Madrid
-edicion: 
-year: 1857
+edicion: 1857
+year: 
 categories: 
 - Juan de Castellanos
 repositorio: Google
 repurl: http://books.google.com
 img: Elegias_de_varones_ilustres_de_Indias-Juan_de_Castellanos.jpg
-descarga: [descurl]
+descarga: https://archive.org/download/elegias-de-varones-ilustres-de-indias-1/Eleg%C3%ADas_de_varones_ilustres_de_Indias%20%281%29.pdf
+comprar: https://amzn.to/31koWJR
 tag: "Colonial"
 ---
 {% include JB/setup %}
