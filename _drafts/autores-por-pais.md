@@ -16,15 +16,18 @@ img: World_copyright_terms.svg
 
 César Vallejo
 
-# Uruguay
+# [Uruguay](!https://archive.org)
 
 [Felisberto Hernández](!https://commons.wikimedia.org/wiki/Felisberto_Hern%C3%A1ndez)
 
-- https://archive.org/search.php?query=subject%3A%22Felisberto+Hern%C3%A1ndez%22
+	- https://archive.org/search.php?query=subject%3A%22Felisberto+Hern%C3%A1ndez%22
+	
+[Quiroga](!https://commons.wikimedia.org/wiki/Horacio_Quiroga)
 
-Quiroga (!https://commons.wikimedia.org/wiki/Horacio_Quiroga)
+	- https://archive.org/details/CuentosQuirogaHoracio/page/n457/mode/2up
 
-- https://archive.org/details/CuentosQuirogaHoracio/page/n457/mode/2up
+[María Abella de Ramírez](!https://archive.org/search.php?query=maria%20abella%20de%20ramirez)
+
 
 
 # Argentina
@@ -48,4 +51,12 @@ Lugones
 Arlt
 
 - https://archive.org/details/RobertoArltElJugueteRabioso/page/n27/mode/2up
+
+Juana Manso
+
+- https://archive.org/details/compendiodelahi01mansgoog/page/n105/mode/2up
+
+
+
+
 

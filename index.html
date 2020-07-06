@@ -35,9 +35,11 @@ tagline: libros gratis de dominio público
                       </figcaption>
                     </figure>
                     <div class="info">
-                      <h2>
-                        {{ post.title }}
-                      </h2>
+                      <a href="{{ BASE_PATH }}{{ post.url }}">
+                                            <h2>
+                                              {{ post.title }}
+                                            </h2>
+                                          </a>
                       <p>
                       {% assign categories = post.categories %}
                       {% for category in categories %}
