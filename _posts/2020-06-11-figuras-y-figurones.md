@@ -13,6 +13,7 @@ repurl: http://www.cervantesvirtual.com
 img: Manuel_Gonzalez_Prada-Figuras_y_figurones-MOREL.jpg
 descarga: 
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/976824688
 ---
 {% include JB/setup %}
 

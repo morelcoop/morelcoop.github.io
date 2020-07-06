@@ -12,7 +12,7 @@ repositorio: University of Toronto
 repurl: https://archive.org/details/university_of_toronto
 img: Plan_de_Ayala-Emiliano_Zapata-MOREL.jpg
 descarga: https://ia800300.us.archive.org/33/items/emilianozapataye00salauoft/emilianozapataye00salauoft_bw.pdf
-comprar:https://amzn.to/31koWJR
+comprar: https://amzn.to/31koWJR
 tag: "Siglo XX"
 ---
 {% include JB/setup %}

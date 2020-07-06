@@ -8,7 +8,7 @@
                 <p>Obra de {% assign categories = page.categories %}{% for category in categories %}{{category}},{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %} publicada en {{ page.ciudad }} por {{ page.editorial }} en {{ page.edicion }}{% if page.year %}. Publicada por primera vez en {{ page.year }}{% endif %}{% if page.repositorio %}. Recuperada por {{ page.repositorio }}{% endif %}{% if page.repositorio2 %} y {{ page.repositorio2 }}{% endif %}.
                 </p>
                 <a href="{{ page.descarga }}"><button>PDF</button></a>
-                {% if page.epub %}<a href="{{ page.epub }}"><button>EPUB</button></a>{% endif %}
+                {% if page.epub %}<a href="{{ page.epub }}"><button>EPUB</button></a>{% endif %}{% if page.biblioteca %}<a href="{{ page.biblioteca }}"><button>BIBLIOTECA</button></a>{% endif %}
                 {% if page.comprar %}<a href="{{ page.comprar }}"><button>COMPRAR</button></a>{% endif %}
                 <div class="mb-60"></div>                      
               </div>

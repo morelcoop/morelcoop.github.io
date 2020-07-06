@@ -7,8 +7,15 @@ img: World_copyright_terms.svg
 ---
 {% include JB/setup %}
 
+# Primera lista al ojo por ciento de cosas obvias
 
-# Duración por país
+- Sor Juana Inés de la Cruz
+- César Vallejo
+- Horacio Quiroga
+- Vicente Huidobro
+- Pablo Palacio
+- José Asuncion Silva
+- Rubén Darío
 
 [Artículo Wikipedia](!https://es.wikisource.org/wiki/Wikisource:Duraci%C3%B3n_de_derechos_de_autor_por_pa%C3%ADss)
 
