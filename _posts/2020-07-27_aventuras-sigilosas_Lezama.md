@@ -13,7 +13,8 @@ img: Lezama_Lima_Aventuras_Sigilosas_Morel.jpg
 descarga: https://ia800704.us.archive.org/6/items/aventuras-sigilosas/01Aventuras.pdf
 tag: "siglo xx"
 ---
-{% include JB/setup %} []: Deseoso es aquel que huye de su madre.
+{% include JB/setup %} []: 
+Deseoso es aquel que huye de su madre.
 Despedirse es cultivar un rocío para unirlo con la secularidad de la saliva.
 La hondura del deseo no va por el secuestro del fruto. 
 Deseoso es dejar de ver a su madre.
