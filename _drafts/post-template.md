@@ -14,7 +14,7 @@ tag:
 ---
 {% include JB/setup %}
 
-[]: # Inserta aquí un extracto de la obra, máximo de la misma extensión del lorem ipsum. Fíjate en los otros post para que veas más o menos cuál es el criterio.
+Inserta aquí un extracto de la obra, máximo de la misma extensión del lorem ipsum. Fíjate en los otros post para que veas más o menos cuál es el criterio.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur lorem donec massa sapien. Pretium fusce id velit ut tortor. Molestie at elementum eu facilisis. Pellentesque eu tincidunt tortor aliquam. Nibh praesent tristique magna sit amet purus gravida. Odio euismod lacinia at quis risus sed. Ultricies mi quis hendrerit dolor magna eget est. Ultricies integer quis auctor elit sed. Tristique senectus et netus et. Ipsum faucibus vitae aliquet nec ullamcorper sit amet. Scelerisque eleifend donec pretium vulputate sapien nec sagittis. Neque volutpat ac tincidunt vitae semper quis lectus nulla. At risus viverra adipiscing at in tellus integer. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor.
 
@@ -28,7 +28,7 @@ editorial:
 ciudad:  de publicación, se entiende
 edicion: el año en que se editó la obra digitalizada
 year: el año en que esa obra se publicó por primera vez, si es fácil de averiguar. ESTE CAMPO ES OPCIONAL.
-category : El nombre del autor o los autores. Se pone como una lista, así: "
+category : El nombre del autor o los autores. Se pone como una lista, así, tal cual, respetando los espacios: "
 - Alejandro de Humboldt
 
 - Aimé Bonpland
@@ -36,7 +36,7 @@ category : El nombre del autor o los autores. Se pone como una lista, así: "
 "
 repositorio: el nombre del repositorio de donde lo sacamos. Fíjate en los otros post, copia y pega, para mantener coherencia en el nombre que le damos.
 
-repurl: la url del repositorio, si está disponible. La mayoría de las veces (como por ejemplo, con Google y las universidades) será la url al usuario de la plataforma Archive.org, pero tambíén está por ejemplo Cervantes Virtual, o la Biblioteca César Rengifo de Venezuela, Commons, Gutenberg, etc.
+repurl: la url del repositorio, si está disponible. La mayoría de las veces (como por ejemplo, con Google y las universidades) será la url al usuario de la plataforma Archive.org (es decir, no simplemente "http://archive.org", sino por ejemplo "https://archive.org/details/university_of_toronto"), pero tambíén está por ejemplo Cervantes Virtual, o la Biblioteca César Rengifo de Venezuela, Commons, Gutenberg, etc. En esos casos sí se pone simplemente la url del portal principal.
 
 img: Aquí va el nombre del archivo de imagen, que debes haber exportado y guardado en la carpeta images en el tercer paso del algoritmo. Un ejemplo de lo que va aquí sería 
 
@@ -50,6 +50,6 @@ biblioteca: entras en worldcat. Si la obra está disponible, copia el link en la
 
 tag: aquí el período al que pertenece la obra: siglo XIX, colonia, o siglo xx. En el campo debe ir entre comillas. Ejemplo:
 	
-	"siglo xx"
+	"siglo xx" --->
 
 
