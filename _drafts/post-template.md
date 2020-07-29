@@ -11,6 +11,8 @@ repurl:
 img:
 descarga:
 tag:
+biblioteca:
+comprar:
 ---
 {% include JB/setup %}
 
