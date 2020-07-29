@@ -6,7 +6,7 @@ ciudad: Caracas
 edicion: 2008
 year: 1939
 category:
--César Vallejo
+- César Vallejo
 repositorio: The Internet Archive
 repurl: http://archive.org
 img: Cesar_Vallejo_Poemas_Humanos_Morel.jpg
