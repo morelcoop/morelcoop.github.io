@@ -3,7 +3,7 @@ title: Oasis en la vida
 layout: post
 editorial: Felix Lajouane
 ciudad: Buenos Aires
-edicion: 1881
+edicion: 1888
 year:
 category:
 - Juana Manuela Gorriti
