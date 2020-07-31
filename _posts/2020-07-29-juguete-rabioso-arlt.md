@@ -6,7 +6,7 @@ ciudad: Buenos Aires
 edicion: 1993
 year: 1926
 category:
--Roberto Arlt
+- Roberto Arlt
 repositorio: Red de Bibliotecas Landivarianas
 repurl: http://www.url.edu.gt/PortalBiblioteca/
 img: Roberto_Arlt-El-Juguete-rabioso-Morel.jpg
@@ -22,5 +22,3 @@ Decíame:
 Si hago eso me condeno para siempre.
 Y estaré solo, y seré como Judas Iscariote.
 Toda la vida llevaré una pena.
-
-<!---
