@@ -6,14 +6,15 @@ ciudad: La Habana
 edicion: 1945
 year: 1945
 category:
--José Lezama Lima
+- José Lezama Lima
 repositorio: The Internet Archive
 repurl: http://archive.org
 img: Lezama_Lima_Aventuras_Sigilosas_Morel.jpg
 descarga: https://ia800704.us.archive.org/6/items/aventuras-sigilosas/01Aventuras.pdf
 tag: "siglo xx"
 ---
-{% include JB/setup %} []: 
+{% include JB/setup %}
+
 Deseoso es aquel que huye de su madre.
 Despedirse es cultivar un rocío para unirlo con la secularidad de la saliva.
 La hondura del deseo no va por el secuestro del fruto. 
@@ -25,5 +26,3 @@ Y así se ensancha y la ausencia de la madre es un mar en la calma.
 Pero el huidizo no ve el cuchillo que le pregunta,
 es de la madre, de los postigos asegurados, de quien se huye.
 Lo descendido en vieja sangre suena vacío.
-
-<!---
