@@ -6,7 +6,7 @@ ciudad: Caracas
 edicion: 1993
 year: 1900
 category:
--José Enrique Rodó
+- José Enrique Rodó
 repositorio: The Internet Archive
 repurl: http://archive.org
 img: Rodo_Ariel_Proteo_Selecto_Morel.jpg
