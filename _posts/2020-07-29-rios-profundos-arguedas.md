@@ -6,7 +6,7 @@ ciudad: Caracas
 edicion: 1978
 year: 1958
 category:
--José María Arguedas
+- José María Arguedas
 repositorio: The Internet Archive
 repurl: https://archive.org/details/opensource
 img: Jose_Maria_Arguedas-Los-rios-profundos-Morel.jpg
