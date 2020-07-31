@@ -4,7 +4,7 @@ layout: post
 editorial: Ediciones Orígenes
 ciudad: La Habana
 edicion: 1945
-year: 1945
+year:
 category:
 - José Lezama Lima
 repositorio: The Internet Archive
