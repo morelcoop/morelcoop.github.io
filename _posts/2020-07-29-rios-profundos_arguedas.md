@@ -8,7 +8,7 @@ year: 1958
 category:
 -José María Arguedas
 repositorio: The Internet Archive
-repurl: http://archive.org
+repurl: https://archive.org/details/opensource
 img: Jose_Maria_Arguedas-Los-rios-profundos-Morel.jpg
 descarga: https://ia801305.us.archive.org/20/items/3.3LosRiosProfundosLibro/3.3_Los_rios_profundos_Libro.pdf
 tag: “siglo xx”
