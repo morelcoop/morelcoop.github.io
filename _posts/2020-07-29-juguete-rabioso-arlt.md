@@ -9,7 +9,7 @@ category:
 - Roberto Arlt
 repositorio: Red de Bibliotecas Landivarianas
 repurl: http://www.url.edu.gt/PortalBiblioteca/
-img: Roberto_Arlt-El-Juguete-rabioso-Morel.jpg
+img:  Roberto_Arlt-El-Juguete-rabioso-Morel.jpg
 descarga: https://ia601401.us.archive.org/25/items/el-juguete-rabioso-arlt/El_juguete.pdf
 tag: “siglo xx”
 ---
