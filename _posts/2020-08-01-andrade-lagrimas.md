@@ -1,5 +1,5 @@
 ---
-title: Lagrimas: ensayos poéticos
+title: Lagrimas, ensayos poéticos
 layout: post
 editorial: La Tribuna Nacional
 ciudad: Buenos Aires
