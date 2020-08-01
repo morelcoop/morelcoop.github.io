@@ -15,4 +15,4 @@ tag: “siglo xix”
 ---
 {% include JB/setup %}
 
-Dos espediciones casi simultáneas se prepararon en España para seguir los descubrimientos de Magallanes, una en la Coruña, al mando de Diego García, y otra en Cádiz á las órdenes de Sebastián Gaboto; fué pues célebre marino el que primero llegó al lugar que ocupa hoy la ciudad de Buenos Aires, remontó el Paraná hasta el Carearañal (hoy Tercero) fundando allí el fuerte de Saneti-Espiriti.
+Dos expediciones casi simultáneas se prepararon en España para seguir los descubrimientos de Magallanes, una en la Coruña, al mando de Diego García, y otra en Cádiz á las órdenes de Sebastián Gaboto; fué pues célebre marino el que primero llegó al lugar que ocupa hoy la ciudad de Buenos Aires, remontó el Paraná hasta el Carearañal (hoy Tercero) fundando allí el fuerte de Saneti-Espiriti.
