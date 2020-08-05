@@ -1,5 +1,5 @@
 ---
-title: Cecilia Valdés
+title: Cecilia Valdes
 layout: post
 editorial: Biblioteca Ayacucho
 ciudad: Caracas
