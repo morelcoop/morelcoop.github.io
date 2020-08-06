@@ -1,7 +1,7 @@
 ---
 title: Juan de la rosa, memorias del último soldado de la independencia
 layout: post
-editorial: Plural editores
+editorial: Plural editores y la Biblioteca del Bicentenario de Bolivia
 ciudad: La Paz
 edicion: 2016
 year: 1985
