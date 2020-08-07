@@ -15,20 +15,20 @@ tag: “siglo xix”
 ---
 {% include JB/setup %}
 
-Hay un pasaje en la floresta umbría
-Lleno de fresca sombra, de verdor,
-Cuyos ecos conservan odavía
-Nuestras frases de amor.
-Hoy evoqué los días ya pasados,
-Y aquel paraje con afán busqué;
-Los senderos seguí más ignorados...
-Y nunca lo encontré!
+Hay un pasaje en la floresta umbría/
+Lleno de fresca sombra, de verdor/
+Cuyos ecos conservan todavía/
+Nuestras frases de amor./
+Hoy evoqué los días ya pasados/
+Y aquel paraje con afán busqué/
+Los senderos seguí más ignorados/
+Y nunca lo encontré!/
 
-Hay un ave que canta melodiosa
-En el fondo de cada corazón:
-Siempre alzaba en el mío su gozosa,
-Su celestecanción.
-Hoy este pobre corazón herido
-Cual un sepulcro, silencioso está:
-Quedó desierto y destrozado el nido...
+Hay un ave que canta melodiosa/
+En el fondo de cada corazón:/
+Siempre alzaba en el mío su gozosa,/
+Su celestecanción./
+Hoy este pobre corazón herido/
+Cual un sepulcro, silencioso está/
+Quedó desierto y destrozado el nido.../
 El ave voló ya!
