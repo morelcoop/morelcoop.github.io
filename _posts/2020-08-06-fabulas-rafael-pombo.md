@@ -2,7 +2,7 @@
 title: Fabulas
 layout: post
 editorial: Biblioteca Aldeana de Colombia
-ciudad: 
+ciudad: Bogotá
 edicion: 1910
 year: 
 category:
