@@ -10,7 +10,7 @@ category:
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: fabulas_rafael_pombo_Morel.jpg
-descarga: 
+descarga: https://ia601508.us.archive.org/27/items/fabulas-rafael-pombo/Fabulas-Rafael-Pombo.pdf
 tag: “siglo xix”
 ---
 {% include JB/setup %}
