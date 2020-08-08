@@ -30,7 +30,7 @@ Y aquel paraje con afán busqué
 Los senderos seguí más ignorados 
  
 Y nunca lo encontré! 
- 
+  
   
 Hay un ave que canta melodiosa 
  
@@ -38,7 +38,7 @@ En el fondo de cada corazón:
  
 Siempre alzaba en el mío su gozosa, 
  
-Su celestecanción. 
+Su celeste canción. 
  
  
 Hoy este pobre corazón herido 
