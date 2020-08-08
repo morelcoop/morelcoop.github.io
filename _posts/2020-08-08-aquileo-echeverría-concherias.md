@@ -15,15 +15,22 @@ tag: “siglo xx”
 ---
 {% include JB/setup %}
 
-Monstruo, amalgama de reptil y hiena / 
-su hálito inmundo cuanto roza, daña; / 
-el mal, por el contrario, la enajena. /  
+Monstruo, amalgama de reptil y hiena
+  
+su hálito inmundo cuanto roza, daña;
+  
+el mal, por el contrario, la enajena. 
+   
+De furor y despecho siempre llena, 
 
-De furor y despecho siempre llena, / 
-en hiel anega su existencia huraña; / 
-toma á sí misma su enconosa saña / 
-y con su propio virus se envenena. / 
-
-Serpiente que maldice la estrella / 
-y que en lo noble su colmillo clava / 
+en hiel anega su existencia huraña; 
+ 
+toma á sí misma su enconosa saña 
+ 
+y con su propio virus se envenena. 
+ 
+Serpiente que maldice la estrella 
+ 
+y que en lo noble su colmillo clava 
+ 
 y cuanto es puro con calumnia sella.
