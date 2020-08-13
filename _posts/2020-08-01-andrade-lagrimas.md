@@ -11,7 +11,7 @@ repositorio: Academia Argentina de las Letras
 repurl: http://www.aal.edu.ar/
 img: Agustina_andrade_lagrimas_Morel.jpg
 descarga: https://ia601401.us.archive.org/19/items/lagrimas-ensayos-poeticos-agustina-andrade/lagrimas-agustina-andrade.pdf
-tag: “siglo xix”
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 Después del triunfo
