@@ -12,7 +12,7 @@ repositorio: The Internet Archive
 repurl: https://archive.org/details/robarts
 img: armando_chirveches_virgen_lago.jpg
 descarga: https://ia601405.us.archive.org/7/items/lavirgendellagopdf/lavirgendellagopdf.pdf
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
