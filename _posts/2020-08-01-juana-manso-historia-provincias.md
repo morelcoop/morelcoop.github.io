@@ -11,7 +11,7 @@ repositorio: The Internet Archive
 repurl: https://archive.org/details/americana
 img: historia_provincias_manso_Morel.jpg
 descarga: https://ia601507.us.archive.org/32/items/compendiodelahistoriadelasprovincias-juanamanso/compendiodelahistoriadelasprovincias-juanamanso.pdf
-tag: “siglo xix”
+tag: "Siglo xix"
 ---
 {% include JB/setup %}
 
