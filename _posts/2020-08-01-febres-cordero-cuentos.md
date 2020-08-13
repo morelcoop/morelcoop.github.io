@@ -11,7 +11,7 @@ repositorio: Biblioteca Digital César Rengifo
 repurl: http://bibliotecadigital.bnv.gob.ve/
 img: cuentos_febres_cordero_Morel.jpg
 descarga: https://ia601508.us.archive.org/20/items/tulio-febres-cordero-cuentos/Tulio-Febres-Cordero-Cuentos.pdf
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
