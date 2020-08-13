@@ -7,11 +7,11 @@ edicion:
 year: 
 category:
 - Felisberto Hernandez
-repositorio: The Internet Archive
+repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: casa_inundada_felisberto_Morel.jpg
 descarga:  https://ia601508.us.archive.org/35/items/felisberto-hernandez-la-casa-inundada/Felisberto-Hernandez-La-casa-inundada.pdf
-tag: “siglo xx”
+tag: “Siglo XX”
 ---
 {% include JB/setup %}
 
