@@ -11,7 +11,7 @@ repositorio: Biblioteca del Bicentenario de Bolivia Digital
 repurl: http://www.bbb.gob.bo
 img: nataniel_aguirre_memorias_soldado_Morel.jpg
 descarga: 
-tag: “siglo xix”
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 
