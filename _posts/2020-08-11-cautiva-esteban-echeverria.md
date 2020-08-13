@@ -10,7 +10,7 @@ category:
 repositorio: The Internet Archive
 repurl: https://archive.org/details/microfilm
 img: esteban_echeverria_cautiva_Morel.jpg
-descarga:
+descarga: https://ia601409.us.archive.org/25/items/la-cautiva/la%20cautiva.pdf
 tag: "Siglo XIX"
 ---
 {% include JB/setup %}
