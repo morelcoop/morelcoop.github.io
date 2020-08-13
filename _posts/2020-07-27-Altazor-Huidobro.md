@@ -12,7 +12,7 @@ repurl: http://archive.org
 img: Vicente_Huidobro_Altazor_Morel.jpg
 descarga: https://ia800703.us.archive.org/30/items/huidobro-altazor/huidobro-altazor.pdf
 
-tag: "siglo xx"
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
