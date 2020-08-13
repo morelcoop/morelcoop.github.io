@@ -7,7 +7,7 @@ edicion: 1920
 year: 
 category:
 - José María Vargas Vila
-repositorio: The Internet Archive
+repositorio: UNC University Library
 repurl: https://archive.org/details/vargas 
 img: salome_vargas_vila_Morel.jpg
 descarga: https://ia601503.us.archive.org/1/items/salome-vargas-vila/Salom%C3%A9%20-%20Vargas%20Vila.pdf
