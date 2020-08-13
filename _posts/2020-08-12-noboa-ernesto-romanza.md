@@ -11,8 +11,8 @@ repositorio: Biblioteca Digital Casa de la Cultura Ecuatoriana
 repurl: http://repositorio.casadelacultura.gob.ec
 img: ernesto_noboa_romanza_horas_Morel.jpg
 descarga: https://ia601509.us.archive.org/34/items/fr-1-l-000506-noboa-romanza/FR1-L-000506-Noboa-Romanza.pdf
-tag: Siglo XX
-biblioteca: 
+tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/253566348
 comprar:
 ---
 {% include JB/setup %}
