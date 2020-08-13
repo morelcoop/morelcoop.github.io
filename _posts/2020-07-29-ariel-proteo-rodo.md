@@ -11,7 +11,7 @@ repositorio: The Internet Archive
 repurl: http://archive.org
 img: Rodo_Ariel_Proteo_Selecto_Morel.jpg
 descarga: https://archive.org/details/arielyproteoselectojoseenriquerodo684
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
