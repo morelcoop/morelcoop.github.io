@@ -11,7 +11,7 @@ repositorio: Academia Argentina de las Letras
 repurl: http://www.aal.edu.ar/
 img: gorriti_oasis_Morel.jpg
 descarga: https://ia601406.us.archive.org/4/items/oasis-en-la-vida-juana-manuela-gorriti/Oasis_en_la_vida_-_Juana_Manuela_Gorriti.pdf
-tag: “siglo xix”
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 
