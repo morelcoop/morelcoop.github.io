@@ -11,7 +11,7 @@ repositorio: The Internet Archive
 repurl: http://archive.org
 img: Cesar_Vallejo_Poemas_Humanos_Morel.jpg
 descarga: https://ia601001.us.archive.org/20/items/PoemasHumanos/Poemas-Humanos.pdf
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
