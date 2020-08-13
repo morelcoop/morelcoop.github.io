@@ -11,7 +11,7 @@ repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: carnero_rodriguez_freyle_Morel.jpg
 descarga: https://ia601404.us.archive.org/0/items/el-carnero-juan-rodriguez-freyle/El_carnero_Juan_Rodriguez_Freyle.pdf
-tag: “colonia”
+tag: "Colonial"
 ---
 {% include JB/setup %}
 
