@@ -10,8 +10,8 @@ category:
 repositorio: The Internet Archive
 repurl: https://archive.org/details/microfilm
 img: esteban_echeverria_cautiva_Morel.jpg
-descarga: 
-tag: “siglo xix”
+descarga:
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 
