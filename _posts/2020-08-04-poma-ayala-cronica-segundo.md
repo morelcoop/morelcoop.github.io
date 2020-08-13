@@ -11,7 +11,7 @@ repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: coronica_poma_ayala_dos_Morel.jpg
 descarga: https://ia601500.us.archive.org/32/items/nueva-coronica-y-buen-gobierno-2/Nueva_coronica_y_buen_gobierno_2.pdf
-tag: “colonia”
+tag: "Colonial"
 ---
 {% include JB/setup %}
 
