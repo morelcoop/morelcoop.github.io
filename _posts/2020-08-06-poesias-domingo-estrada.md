@@ -11,7 +11,7 @@ repositorio: The Internet Archive
 repurl: https://archive.org/details/americana
 img: poesias_domingo_estrada_Morel.jpg
 descarga: https://ia601402.us.archive.org/6/items/poesiasdomingoestrada/poesiasdomingoestrada.pdf
-tag: “siglo xix”
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 
