@@ -11,7 +11,7 @@ repositorio: The Internet Archive
 repurl: http://archive.org
 img: Horacio_Quiroga_Cuentos_Morel.jpg
 descarga: https://ia800705.us.archive.org/4/items/CuentosQuirogaHoracio/Cuentos%20-%20Quiroga%2C%20Horacio.pdf
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
