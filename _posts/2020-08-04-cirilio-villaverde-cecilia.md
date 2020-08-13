@@ -11,7 +11,7 @@ repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: cirilio_villaverde_cecilia_valdes_Morel.jpg
 descarga: https://ia601506.us.archive.org/24/items/cecilia-valdez-o-la-loma-del-angel/Cecilia_Valdez_o_la_Loma_del_Angel.pdf
-tag: “siglo xix”
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 
