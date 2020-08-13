@@ -11,7 +11,7 @@ repositorio: The Internet Archive
 repurl: https://archive.org/details/opensource
 img: concherias_aquileo_echeverria_Morel.jpg
 descarga: https://ia803109.us.archive.org/27/items/concherias/Concherias%20Completo.pdf
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 
