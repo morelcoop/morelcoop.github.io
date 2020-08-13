@@ -11,7 +11,7 @@ repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: cuentos_blanco_fombona_Morel.jpg
 descarga: https://ia601503.us.archive.org/14/items/blanco-fombona-cuentos/blanco-fombona-cuentos.pdf
-tag: “siglo xx”
+tag: "Siglo XX"
 ---
 {% include JB/setup %}
 Ella, la enamorada, lo engañó; lo engañó con un músico, artista extranjero, bohemio errante. La hija del montón, nostálgica de aventuras; la gitana, acaso la artista, se despertó en Carmen, y ya no hubo para la bella alondra fascinada, sino el soñar con placenteras noches azules, en lejanos países, entre  un  coro  de  admiradores deslumbrados por  su  belleza, ebrios de champaña y de amor.
