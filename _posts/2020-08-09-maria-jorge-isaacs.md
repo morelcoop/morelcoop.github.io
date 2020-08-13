@@ -11,7 +11,7 @@ repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Maria_Jorge_Isaacs_Morel.jpg
 descarga: https://ia601400.us.archive.org/25/items/maria-jorge-isaacs-2/Maria_Jorge_Isaacs%20%282%29.pdf
-tag: “siglo xix”
+tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 A MI REGRESO, que hice lentamente, la imagen de María volvió a asirse a mi memoria. Aquellas soledades, sus bosques silenciosos, sus flores, sus aves y sus aguas, ¿por qué me hablaban de ella? ¿Qué había allí de María?
