@@ -11,7 +11,7 @@ repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: comentarios_reales_garcilaso_Morel.jpg
 descarga: https://ia601508.us.archive.org/33/items/comentarios-reales-1-inca-garcilaso-de-la-vega/Comentarios_reales_1_Inca_Garcilaso_de_la_Vega.pdf
-tag: “colonia”
+tag: "Colonial"
 ---
 {% include JB/setup %}
 
