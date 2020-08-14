@@ -13,7 +13,7 @@ img: Ruben_Dario_Poesia_Morel.jpg
 descarga: https://ia601409.us.archive.org/15/items/poesia-ruben-dario-1/Poesia_Ruben_Dario%281%29.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/489813022
-comprar:
+comprar: https://amzn.to/30UanMy
 ---
 {% include JB/setup %}
 
