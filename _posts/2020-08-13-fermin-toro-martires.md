@@ -7,8 +7,8 @@ edicion: 2017
 year: 1842
 category:
 - Fermín Toro
-repositorio: Community Text
-repurl: https://archive.org/details/opensource
+repositorio: El perro y la rana
+repurl: http://www.elperroylarana.gob.ve
 img: fermin_toro_martires_Morel.jpg
 descarga: https://ia601407.us.archive.org/23/items/los-martires.-fermin-toro/Los%20martires.%20Ferm%C3%ADn%20Toro.pdf
 tag: Siglo XIX
