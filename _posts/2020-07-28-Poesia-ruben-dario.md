@@ -10,8 +10,10 @@ category:
 repositorio: The Internet Archive
 repurl: http://archive.org
 img: Ruben_Dario_Poesia_Morel.jpg
-descarga: https://ia803002.us.archive.org/17/items/DarioRuben.Poesia1983/Dario%2C%20Ruben.%20-%20%20Poesia%20%5B1983%5D.pdf
+descarga: https://ia601409.us.archive.org/15/items/poesia-ruben-dario-1/Poesia_Ruben_Dario%281%29.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/489813022
+comprar: <a target="_blank" href="https://www.amazon.com/gp/product/9803950967/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=9803950967&linkCode=as2&tag=morelcoop-20&linkId=dd5c2feb18bd00722ae61e698bf388b8">Poesia completa (Biblioteca Ayacucho)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=morelcoop-20&l=am2&o=1&a=9803950967" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ---
 {% include JB/setup %}
 
