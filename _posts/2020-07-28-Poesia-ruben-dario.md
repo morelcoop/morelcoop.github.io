@@ -7,8 +7,8 @@ edicion: 1983
 year:
 category:
 - Rubén Darío
-repositorio: The Internet Archive
-repurl: http://archive.org
+repositorio: Consejo Latinoamericano de Ciencias Sociales
+repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Ruben_Dario_Poesia_Morel.jpg
 descarga: https://ia601409.us.archive.org/15/items/poesia-ruben-dario-1/Poesia_Ruben_Dario%281%29.pdf
 tag: "Siglo XIX"
