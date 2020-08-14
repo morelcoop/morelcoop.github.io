@@ -7,11 +7,13 @@ edicion: 2004
 year: 1981
 category:
 - Horacio Quiroga
-repositorio: The Internet Archive
-repurl: http://archive.org
+repositorio: Consejo Latinoamericano de Ciencias Sociales
+repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Horacio_Quiroga_Cuentos_Morel.jpg
 descarga: https://ia800705.us.archive.org/4/items/CuentosQuirogaHoracio/Cuentos%20-%20Quiroga%2C%20Horacio.pdf
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/803310868
+comprar:
 ---
 {% include JB/setup %}
 
