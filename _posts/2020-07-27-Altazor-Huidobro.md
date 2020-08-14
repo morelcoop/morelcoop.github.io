@@ -7,12 +7,13 @@ edicion: 1931
 year: 1931
 category:
 - Vicente Huidobro
-repositorio: The Internet Archive
-repurl: http://archive.org
+repositorio: Archivo Rialta
+repurl: https://archive.org/details/@archivo_rialta
 img: Vicente_Huidobro_Altazor_Morel.jpg
 descarga: https://ia800703.us.archive.org/30/items/huidobro-altazor/huidobro-altazor.pdf
-
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/3271136
+comprar: https://amzn.to/3gWGUY0
 ---
 {% include JB/setup %}
 
