@@ -7,13 +7,13 @@ edicion: 1901
 year: 
 category:
 - Sor Juana Inés de la Cruz
-repositorio: Alex Aitken
-repurl: https://archive.org/details/@alexaitken
+repositorio: University of Toronto Libraries
+repurl: https://archive.org/details/robarts
 img: sor_juana_poesia_selecta_Morel.jpg
 descarga: https://ia601502.us.archive.org/6/items/poesias-escogidas-sor-juana/Poesias%20escogidas%20Sor%20Juana.pdf
 tag: Colonial
 biblioteca: http://www.worldcat.org/oclc/18931591
-comprar:
+comprar: https://amzn.to/3kLqG69
 ---
 {% include JB/setup %}
  
