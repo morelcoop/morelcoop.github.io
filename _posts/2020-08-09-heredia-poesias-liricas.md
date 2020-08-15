@@ -12,6 +12,8 @@ repurl: https://archive.org/details/americana
 img: poesias_liricas_heredia_Morel.jpg
 descarga: https://ia601400.us.archive.org/9/items/poesias-liricas-jose-maria-heredia/Poes%C3%ADas%20l%C3%ADricas%20Jos%C3%A9%20Mar%C3%ADa%20Heredia.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/457863112
+comprar: https://amzn.to/31YsfoT
 ---
 {% include JB/setup %}
 Grabo en el tronco de la tersa caña 
