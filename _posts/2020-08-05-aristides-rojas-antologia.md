@@ -13,7 +13,8 @@ img: cronica_caracas_aristides_Morel.jpg
 descarga: https://ia601507.us.archive.org/7/items/cronicas_de_caracas_aristides_rojas/cronicas_de_caracas_aristides_rojas.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/948412987
-comprar: <a target="_blank" href="https://www.amazon.com/gp/product/9806423321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=9806423321&linkCode=as2&tag=morelcoop-20&linkId=d65df8e936f27317414a33916ea1e5d9">Crónica De Caracas</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=morelcoop-20&l=am2&o=1&a=9806423321" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+comprar: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=morelcoop-20&marketplace=amazon&region=US&placement=9806423321&asins=9806423321&linkId=1bee45a25f1888cb89e4923b52ad1c97&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 ---
 {% include JB/setup %}
 Caen los imperios y derrúmbanse las sociedades, de la misma manera que se desprenden las hojas de los árboles. Todo nace y muere, todo pasa y nada es estable, porque tal es el destino, al cual sometió la Providencia las cosas sublunares.
