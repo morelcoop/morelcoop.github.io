@@ -7,11 +7,13 @@ edicion: 1993
 year: 1945
 category:
 - Domingo Faustino Sarmiento
-repositorio: The Internet Archive
-repurl: http://archive.org
+repositorio: Consejo Latinoamericano de Ciencias Sociales
+repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Domingo_Sarmiento_Facundo_Morel.jpg
-descarga: https://ia803002.us.archive.org/25/items/SarmientoDomingoFaustino.Facundo1993/Sarmiento%2C%20Domingo%20Faustino.%20-%20Facundo%20%5B1993%5D.pdf
+descarga: https://ia601500.us.archive.org/34/items/sarmiento-domingo-faustino.-facundo-1993/Sarmiento%2C%20Domingo%20Faustino.%20-%20Facundo%20%5B1993%5D.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/40897973
+comprar: https://amzn.to/3aqeS4B
 ---
 {% include JB/setup %}
 
