@@ -13,7 +13,7 @@ img: fermin_toro_martires_Morel.jpg
 descarga: https://ia601407.us.archive.org/23/items/los-martires.-fermin-toro/Los%20martires.%20Ferm%C3%ADn%20Toro.pdf
 tag: Siglo XIX
 biblioteca: http://www.worldcat.org/oclc/419587801
-comprar: 
+comprar: https://amzn.to/3at7s0l
 ---
 {% include JB/setup %}
 
