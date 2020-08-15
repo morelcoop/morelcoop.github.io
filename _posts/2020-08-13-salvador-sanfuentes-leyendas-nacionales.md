@@ -13,7 +13,7 @@ img: salvador_sanfuentes_historias_nacionales_Morel.jpg
 descarga: https://ia601407.us.archive.org/5/items/leyendas-nacionales-sanfuentes/Leyendas%20nacionales%20-%20Sanfuentes.pdf
 tag: Siglo XIX
 biblioteca: http://www.worldcat.org/oclc/458937511
-comprar:
+comprar: https://amzn.to/31Y7MjM
 ---
 Grave asunto es escribir
  
