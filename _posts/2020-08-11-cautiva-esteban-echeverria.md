@@ -7,11 +7,13 @@ edicion: 1916
 year: 1837
 category:
 - Esteban Echeverría 
-repositorio: The Internet Archive
-repurl: https://archive.org/details/microfilm
+repositorio: Nicholas Weber
+repurl: https://archive.org/details/@nicholas_weber
 img: esteban_echeverria_cautiva_Morel.jpg
 descarga: https://ia601409.us.archive.org/25/items/la-cautiva/la%20cautiva.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/496462325
+comprar: https://amzn.to/2Y31Uoz
 ---
 {% include JB/setup %}
 
