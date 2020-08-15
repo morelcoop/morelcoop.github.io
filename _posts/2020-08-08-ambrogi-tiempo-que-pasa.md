@@ -8,11 +8,12 @@ year:
 category:
 - Arturo Ambrogi
 repositorio: Biblioteca Nacional de El Salvador "Francisco Gavidia"
-
 repurl: http://www.redicces.org.sv/jspui/handle/10972/8
 img: ambrogi_tiempo_que_pasa_Morel.jpg
 descarga: https://ia601408.us.archive.org/4/items/el-tiempo-que-pasa.-arturo-ambrogi/El%20tiempo%20que%20pasa.%20Arturo%20Ambrogi.pdf
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/85001752
+comprar: 
 ---
 {% include JB/setup %}
 
