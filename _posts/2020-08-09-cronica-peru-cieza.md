@@ -7,8 +7,8 @@ edicion: 1922
 year: 
 category:
 - Pedro Cieza de León
-Repositorio: The Internet Archive
-repurl: https://archive.org/details/opensource
+Repositorio: Susa. B. S.
+repurl: https://archive.org/details/@susan_b_s
 img: cronica_peru_cieza_Morel.jpg
 descarga: https://ia601501.us.archive.org/1/items/cieza-de-leon-pedro-la-cronica-del-peru/Cieza%20de%20Le%C3%B3n%2C%20Pedro%20La%20Cr%C3%B3nica%20del%20Per%C3%BA.pdf
 tag: "Colonial"
