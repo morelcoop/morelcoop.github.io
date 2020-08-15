@@ -7,11 +7,13 @@ edicion: 2008
 year: 1939
 category:
 - César Vallejo
-repositorio: The Internet Archive
-repurl: http://archive.org
+repositorio: Elortiba
+repurl: https://archive.org/details/@elortiba
 img: Cesar_Vallejo_Poemas_Humanos_Morel.jpg
 descarga: https://ia601001.us.archive.org/20/items/PoemasHumanos/Poemas-Humanos.pdf
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/6112672
+comprar: https://amzn.to/2PWhJsI
 ---
 {% include JB/setup %}
 
