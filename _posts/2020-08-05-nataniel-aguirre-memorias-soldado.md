@@ -12,6 +12,8 @@ repurl: http://www.bbb.gob.bo
 img: nataniel_aguirre_memorias_soldado_Morel.jpg
 descarga: 
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/1055483064
+comprar: https://amzn.to/3apJi76
 ---
 {% include JB/setup %}
 
