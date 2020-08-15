@@ -7,11 +7,13 @@ edicion: 1875
 year:
 category:
 - Juana Manso
-repositorio: The Internet Archive
-repurl: https://archive.org/details/americana
+repositorio: Morel
+repurl: 
 img: historia_provincias_manso_Morel.jpg
 descarga: https://ia601507.us.archive.org/32/items/compendiodelahistoriadelasprovincias-juanamanso/compendiodelahistoriadelasprovincias-juanamanso.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/28598694
+comprar: https://amzn.to/31RPYqE
 ---
 {% include JB/setup %}
 
