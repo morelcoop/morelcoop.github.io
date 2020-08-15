@@ -2,9 +2,9 @@
 title: La casa inundada
 layout: post
 editorial: Fundación Felisberto Hernandez
-ciudad: 
-edicion: 
-year: 
+ciudad: Uruguay
+edicion: 2015
+year: 1960
 category:
 - Felisberto Hernandez
 repositorio: Autores UY
@@ -12,6 +12,8 @@ repurl: https://archive.org/details/autores
 img: casa_inundada_felisberto_Morel.jpg
 descarga:  https://ia601508.us.archive.org/35/items/felisberto-hernandez-la-casa-inundada/Felisberto-Hernandez-La-casa-inundada.pdf
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/811589989
+comprar: https://amzn.to/3454JcC
 ---
 {% include JB/setup %}
 
