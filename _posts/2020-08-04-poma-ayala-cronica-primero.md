@@ -12,6 +12,8 @@ repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: coronica_poma_ayala_uno_Morel.jpg
 descarga: https://ia601508.us.archive.org/13/items/nueva-coronica-y-buen-gobierno-1/Nueva_coronica_y_buen_gobierno_1.pdf
 tag: "Colonial"
+biblioteca: http://www.worldcat.org/oclc/489812052
+comprar: https://amzn.to/2DYU4VU
 ---
 {% include JB/setup %}
 
