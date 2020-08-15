@@ -12,6 +12,8 @@ repurl: https://archive.org/details/americana
 img: poesias_domingo_estrada_Morel.jpg
 descarga: https://ia601402.us.archive.org/6/items/poesiasdomingoestrada/poesiasdomingoestrada.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/15030308
+comprar: https://amzn.to/3g6YSG4
 ---
 {% include JB/setup %}
 
