@@ -7,11 +7,13 @@ edicion: 1920
 year: 
 category:
 - José María Vargas Vila
-repositorio: UNC University Library
-repurl: https://archive.org/details/vargas 
+repositorio: Alicia UNC
+repurl: https://archive.org/details/@alicia-unc
 img: salome_vargas_vila_Morel.jpg
 descarga: https://ia601503.us.archive.org/1/items/salome-vargas-vila/Salom%C3%A9%20-%20Vargas%20Vila.pdf
 tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/23745186
+comprar: https://amzn.to/3kNcI3N
 ---
 {% include JB/setup %}
 El Profeta no se desarmó, sus ojos, fulguraban de rencor, y, mostrándome con el índice, me apostrofaba como queriendo fulminarme con sus palabras; y gritaba:
