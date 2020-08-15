@@ -12,6 +12,8 @@ repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: comentarios_dos_garcilaso_Morel.jpg
 descarga: https://ia601502.us.archive.org/9/items/comentarios-reales-2-inca-garcilaso-de-la-vega/Comentarios_reales_2_Inca_Garcilaso_de_la_Vega.pdf
 tag: "Colonial"
+biblioteca: http://www.worldcat.org/oclc/613079770
+comprar: https://amzn.to/3au2Siy
 ---
 {% include JB/setup %}
 
