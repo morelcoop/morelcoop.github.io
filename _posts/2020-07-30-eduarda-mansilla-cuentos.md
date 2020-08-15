@@ -7,11 +7,13 @@ edicion: 1880
 year:
 category:
 - Eduarda Mansilla de García
-repositorio: The Internet Archive
-repurl: https://archive.org/details/opensource
+repositorio: Todidac
+repurl: https://archive.org/details/@todidac
 img: mansilla_eduarda_cuentos_Morel.jpg
 descarga: https://ia803107.us.archive.org/24/items/cuentoseduardamansilladegarcia/Cuentos_-_Eduarda_Mansilla_de_Garcia.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/8641678
+comprar: https://amzn.to/3gYxYBt
 ---
 {% include JB/setup %}
 
