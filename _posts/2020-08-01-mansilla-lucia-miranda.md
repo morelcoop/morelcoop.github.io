@@ -12,6 +12,8 @@ repurl: http://www.aal.edu.ar/
 img: eduarda_mansilla_lucia_Morel.jpg
 descarga: https://ia601402.us.archive.org/32/items/lucia-miranda-eduarda-mansilla-de-garcia/Lucia_Miranda__Eduarda_Mansilla_deGarcia.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/255710601
+comprar: https://amzn.to/342pEgf
 ---
 {% include JB/setup %}
 Dichosos y muy dichosos amantes, quién pudiera jamás imaginar, que el infortunio, semejante al ave de rapiña, que espía su presa tras las vistosas y lozanas flores, se ocultara bajo las engañosas y falsas apariencias de una dicha que concluir tan rápidamente debía! Maldito patrimonio de desdichas que alcanza á todos los humanos! Ay! del que fía imprudente en una hora de tregua!
