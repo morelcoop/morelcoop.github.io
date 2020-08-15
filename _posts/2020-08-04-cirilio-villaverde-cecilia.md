@@ -3,7 +3,7 @@ title: Cecilia Valdes
 layout: post
 editorial: Biblioteca Ayacucho
 ciudad: Caracas
-edicion: 1981
+edicion: 1982
 year: 1839 
 category:
 - Cirilio Villaverde
@@ -12,6 +12,8 @@ repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: cirilio_villaverde_cecilia_valdes_Morel.jpg
 descarga: https://ia601506.us.archive.org/24/items/cecilia-valdez-o-la-loma-del-angel/Cecilia_Valdez_o_la_Loma_del_Angel.pdf
 tag: "Siglo XIX"
+biblioteca: http://www.worldcat.org/oclc/895121107
+comprar: https://amzn.to/2Y3fati
 ---
 {% include JB/setup %}
 
