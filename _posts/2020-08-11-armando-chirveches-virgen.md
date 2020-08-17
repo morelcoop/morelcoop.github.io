@@ -8,8 +8,8 @@ edicion: 1920
 year: 
 category:
 - Armando Chirveches 
-repositorio: Katie Lawson
-repurl: https://archive.org/details/@katielawson
+repositorio: University of Toronto Libraries
+repurl: https://archive.org/details/robarts
 img: armando_chirveches_virgen_lago.jpg
 descarga: https://ia601405.us.archive.org/7/items/lavirgendellagopdf/lavirgendellagopdf.pdf
 tag: "Siglo XX"
