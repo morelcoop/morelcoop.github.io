@@ -7,8 +7,8 @@ edicion: 1901
 year: 
 category:
 - Amelia Francasci
-repositorio: Morel
-repurl: 
+repositorio: The American Libraries
+repurl: https://archive.org/details/americana
 img: francisca_martinoff_amelia_Morel.jpg
 descarga: https://ia601509.us.archive.org/31/items/franciscamartinfran/franciscamartinfran.pdf
 tag: "Siglo XX"
