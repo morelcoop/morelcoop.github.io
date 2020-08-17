@@ -7,8 +7,8 @@ edicion: 1891
 year:
 category:
 - Clorinda Matto de Turner
-repositorio: Morel
-repurl: 
+repositorio: European Libraries
+repurl: https://archive.org/details/europeanlibraries
 img: Indole_clorinda_matto_Morel.jpg
 descarga: https://ia601402.us.archive.org/3/items/indole-clorinda-matto/indole%20clorinda%20matto.pdf
 tag: "Siglo XIX"
