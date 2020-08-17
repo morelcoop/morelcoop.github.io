@@ -7,8 +7,8 @@ edicion: 1920
 year: 
 category:
 - José María Vargas Vila
-repositorio: Alicia UNC
-repurl: https://archive.org/details/@alicia-unc
+repositorio: University of North Carolina at Chapel Hill
+repurl: https://archive.org/details/unclibraries
 img: salome_vargas_vila_Morel.jpg
 descarga: https://ia601503.us.archive.org/1/items/salome-vargas-vila/Salom%C3%A9%20-%20Vargas%20Vila.pdf
 tag: "Siglo XX"
