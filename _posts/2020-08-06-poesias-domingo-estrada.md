@@ -7,8 +7,8 @@ edicion: 1902
 year: 
 category:
 - Domingo Estrada
-repositorio: Morel
-repurl: 
+repositorio: The American Libraries
+repurl: https://archive.org/details/americana
 img: poesias_domingo_estrada_Morel.jpg
 descarga: https://ia601402.us.archive.org/6/items/poesiasdomingoestrada/poesiasdomingoestrada.pdf
 tag: "Siglo XIX"
