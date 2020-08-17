@@ -7,7 +7,7 @@ edicion: 1893
 year: 
 category:
 - José María Heredia
-repositorio: The Internet Archive
+repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: poesias_liricas_heredia_Morel.jpg
 descarga: https://ia601400.us.archive.org/9/items/poesias-liricas-jose-maria-heredia/Poes%C3%ADas%20l%C3%ADricas%20Jos%C3%A9%20Mar%C3%ADa%20Heredia.pdf
