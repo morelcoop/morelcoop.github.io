@@ -7,8 +7,8 @@ edicion: 1993
 year: 1900
 category:
 - José Enrique Rodó
-repositorio: Gilgamesh2
-repurl: https://archive.org/details/@gilgamesh2
+repositorio: Community Texts
+repurl: https://archive.org/details/opensource
 img: Rodo_Ariel_Proteo_Selecto_Morel.jpg
 descarga: https://ia803100.us.archive.org/25/items/arielyproteoselectojoseenriquerodo684/Ariel%20y%20Proteo%20selecto%20-%20Jose%20Enrique%20Rodo_684.pdf
 tag: "Siglo XX"
