@@ -7,8 +7,8 @@ edicion: Garnier Hermanos
 year: 
 category:
 - Numa Pompilio Llona
-repositorio: Morel
-repurl: 
+repositorio: The American Libraries
+repurl: https://archive.org/details/americana
 img: estela_vida_numa_llona_Morel.jpg
 descarga: https://ia601509.us.archive.org/13/items/estela_vida_numa_llona_Morel/estela_vida_numa_llona_Morel.pdf
 tag: "Siglo XIX"
