@@ -11,7 +11,7 @@ repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: herencia_clorinda_matto_Morel.jpg
 descarga: https://ia601404.us.archive.org/8/items/herencianovelap00turngoog_202008/herencianovelap00turngoog.pdf
-tag: Siglo XIX
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/3658654
 comprar: https://amzn.to/3hdPZf2
 ---
