@@ -10,8 +10,8 @@ category:
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: pedro_arismendi_versos_apenas_Morel.jpg
-descarga: https://ia800708.us.archive.org/4/items/versosapenasvers00aris/versosapenasvers00aris.pdf
-tag: Siglo XX
+descarga: https://ia601407.us.archive.org/5/items/versos-apenas-versos/Versos%2C%20apenas%20versos.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/19676750
 comprar: https://amzn.to/3iW014U
 ---
