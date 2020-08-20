@@ -11,7 +11,7 @@ repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: guzman_papini_novia_poema_Morel.jpg
 descarga: https://ia601408.us.archive.org/22/items/guzman-papini-y-zas-la-novia-muerta/Guzm%C3%A1n%20Papini%20y%20Zas%20-%20La%20novia%20muerta.pdf
-tag: “Siglo XIX”
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/680645478
 comprar: https://amzn.to/31eIUWa
 ---
