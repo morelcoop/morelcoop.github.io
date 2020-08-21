@@ -7,6 +7,8 @@ edicion: 1911
 year:
 category:
 - Pedro Arismendi Brito
+nacionalidad: Venezuela
+nacimiento: 1832
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: pedro_arismendi_versos_apenas_Morel.jpg
