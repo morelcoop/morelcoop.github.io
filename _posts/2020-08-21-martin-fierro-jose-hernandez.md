@@ -7,7 +7,7 @@ edicion: 2003
 year: 1872
 category: 
 - José Hernandez
-nacionalidad: Argentina.
+nacionalidad: Argentina
 nacimiento: 1834
 repositorio: Community Texts 
 repurl: https://archive.org/details/opensource
