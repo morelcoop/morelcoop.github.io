@@ -1,12 +1,14 @@
 ---
 title: La estela de una vida, poemas líricos
 layout: post
-editorial: 1893
+editorial: Garnier Hermanos
 ciudad: París
-edicion: Garnier Hermanos
+edicion: 1893
 year: 
 category:
 - Numa Pompilio Llona
+nacionalidad: Ecuador
+nacimiento: 1832
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: estela_vida_numa_llona_Morel.jpg
