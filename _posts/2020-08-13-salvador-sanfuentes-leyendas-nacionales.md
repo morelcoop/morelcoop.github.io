@@ -7,6 +7,8 @@ edicion: 1885
 year: 
 category:
 - Salvador Sanfuentes
+nacionalidad: Chile
+nacimiento: 1817
 repositorio: American Libraries
 repurl: https://archive.org/details/americana
 img: salvador_sanfuentes_historias_nacionales_Morel.jpg
