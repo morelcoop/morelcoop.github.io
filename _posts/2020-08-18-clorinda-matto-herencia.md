@@ -7,6 +7,8 @@ edicion: 1895
 year:
 category:
 - Clorinda Matto de Turner
+nacionalidad: Perú
+nacimiento: 1852
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: herencia_clorinda_matto_Morel.jpg
