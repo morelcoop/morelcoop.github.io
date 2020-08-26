@@ -7,6 +7,8 @@ edicion: 1888
 year:
 category:
 - Juana Manuela Gorriti
+nacionalidad: Argentina
+nacimiento: 1818
 repositorio: Academia Argentina de las Letras
 repurl: http://www.aal.edu.ar/
 img: gorriti_oasis_Morel.jpg
