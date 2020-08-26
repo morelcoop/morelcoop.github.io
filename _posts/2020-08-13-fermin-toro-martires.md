@@ -7,6 +7,8 @@ edicion: 2017
 year: 1842
 category:
 - Fermín Toro
+nacionalidad: Venezuela
+nacimiento: 1806
 repositorio: El perro y la rana
 repurl: http://www.elperroylarana.gob.ve
 img: fermin_toro_martires_Morel.jpg
