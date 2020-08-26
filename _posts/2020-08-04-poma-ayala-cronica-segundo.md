@@ -7,6 +7,8 @@ edicion: 1980
 year: 1615 
 category:
 - Felipe Guamán Poma de Ayala
+nacionalidad: Perú
+nacimiento: 1534
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: coronica_poma_ayala_dos_Morel.jpg
