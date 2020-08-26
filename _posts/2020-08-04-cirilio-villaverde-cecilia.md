@@ -7,6 +7,8 @@ edicion: 1982
 year: 1839 
 category:
 - Cirilio Villaverde
+nacionalidad: Cuba
+nacimiento: 1812
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: cirilio_villaverde_cecilia_valdes_Morel.jpg
