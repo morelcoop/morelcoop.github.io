@@ -7,6 +7,8 @@ edicion: 1920
 year: 
 category:
 - José María Vargas Vila
+nacionalidad: Colombia
+nacimiento: 1860
 repositorio: University of North Carolina at Chapel Hill
 repurl: https://archive.org/details/unclibraries
 img: salome_vargas_vila_Morel.jpg
