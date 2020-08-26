@@ -7,6 +7,8 @@ edicion: 1902
 year: 
 category:
 - Domingo Estrada
+nacionalidad: Guatemala
+nacimiento: 1855
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: poesias_domingo_estrada_Morel.jpg
