@@ -7,6 +7,8 @@ edicion: 2015
 year: 1960
 category:
 - Felisberto Hernandez
+nacionalidad: Uruguay
+nacimiento: 1902
 repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: casa_inundada_felisberto_Morel.jpg
