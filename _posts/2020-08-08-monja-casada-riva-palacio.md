@@ -7,6 +7,8 @@ edicion: 1868
 year: 
 category:
 - Vicente Riva Palacio
+nacionalidad: México
+nacimiento: 1832
 repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: monja_casada_riva_Morel.jpg
