@@ -7,6 +7,8 @@ edicion: 1976
 year: 1608
 category:
 - Inca Garcilaso de la Vega
+nacionalidad: 
+nacimiento: 1539
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: comentarios_reales_garcilaso_Morel.jpg
