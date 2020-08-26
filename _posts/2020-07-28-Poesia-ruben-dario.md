@@ -7,6 +7,8 @@ edicion: 1983
 year:
 category:
 - Rubén Darío
+nacionalidad: Nicaragua
+nacimiento: 1867
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Ruben_Dario_Poesia_Morel.jpg
