@@ -7,6 +7,8 @@ edicion: 1885
 year:
 category:
 - Alirio Diaz Guerra
+nacionalidad: Colombia
+nacimiento: 1862
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: diaz_guerra_inundacion_Morel.jpg
