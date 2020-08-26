@@ -7,6 +7,8 @@ edicion: 1993
 year: 1926
 category:
 - Roberto Arlt
+nacionalidad: Argentina
+nacimiento: 1900
 repositorio: Red de Bibliotecas Landivarianas
 repurl: http://www.url.edu.gt/PortalBiblioteca/
 img: Roberto_Arlt_El_Juguete_rabioso_Morel.jpg
