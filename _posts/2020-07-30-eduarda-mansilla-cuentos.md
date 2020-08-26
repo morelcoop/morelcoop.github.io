@@ -7,6 +7,8 @@ edicion: 1880
 year:
 category:
 - Eduarda Mansilla de García
+nacionalidad: Argentina
+nacimiento: 1834
 repositorio: Community Texts
 repurl: https://archive.org/details/opensource
 img: mansilla_eduarda_cuentos_Morel.jpg
