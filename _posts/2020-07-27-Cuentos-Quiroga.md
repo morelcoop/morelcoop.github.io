@@ -7,6 +7,8 @@ edicion: 2004
 year: 1981
 category:
 - Horacio Quiroga
+nacionalidad: Uruguay
+nacimiento: 1878
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Horacio_Quiroga_Cuentos_Morel.jpg
