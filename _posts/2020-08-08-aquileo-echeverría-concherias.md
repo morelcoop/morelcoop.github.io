@@ -7,6 +7,8 @@ edicion: 1909
 year: 1905
 category:
 - Aquileo Echeverría
+nacionalidad: Costa Rica
+nacimiento: 1866
 repositorio: Community Texts
 repurl: https://archive.org/details/opensource
 img: concherias_aquileo_echeverria_Morel.jpg
