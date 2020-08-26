@@ -7,6 +7,8 @@ edicion: 1946
 year:
 category:
 - Arístides Rojas
+nacionalidad: Venezuela
+nacimiento: 1826
 repositorio: Biblioteca Digital César Rengifo
 repurl: http://bibliotecadigital.bnv.gob.ve/
 img: cronica_caracas_aristides_Morel.jpg
