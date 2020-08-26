@@ -7,6 +7,8 @@ edicion: 2008
 year: 
 category: 
 - Froylán Turcios
+nacionalidad: Honduras
+nacimiento: 1874
 repositorio: Biblioteca Virtual Miguel de Cervantes
 repurl: http://www.cervantesvirtual.com
 img: anecdotario_froylan_turcios_Morel.jpg
