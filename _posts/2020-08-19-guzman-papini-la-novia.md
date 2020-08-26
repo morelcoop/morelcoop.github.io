@@ -7,6 +7,8 @@ edicion: 1898
 year:
 category:
 - Guzmán Papini y Zas
+nacionalidad: Uruguay
+nacimiento: 1878
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: guzman_papini_novia_poema_Morel.jpg
