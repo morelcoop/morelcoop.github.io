@@ -7,6 +7,8 @@ edicion: 1900
 year:
 category:
 - Rufino Blanco Fombona
+nacionalidad: Venezuela
+nacimiento: 1874
 repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: cuentos_blanco_fombona_Morel.jpg
