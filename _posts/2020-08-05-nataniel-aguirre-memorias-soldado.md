@@ -7,6 +7,8 @@ edicion: 2016
 year: 1885
 category:
 - Nataniel Aguirre
+nacionalidad: Bolivia
+nacimiento: 1843
 repositorio: Biblioteca del Bicentenario de Bolivia Digital
 repurl: http://www.bbb.gob.bo
 img: nataniel_aguirre_memorias_soldado_Morel.jpg
