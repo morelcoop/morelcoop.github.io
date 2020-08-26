@@ -7,6 +7,8 @@ edicion: 1922
 year: 
 category:
 - Ernesto Noboa Caamaño
+nacionalidad: Ecuador
+nacimiento: 1889
 repositorio: Biblioteca Digital Casa de la Cultura Ecuatoriana
 repurl: http://repositorio.casadelacultura.gob.ec
 img: ernesto_noboa_romanza_horas_Morel.jpg
