@@ -6,7 +6,9 @@ ciudad: Buenos Aires
 edicion: 1916
 year: 1837
 category:
-- Esteban Echeverría 
+- Esteban Echeverría
+nacionalidad: Argentina
+nacimiento: 1805
 repositorio: Microfilm
 repurl: https://archive.org/details/microfilm
 img: esteban_echeverria_cautiva_Morel.jpg
