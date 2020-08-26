@@ -7,6 +7,8 @@ edicion: 1978
 year: 1867
 category:
 - Jorge Isaacs
+nacionalidad: Colombia
+nacimiento: 1837
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Maria_Jorge_Isaacs_Morel.jpg
