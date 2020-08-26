@@ -7,6 +7,8 @@ edicion: 1901
 year: 
 category:
 - Sor Juana Inés de la Cruz
+nacionalidad: México
+nacimiento: 1648
 repositorio: University of Toronto Libraries
 repurl: https://archive.org/details/robarts
 img: sor_juana_poesia_selecta_Morel.jpg
