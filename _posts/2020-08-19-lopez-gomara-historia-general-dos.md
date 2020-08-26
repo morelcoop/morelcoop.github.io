@@ -8,6 +8,8 @@ edicion: 1922
 year:
 category:
 - Francisco López de Gómara
+nacionalidad: España
+nacimiento: 1511
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: lopez_gomara_historia_indias_dos_Morel.jpg
