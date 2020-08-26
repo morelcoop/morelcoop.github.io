@@ -7,6 +7,8 @@ edicion: 1891
 year: 
 category:
 - Fernando de Alva Ixtlilxochitl
+nacionalidad: México
+nacimiento: 1568
 repositorio: American Libraries
 repurl: https://archive.org/details/americana
 img: obras_fernando_alva_Morel.jpg
