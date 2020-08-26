@@ -7,6 +7,8 @@ edicion: 1993
 year: 1945
 category:
 - Domingo Faustino Sarmiento
+nacionalidad: Argentina
+nacimiento: 1811
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Domingo_Sarmiento_Facundo_Morel.jpg
