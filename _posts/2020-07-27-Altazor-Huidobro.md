@@ -7,6 +7,8 @@ edicion: 1931
 year: 1931
 category:
 - Vicente Huidobro
+nacionalidad: Chile
+nacimiento: 1893
 repositorio: Archivo Rialta
 repurl: https://archive.org/details/@archivo_rialta
 img: Vicente_Huidobro_Altazor_Morel.jpg
