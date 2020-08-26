@@ -7,6 +7,8 @@ edicion: 1994
 year:
 category:
 - Tulio Febres Cordero
+nacionalidad: Venezuela
+nacimiento: 1860
 repositorio: Biblioteca Digital César Rengifo
 repurl: http://bibliotecadigital.bnv.gob.ve/
 img: cuentos_febres_cordero_Morel.jpg
