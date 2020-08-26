@@ -7,6 +7,8 @@ edicion: 1884
 year:
 category:
 - Antonio de Solis
+nacionalidad: España
+nacimiento: 1610
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: antonio_solis_historia_conquista_mejico_Morel.jpg
