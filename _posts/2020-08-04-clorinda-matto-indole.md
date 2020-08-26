@@ -7,6 +7,8 @@ edicion: 1891
 year:
 category:
 - Clorinda Matto de Turner
+nacionalidad: Perú
+nacimiento: 1852
 repositorio: European Libraries
 repurl: https://archive.org/details/europeanlibraries
 img: Indole_clorinda_matto_Morel.jpg
