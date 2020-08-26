@@ -7,8 +7,8 @@ edicion: 1875
 year:
 category:
 - Juana Manso
-nacionalidad: 1819
-nacimiento: Argentina
+nacionalidad: Argentina
+nacimiento: 1819
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: historia_provincias_manso_Morel.jpg
