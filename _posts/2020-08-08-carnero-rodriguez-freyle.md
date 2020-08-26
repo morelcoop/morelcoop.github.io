@@ -7,6 +7,8 @@ edicion: 1979
 year:
 category:
 - Juan Rodríguez Freyle
+nacionalidad: Colombia
+nacimiento: 1566
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: carnero_rodriguez_freyle_Morel.jpg
