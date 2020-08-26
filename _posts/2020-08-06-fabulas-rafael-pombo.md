@@ -7,6 +7,8 @@ edicion: 1910
 year: 
 category:
 - Rafael Pombo
+nacionalidad: Colombia
+nacimiento: 1833
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: fabulas_rafael_pombo_Morel.jpg
