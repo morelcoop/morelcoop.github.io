@@ -7,6 +7,8 @@ edicion: 1893
 year: 
 category:
 - José María Heredia
+nacionalidad: Cuba
+nacimiento: 1803
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: poesias_liricas_heredia_Morel.jpg
