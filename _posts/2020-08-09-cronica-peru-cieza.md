@@ -7,6 +7,8 @@ edicion: 1922
 year: 
 category:
 - Pedro Cieza de León
+nacionalidad: España
+nacimiento: 1520
 Repositorio: Community Texts
 repurl: https://archive.org/details/opensource
 img: cronica_peru_cieza_Morel.jpg
