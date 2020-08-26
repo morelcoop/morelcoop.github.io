@@ -7,7 +7,9 @@ ciudad: La Paz
 edicion: 1920
 year: 
 category:
-- Armando Chirveches 
+- Armando Chirveches
+nacionalidad: Bolivia
+nacimiento: 1881
 repositorio: University of Toronto Libraries
 repurl: https://archive.org/details/robarts
 img: armando_chirveches_virgen_lago.jpg
