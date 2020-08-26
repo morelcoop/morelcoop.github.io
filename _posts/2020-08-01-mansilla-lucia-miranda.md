@@ -7,6 +7,8 @@ edicion: 1882
 year: 1860
 category:
 - Eduarda Mansilla de García
+nacionalidad: Argentina
+nacimiento: 1834
 repositorio: Academia Argentina de las Letras
 repurl: http://www.aal.edu.ar/
 img: eduarda_mansilla_lucia_Morel.jpg
