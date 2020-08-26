@@ -7,6 +7,8 @@ edicion: 1878
 year:
 category:
 - Agustina Andrade
+nacionalidad: Argentina
+nacimiento: 1858
 repositorio: Academia Argentina de las Letras
 repurl: http://www.aal.edu.ar/
 img: Agustina_andrade_lagrimas_Morel.jpg
