@@ -7,6 +7,8 @@ edicion: 1993
 year: 1900
 category:
 - José Enrique Rodó
+nacionalidad: Uruguay
+nacimiento: 1871
 repositorio: Community Texts
 repurl: https://archive.org/details/opensource
 img: Rodo_Ariel_Proteo_Selecto_Morel.jpg
