@@ -7,6 +7,8 @@ edicion: 1913
 year: 
 category:
 - Arturo Ambrogi
+nacionalidad: El Salvador
+nacimiento: 1875
 repositorio: Biblioteca Nacional de El Salvador "Francisco Gavidia"
 repurl: http://www.redicces.org.sv/jspui/handle/10972/8
 img: ambrogi_tiempo_que_pasa_Morel.jpg
