@@ -7,6 +7,8 @@ edicion: 1901
 year: 
 category:
 - Amelia Francasci
+nacionalidad: República Dominicana
+nacimiento: 1850
 repositorio: The American Libraries
 repurl: https://archive.org/details/americana
 img: francisca_martinoff_amelia_Morel.jpg
