@@ -1,5 +1,5 @@
 ---
-title: El Marques de Talamanca. Los pretendientes. Don Concepción
+title: El Marqués de Talamanca. Los pretendientes. Don Concepción
 layout: post
 editorial: Imprenta de Angel E. Delgado
 ciudad: Santa Ana
