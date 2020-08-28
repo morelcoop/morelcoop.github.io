@@ -13,7 +13,7 @@ repositorio: Google Books
 repurl: http://books.google.com
 img: Fantasías_indijenas_jose_joaquin_Morel.jpg
 descarga: https://ia601401.us.archive.org/10/items/fantasias-indigenas-jose-joaquin-perez/Fantas%C3%ADas%20ind%C3%ADgenas%20-%20Jos%C3%A9%20Joaqu%C3%ADn%20P%C3%A9rez.pdf
-tag: Siglo XIX
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/796345374
 comprar: https://amzn.to/34D4Lsk
 ---
