@@ -14,7 +14,7 @@ repurl: https://books.google.com.bo
 img: zamudio_adela_misionero_Morel.jpg
 descarga: https://ia601404.us.archive.org/22/items/el-misionero-adela-zamudio/El%20misionero%20-%20Adela%20Zamudio.pdf
 tag: "Siglo XIX"
-biblioteca: 
+biblioteca: http://www.worldcat.org/oclc/4597555
 comprar: https://amzn.to/32w5CIC
 ---
 {% include JB/setup %}
