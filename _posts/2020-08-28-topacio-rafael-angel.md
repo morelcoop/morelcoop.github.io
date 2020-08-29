@@ -13,7 +13,7 @@ repositorio: American Libraries
 repurl: https://archive.org/details/americana
 img: topacio_rafael_troyo_Morel.jpg
 descarga: https://ia601409.us.archive.org/2/items/topacios-cuentos-y-fantasias-por-rafael-angel-troyo/Topacios%20%28Cuentos%20y%20Fantas%C3%ADas%29%20por%20Rafael%20Angel%20Troyo.pdf
-tag: Siglo XIX
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/903477783
 comprar: https://amzn.to/32EvYrN
 ---
