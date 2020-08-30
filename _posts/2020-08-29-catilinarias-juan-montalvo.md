@@ -19,4 +19,4 @@ comprar: https://amzn.to/3jnNGqv
 ---
 {% include JB/setup %}
 
-El sexto envidia. Nelson no tenía idea del miedo: cuando en su presencia nombraban este ruin afecto, no le era dable cuál fuese su naturaleza. Hay asimismo seres agraciados por Dios con una mirada especial, que no tienen nociones de la envidia; saben qué es, pero no la experimentan por su parte, con ser como es achaque de que adolecen, cual más cual menos, todos los mortales. La envidia es una blasfemia.
+Nelson no tenía idea del miedo: cuando en su presencia nombraban este ruin afecto, no le era dable cuál fuese su naturaleza. Hay asimismo seres agraciados por Dios con una mirada especial, que no tienen nociones de la envidia; saben qué es, pero no la experimentan por su parte, con ser como es achaque de que adolecen, cual más cual menos, todos los mortales. La envidia es una blasfemia.
