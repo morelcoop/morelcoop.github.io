@@ -13,7 +13,7 @@ repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: bohemia_sentimental_enrique_gomez_Morel.jpeg
 descarga: https://ia601502.us.archive.org/30/items/bohemia-sentimental-enrique-gomez-carrillo/Bohemia%20sentimental%20-%20Enrique%20G%C3%B3mez%20Carrillo.pdf
-tag: Siglo XX
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/4764509
 comprar: https://amzn.to/32EgDaL
 ---
