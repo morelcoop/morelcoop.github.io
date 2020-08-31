@@ -1,7 +1,7 @@
 ---
 title:  Relaciones de Yucatán I
 layout: post
-editorial: 
+editorial: La Real Academia de la Historia
 ciudad: Madrid
 edicion: 1898
 year:
@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1524
 repositorio: University of Michigan Books
 repurl: https://archive.org/details/michigan_books
-img: yucatan_diego_landa_Morel.jpeg
+img: yucatan_diego_landa_Morel.jpg
 descarga: https://ia601509.us.archive.org/25/items/relaciones-de-yucatan-i/Relaciones%20de%20Yucat%C3%A1n%20I.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/4689041
