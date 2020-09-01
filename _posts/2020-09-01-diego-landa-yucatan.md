@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1524
 repositorio: University of Michigan Books
 repurl: https://archive.org/details/michigan_books
-img: yucatan_diego_landa_dos_Morel.jpeg
+img: yucatan_diego_landa_dos_Morel.jpg
 descarga: https://ia601504.us.archive.org/30/items/relaciones-de-yucatan-ii/Relaciones%20de%20Yucat%C3%A1n%20II.pdf
 biblioteca: http://www.worldcat.org/oclc/4689041
 comprar: https://amzn.to/31LmrAb
