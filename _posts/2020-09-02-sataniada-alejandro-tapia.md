@@ -11,7 +11,7 @@ nacionalidad: Puerto Rico
 nacimiento: 1827
 repositorio: Google Books
 repurl: http://books.google.com
-img: sataniada_tapia_Morel.jpg
+img: La_sataniada_Morel.jpg
 descarga: https://ia601401.us.archive.org/9/items/la-sataniada/La%20Sataniada.pdf
 biblioteca: http://www.worldcat.org/oclc/731003955
 comprar: https://amzn.to/2QT7pSI
