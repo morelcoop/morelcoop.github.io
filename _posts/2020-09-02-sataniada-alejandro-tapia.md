@@ -6,7 +6,7 @@ ciudad: Madrid
 edicion: 1878
 year:
 category: 
-- Alejandro Tapia y Ribera
+- Alejandro Tapia y Rivera
 nacionalidad: Puerto Rico
 nacimiento: 1827
 repositorio: Google Books
