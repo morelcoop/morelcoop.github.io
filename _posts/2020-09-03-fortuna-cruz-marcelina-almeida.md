@@ -13,6 +13,7 @@ repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: fortuna_cruz_Morel.jpg
 descarga: https://ia801402.us.archive.org/21/items/por-una-fortuna-una-cruz-marcelina-almeida/Por%20una%20fortuna%20una%20cruz%20-%20Marcelina%20Almeida.pdf
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/630124267
 comprar: 
 ---
