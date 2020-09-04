@@ -13,6 +13,7 @@ repositorio: Community Texts
 repurl: https://archive.org/details/opensource
 img: francisco_cuento_Morel.jpg
 descarga: https://ia601400.us.archive.org/2/items/cuento-de-marinos-francisco-gavidia/Cuento%20de%20Marinos%20-%20Francisco%20Gavidia.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/9920788
 comprar: 
 ---
