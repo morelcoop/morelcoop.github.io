@@ -13,6 +13,7 @@ repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: pregon_marimorena_virginia_brindis_Morel.jpg
 descarga: https://ia601403.us.archive.org/7/items/pregon-de-marimorena-virginia-brindis-de-salas/Pregon%20De%20Marimorena%20-%20Virginia%20Brindis%20de%20Salas.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/1136895852
 comprar: 
 ---
