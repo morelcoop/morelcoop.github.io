@@ -4,7 +4,7 @@ layout: post
 editorial: La Real Academia de la Historia
 ciudad: Madrid
 edicion: 1900
-year:
+year: 1566
 category: 
 - Diego de Landa
 nacionalidad: España
@@ -13,6 +13,7 @@ repositorio: University of Michigan Books
 repurl: https://archive.org/details/michigan_books
 img: yucatan_diego_landa_dos_Morel.jpg
 descarga: https://ia601504.us.archive.org/30/items/relaciones-de-yucatan-ii/Relaciones%20de%20Yucat%C3%A1n%20II.pdf
+tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/4689041
 comprar: https://amzn.to/31LmrAb
 ---
