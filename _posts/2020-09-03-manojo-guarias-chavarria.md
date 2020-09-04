@@ -32,7 +32,6 @@ Te ofrezco el ramillete delicado
  
 de las frescas parásitas nativas:
  
-
 lo recogí no ha mucho de mi prado
  
 de heléchos y jaral y siemprevivas
