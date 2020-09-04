@@ -13,6 +13,7 @@ repositorio: Internet Archive Wayback Machine
 repurl: https://web.archive.org/web/
 img: Raza_de_bronce_Alcides_Morel.jpg
 descarga: https://ia601509.us.archive.org/10/items/raza-de-bronce-alcides-arguedas/Raza%20de%20Bronce%20-%20Alcides%20Arguedas.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/155391018
 comprar: https://amzn.to/350JGIu
 ---
