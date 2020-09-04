@@ -13,6 +13,7 @@ repositorio: American Libraries
 repurl: https://archive.org/details/americana
 img: doña_juana_oconnor_arlach.jpg
 descarga: https://ia601501.us.archive.org/4/items/dona-juana-sanchez-tomas-o-connor-d-arlach/Do%C3%B1a%20Juana%20Sanchez%20-%20Tomas%20O%27Connor%20d%27%20Arlach.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/613177110
 comprar: https://amzn.to/3gZ2xpy
 ---
