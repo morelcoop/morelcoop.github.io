@@ -13,6 +13,7 @@ repositorio: American Libraries
 repurl: https://archive.org/details/americana
 img: tradiciones_peruanas_palma_tres_Morel.jpg
 descarga: https://ia601505.us.archive.org/23/items/tradiciones-peruanas-iii/Tradiciones%20peruanas%20III.pdf
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/252662568
 comprar: https://amzn.to/3bkISzm
 ---
