@@ -11,7 +11,7 @@ nacionalidad: Venezuela
 nacimiento: 1769
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
-img: Bolivar_Contra_Bolivar_Morel
+img: Bolivar_Contra_Bolivar_Morel.jpg
 descarga: https://ia601408.us.archive.org/32/items/bolivar-contra-bolivar/Bolivar_Contra_Bolivar.pdf
 tag: Siglo XIX
 biblioteca: 
