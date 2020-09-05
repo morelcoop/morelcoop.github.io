@@ -11,7 +11,7 @@ nacionalidad: Cuba
 nacimiento: 1809
 repositorio: European Libraries
 repurl: https://archive.org/details/europeanlibraries
-img: placido_poesias_Morel
+img: placido_poesias_Morel.jpg
 descarga: https://ia601509.us.archive.org/19/items/poesias-completas-gabriel-de-la-concepcion-valdes/Poes%C3%ADas%20Completas%20-%20Gabriel%20de%20la%20Concepci%C3%B3n%20Vald%C3%A9s.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/489800126
