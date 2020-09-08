@@ -11,7 +11,7 @@ nacionalidad: Argentina
 nacimiento: 1862
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
-img: marianela_cronicas_angelica_palma_Morel.jpg
+img: tierra_purpurea_guillermo_hudson_Morel.jpg
 descarga: https://ia601506.us.archive.org/10/items/la-tierra-purpurea-alla-lejos-y-hace-tiempo-william-henry-hudson/La_tierra_purpurea_Alla_lejos_y_hace_tiempo_William_Henry_Hudson.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/251850080
