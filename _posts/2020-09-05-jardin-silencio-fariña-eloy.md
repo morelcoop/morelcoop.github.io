@@ -13,7 +13,7 @@ repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: eloy_fariña_jardin_ensayos_Morel.jpg
 descarga: https://ia601505.us.archive.org/18/items/el-jardin-del-silencio/El%20jardin%20del%20silencio.pdf
-tag: Siglo XX
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/733542896
 comprar: 
 ---
