@@ -9,11 +9,11 @@ category:
 - Ignacio Rodríguez Galván
 nacionalidad: México
 nacimiento: 1816
-repositorio: Consejo Latinoamericano de Ciencias Sociales
-repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
+repositorio: Microfilm
+repurl: https://archive.org/details/microfilm
 img: poesias_ignacio_rodriguez_Morel.jpg
 descarga: https://ia801507.us.archive.org/7/items/poesias-de-ignacio-rodriguez-galvan/Poes%C3%ADas%20de%20Ignacio%20Rodr%C3%ADguez%20Galv%C3%A1n.pdf
-tag: Siglo XIX
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1222909
 comprar: https://amzn.to/3k2Jixx
 ---
