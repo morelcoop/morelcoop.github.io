@@ -4,7 +4,7 @@ layout: post
 editorial: Imprenta del Ferro-Carril
 ciudad: Santiago de Chile
 edicion: 1865
-year: ‎ 
+year: 
 category: 
 - Pedro Mariño de Lovera
 nacionalidad: España
@@ -13,7 +13,7 @@ repositorio: Google Books
 repurl: http://books.google.com
 img: cronica_chile_lovera_Morel.jpg
 descarga: https://ia601500.us.archive.org/21/items/cronica-del-reino-de-chile/Cr%C3%B3nica_del_reino_de_Chile.pdf
-tag: Colonial
+tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/681505833
 comprar: https://amzn.to/2R12jE1
 ---
