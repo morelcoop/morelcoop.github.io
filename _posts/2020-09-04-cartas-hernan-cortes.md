@@ -13,7 +13,7 @@ repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: cartas_hernan_cortes_Morel.jpg
 descarga: https://ia801504.us.archive.org/34/items/cartas-y-relaciones-hernan-cortes/Cartas%20y%20relaciones%20-%20Hern%C3%A1n%20Cort%C3%A9s.pdf
-tag: Colonial
+tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/731097274
 comprar: https://amzn.to/3i251Fc
 ---
