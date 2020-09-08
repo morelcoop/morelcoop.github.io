@@ -13,7 +13,7 @@ repositorio: Biblioteca Digital Casa de la Cultura Ecuatoriana
 repurl: http://repositorio.casadelacultura.gob.ec/
 img: llaga_gonzalez_augusto_Morel.jpg
 descarga: https://ia601408.us.archive.org/6/items/la-llaga-nicolas-augusto-gonzalez/La%20llaga%20-%20Nicol%C3%A1s%20Augusto%20Gonz%C3%A1lez.pdf
-tag: Siglo XX
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/21389626
 comprar: https://amzn.to/3jOsGcF
 ---
