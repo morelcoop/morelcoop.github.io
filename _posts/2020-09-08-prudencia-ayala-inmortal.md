@@ -11,7 +11,7 @@ nacionalidad: El Salvador
 nacimiento: 1885
 repositorio: Community Texts
 repurl: https://archive.org/details/opensource
-img: amores_loca_rodriguez_Morel.jpg
+img: amores_loca_rodriguez_Morel.jpeg
 descarga: https://ia803006.us.archive.org/6/items/InmortalAmoresDeLoca/Inmortal%20amores%20de%20loca.pdf
 tag: "Siglo XIX"
 biblioteca: 
