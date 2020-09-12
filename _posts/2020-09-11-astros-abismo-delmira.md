@@ -9,7 +9,7 @@ category:
 - Delmira Agustini
 nacionalidad: Uruguay
 nacimiento: 1886
-repositorio: Autores uruguayos:
+repositorio: Autores Uruguayos
 repurl: https://archive.org/details/autores
 img: astros_del_abismo_Morel.jpg
 descarga: https://ia601407.us.archive.org/7/items/los-astros-del-abismo-delmira-agustina/Los%20astros%20del%20abismo%20-%20Delmira%20Agustina.pdf
