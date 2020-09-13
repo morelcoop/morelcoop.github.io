@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1523
 repositorio: European Libraries
 repurl: https://archive.org/details/europeanlibraries
-img: historia_chile_alonso_gongora_Morel.jpg
+img: historia_chile_gongora_marmolejo_Morel.jpg
 descarga: https://ia801500.us.archive.org/3/items/historia-de-chile-alonso-de-gongora-marmolejo/Historia%20de%20Chile%20-%20Alonso%20de%20G%C3%B3ngora%20Marmolejo.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/1025771802
