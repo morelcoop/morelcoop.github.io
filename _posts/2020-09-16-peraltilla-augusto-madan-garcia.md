@@ -11,7 +11,7 @@ nacionalidad: Cuba
 nacimiento: 1853
 repositorio: American Libraries
 repurl: https://archive.org/details/americana
-img: fundacion_nacionalidad_arosemena_Morel.jpg
+img: peraltilla_madan_garcia_Morel.jpg
 descarga: https://ia801508.us.archive.org/30/items/peraltilla-augusto-madan-y-garcia/Peraltilla%20-%20Augusto%20Madan%20y%20Garci%CC%81a.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/12189892
