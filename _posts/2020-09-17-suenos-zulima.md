@@ -10,7 +10,8 @@ category:
 nacionalidad: Venezuela
 nacimiento: 
 repositorio: Universidad de North Carolina en Chapell Hill
-repurl: https://archive.org/details/unclibraries img: sueños_de_zulima_Morel.jpg
+repurl: https://archive.org/details/unclibraries
+img: sueños_de_zulima_Morel.jpg
 descarga: https://ia601502.us.archive.org/19/items/los-suenos-de-zulima/Los%20suen%CC%83os%20de%20Zulima.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1037870138
