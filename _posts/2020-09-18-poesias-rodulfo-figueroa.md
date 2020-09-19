@@ -9,11 +9,11 @@ category:
 - Rodulfo Figueroa
 nacionalidad: México
 nacimiento: 1866
-repositorio: 
-repurl: 
+repositorio: Biblioteca Ludwig von Mises, Universidad Francisco Marroquín
+repurl: https://archive.org/details/sigloxx
 img: rodulfo_figueroa_poesias.jpg
 descarga: https://ia601405.us.archive.org/10/items/poesias-rodulfo-figueroa/Poes%C3%ADas%20-%20Rodulfo%20Figueroa.pdf
-tag: Siglo XX
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/50575886
 comprar: https://amzn.to/33CbUaa
 ---
