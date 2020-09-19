@@ -13,7 +13,7 @@ repositorio: Biblioteca Virtual Miguel de Cervantes
 repurl: http://www.cervantesvirtual.com
 img: aborigenes_costa_rica.jpg
 descarga: https://ia801508.us.archive.org/20/items/los-aborigenes-de-costa-rica-cg/Los%20abor%C3%ADgenes%20de%20Costa%20Rica%20_%20CG.pdf
-tag: Siglo XX
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/318460911
 comprar: 
 ---
