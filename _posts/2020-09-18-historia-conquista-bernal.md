@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1495
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
-img: historia_verdadera_bernal.jpg
+img: historia_bernal_diaz.jpg
 descarga: https://archive.org/details/historia-verdadera-de-la-conquista-tomo-i-bernal-diaz
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/834222684
