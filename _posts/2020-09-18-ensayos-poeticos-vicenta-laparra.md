@@ -2,7 +2,7 @@
 title: Ensayos poéticos
 layout: post
 editorial: Tipografía El Progreso
-ciudad: 
+ciudad: Guatemala
 edicion: 1883
 year:
 category: 
@@ -13,7 +13,7 @@ repositorio: Biblioteca Ludwig von Mises, Universidad Francisco Marroquín
 repurl: https://archive.org/details/sigloxx
 img: ensayos_poeticos_laparra.jpg
 descarga: https://ia801505.us.archive.org/10/items/ensayos-poeticos-vicenta-laparra-de-la-cerda/Ensayos%20Po%C3%A9ticos%20-%20Vicenta%20Laparra%20de%20la%20Cerda.pdf
-tag: Siglo XX
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/50576026
 comprar: https://amzn.to/2RHrHyN
 ---
