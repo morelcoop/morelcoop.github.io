@@ -11,7 +11,7 @@ nacionalidad: Perú
 nacimiento: 1892
 repositorio: Canadian Libraries
 repurl: https://archive.org/details/toronto
-img: tungsteno_cesar_vallejo_Morel.jpg
+img: tungsteno_vallejo_Morel.jpg
 descarga: https://ia801409.us.archive.org/10/items/el-tungsteno-cesar-vallejo/El%20tungsteno%20-%20C%C3%A9sar%20Vallejo.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/500058442
