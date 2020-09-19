@@ -4,7 +4,7 @@ layout: post
 editorial: Imprenta de I. Escalante
 ciudad: México
 edicion: 1870
-year:
+year: 1632
 category: 
 - Bernal Díaz del Castillo
 nacionalidad: España
