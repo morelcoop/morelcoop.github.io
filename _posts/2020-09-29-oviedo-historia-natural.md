@@ -19,4 +19,4 @@ comprar: https://amzn.to/2Gmm7zw
 ---
 {% include JB/setup %}
  
-Quanto á la hortaliza que en Tierra Firme en esta provincia de Cueva hay, la mayor parle es trayda la simiente de España, como lechugas, rábanos, acelgas, hiervabuena, peregil, bercas, nabos, pepinos, melones, fésolos (y estos fésoles también son naturales á Tierra Firme, é los hay en más cantidad e de más maneras que en partes del mundo se pueden aver), ápio de lo de España hay mucho, é llevada la simiente de Castilla. Hay culantro de la simiente que se llevó de Sevilla, é hay otro ques de la tierra, las hojas anchas; pero es el mesmo en el sabor. 
+Quanto á la hortaliza que en Tierra Firme en esta provincia de Cueva hay, la mayor parle es trayda la simiente de España, como lechugas, rábanos, acelgas, hiervabuena, peregil, bercas, nabos, pepinos, melones, fésolos (y estos fésoloos también son naturales á Tierra Firme, é los hay en más cantidad e de más maneras que en partes del mundo se pueden aver), ápio de lo de España hay mucho, é llevada la simiente de Castilla. Hay culantro de la simiente que se llevó de Sevilla, é hay otro ques de la tierra, las hojas anchas; pero es el mesmo en el sabor. 
