@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1511 
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
-img: madre_culpable_Morel.jpg
+img: Historia_conquista_de_Mexico_Morel
 descarga: https://ia601402.us.archive.org/33/items/historia-de-la-conquista-de-mexico-francisco-lopez-de-gomara/Historia_de_la_conquista_de_Mexico_Francisco_Lopez_de_Gomara.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/1172354310
