@@ -6,7 +6,7 @@ ciudad: Lima
 edicion: 1900
 year:
 category: 
-- Cesar Vallejo
+- César Vallejo
 nacionalidad: Perú
 nacimiento: 1892
 repositorio: Canadian Libraries
