@@ -7,7 +7,7 @@ edicion: 1938
 year: 
 categories:
 - Manuel González Prada
-- Rufino Blanco-Fombona 
+- Rufino Blanco Fombona 
 repositorio: Cervantes Virtual
 repurl: http://www.cervantesvirtual.com
 img: Manuel_Gonzalez_Prada-Figuras_y_figurones-MOREL.jpg
