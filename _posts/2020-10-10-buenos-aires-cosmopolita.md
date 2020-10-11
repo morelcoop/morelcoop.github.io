@@ -2,7 +2,7 @@
 title: Buenos Aires Cosmopólita
 layout: post
 editorial: J. Bosch
-ciudad: Buenos Aire
+ciudad: Buenos Aires
 edicion: 1900
 year: 
 category:
