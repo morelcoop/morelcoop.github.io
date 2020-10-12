@@ -11,7 +11,7 @@ nacionalidad: Bolivia
 nacimiento: 1881
 repositorio: American Libraries
 repurl: https://archive.org/details/americana
-img: litigio_paraguayo_boliviano_Morel.jpg
+img: litigio_boliviano_Morel.jpg
 descarga: https://ia801508.us.archive.org/17/items/litigio-paraguayo-boliviano-abel-alarcon/Litigio%20paraguayo-boliviano%20-%20Abel%20Alarc%C3%B3n.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/25600033
