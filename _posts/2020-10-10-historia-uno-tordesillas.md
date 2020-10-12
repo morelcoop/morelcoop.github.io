@@ -1,9 +1,9 @@
 ---
-title: Descripción de las Indias Occidentales
+title: Descripción de las Indias Occidentales I
 layout: post
 editorial:  Imprenta Real de Rodiguez Franco
 ciudad: Madrid
-edicion: 1726
+edicion: 1720
 year: 
 category:
 - Antonio de Herrera y Tordesillas
@@ -12,13 +12,12 @@ nacimiento: 1549
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: historia_tordesillas_uno_Morel.jpg
-descarga: https://ia601401.us.archive.org/15/items/tomo-ii-historia-general-de-los-hechos-de-los-castellanos-en-las-islas-i-tierra-/Tomo%20II%20Historia%20general%20de%20los%20hechos%20de%20los%20castellanos%20en%20las%20islas%20i%20tierra%20firme%20del%20mar%20oc%C3%A9ano%20II.pdf
-tag: "Colonial"
-biblioteca: http://www.worldcat.org/oclc/3509220
+descarga: https://ia601401.us.archive.org/21/items/tomo-i-historia-general-de-los-hechos-de-los-castellanos-en-las-islas-i-tierra-f/Tomo%20I%20Historia%20general%20de%20los%20hechos%20de%20los%20castellanos%20en%20las%20islas%20i%20tierra%20firme%20del%20mar%20oc%C3%A9ano%20I.pdf
+tag: Colonial
+biblioteca: http://www.worldcat.org/oclc/16109253
 comprar: https://amzn.to/3nGTmPd
 ---
 {% include JB/setup %}
 
-OTRO DÍA, por la mañana, acudieron muchas Canoas con Gente, pidiendo los Indios que havian quedado por rehenes: refpondiófeles, que diefen los Chriftianos. Eran ellos Indios de mejor talle, que los que halla entonces havian vifto, i entre ellos iban cinco, 6 feis Señores, con Mantas de Martas, i los cabellos largos, i fueltos.
- 
-Rogaban á los Caftellanos, que fe fuefen con ellos, que les darían Agua, i otras cofas, i a los dos Chriftianos: i porque aquella Eftancia era peligrofa, las Barcas fe falieron á la Mar, i los Indios tiraban piedras con Hondas i Varas, i algunas Flechas, porque no fe vieron entre ellos mas de quatró, ó cinco Arcos. 
+Llegado Francifco Pizarro por Tierra al Señorío de Abrayme, como de las
+entradas pafadas, la Tierra eftaba alterada, no hallaron Oro, ni Gente, ni aun que comer, i de hambre perecían: por lo qual comieron fiete Caballos, que llevaban para poder bolver al Darien, adonde llegaron con harto defmaio, i trifteza. Bolvió donde á pocos días Diego de Albitez con gran cantidad de Oro, i muchos Efclavos, que tomó en la Cofta de Nombre de Dios, i Provincias de Chagre, i Veragua.
