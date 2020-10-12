@@ -1,7 +1,7 @@
 ---
 title: Descripción de las Indias Occidentales I
 layout: post
-editorial:  Imprenta Real de Rodiguez Franco
+editorial:  Imprenta Real de Rodríguez Franco
 ciudad: Madrid
 edicion: 1720
 year: 
