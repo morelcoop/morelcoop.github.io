@@ -15,7 +15,7 @@ img: historia_yucatan_dos_Morel.jpg
 descarga: https://ia801401.us.archive.org/18/items/historia-de-yucatan-ii-diego-lopez-cogolludo/Historia%20de%20Yucatan%20II%20-%20Diego%20L%C3%B3pez%20Cogolludo.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/831256641
-comprar: https://amzn.to/34HoWna
+comprar: 
 ---
 {% include JB/setup %}
 
