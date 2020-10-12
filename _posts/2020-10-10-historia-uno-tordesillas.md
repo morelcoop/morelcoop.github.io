@@ -1,5 +1,5 @@
 ---
-title: Descripción de las Indias Occidentales, Historia general de los hechos de los castellanos en las islas i tierra firme del mar océano
+title: Descripción de las Indias Occidentales
 layout: post
 editorial:  Imprenta Real de Rodiguez Franco
 ciudad: Madrid
@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1549
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
-img: historia_tordesillas_dos_Morel.jpg
+img: historia_tordesillas_uno_Morel.jpg
 descarga: https://ia601401.us.archive.org/15/items/tomo-ii-historia-general-de-los-hechos-de-los-castellanos-en-las-islas-i-tierra-/Tomo%20II%20Historia%20general%20de%20los%20hechos%20de%20los%20castellanos%20en%20las%20islas%20i%20tierra%20firme%20del%20mar%20oc%C3%A9ano%20II.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/3509220
