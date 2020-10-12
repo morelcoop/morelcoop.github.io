@@ -19,6 +19,6 @@ comprar: https://amzn.to/3nGTmPd
 ---
 {% include JB/setup %}
 
-OTRO Día,por la mañana,acudieron muchas Canoas con Gente, pidiendo los Indios que havian quedado por rehenes: refpondiófeles, que diefen los Chriftianos. Eran ellos Indios de mejor talle, que los que halla entonces havian vifto, i entre ellos iban cinco, 6 feis Señores, con Mantas de Martas, i los cabellos largos, i fueltos.
+OTRO DÍA, por la mañana, acudieron muchas Canoas con Gente, pidiendo los Indios que havian quedado por rehenes: refpondiófeles, que diefen los Chriftianos. Eran ellos Indios de mejor talle, que los que halla entonces havian vifto, i entre ellos iban cinco, 6 feis Señores, con Mantas de Martas, i los cabellos largos, i fueltos.
  
 Rogaban á los Caftellanos, que fe fuefen con ellos, que les darían Agua, i otras cofas, i a los dos Chriftianos: i porque aquella Eftancia era peligrofa, las Barcas fe falieron á la Mar, i los Indios tiraban piedras con Hondas i Varas, i algunas Flechas, porque no fe vieron entre ellos mas de quatró, ó cinco Arcos. 
