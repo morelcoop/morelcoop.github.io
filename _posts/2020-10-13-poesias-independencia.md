@@ -13,6 +13,7 @@ repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Poesia_de_la_independencia.jpg
 descarga: https://ia601404.us.archive.org/30/items/poesia-de-la-independencia/Poesia_de_la_independencia.pdf
+tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/731034333
 comprar: 
 ---
