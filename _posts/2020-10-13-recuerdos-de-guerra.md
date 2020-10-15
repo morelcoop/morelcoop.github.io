@@ -1,7 +1,7 @@
 ---
 title: Recuerdos de la Guerra del Paraguay
 layout: post
-editorial:Imprenta de J. Peuser
+editorial: Imprenta de J. Peuser
 ciudad: Buenos Aires 
 edicion: 1889
 year: 
