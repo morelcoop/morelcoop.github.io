@@ -5,7 +5,7 @@ editorial: Biblioteca Ayacucho
 ciudad:  Caracas
 edicion: 1990
 year: 1937
-category : "Jósé Rafael Pocaterra"
+category : "José Rafael Pocaterra"
 repositorio: Biblioteca Ayacucho Digital
 repurl: 
 img: Jose_rafael_pocaterra_memorias_de_un_venezolano_de_la_decadencia_tomo_1-MOREL.jpg
