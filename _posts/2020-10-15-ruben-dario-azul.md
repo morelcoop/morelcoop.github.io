@@ -5,6 +5,7 @@ editorial: Imprenta Y Litografía Excelsior
 ciudad: Valparaíso
 edicion: 1888
 year: 
+category:
 - Rubén Darío
 nacionalidad: Nicaragua
 nacimiento: 1867
