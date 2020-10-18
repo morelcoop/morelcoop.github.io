@@ -5,6 +5,7 @@ editorial:
 ciudad: Madrid
 edicion: 1841
 year: 
+category:
 - Gertrudis Gómez de Avellaneda
 nacionalidad: Cuba
 nacimiento: 1814
