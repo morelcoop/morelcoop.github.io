@@ -19,4 +19,4 @@ comprar: https://amzn.to/3jcLhOE
 ---
 {% include JB/setup %}
 
-Perdón y vengana.- El perdón consiste en disimular ó hacer caso omiso de los agravios hechos á nuestra persona, siempre que no se trate de nuestro honor, pues en este caso, aunque debemos perdonar á nuestro ofensor, no nos es permitido disimular la ofensa, sino que es deber nuestro vindicarnos, esclareciendo á los ojos de los demás no haber sido merecedores de una falsa imputación que ataque nuestro buen nombre y nuestro honor.
+Perdón y venganza.- El perdón consiste en disimular ó hacer caso omiso de los agravios hechos á nuestra persona, siempre que no se trate de nuestro honor, pues en este caso, aunque debemos perdonar á nuestro ofensor, no nos es permitido disimular la ofensa, sino que es deber nuestro vindicarnos, esclareciendo á los ojos de los demás no haber sido merecedores de una falsa imputación que ataque nuestro buen nombre y nuestro honor.
