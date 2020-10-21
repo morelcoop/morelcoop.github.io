@@ -1,7 +1,7 @@
 ---
 title: Poesías
 layout: post
-editorial: 
+editorial: Establecimiento Tipográfico, Calle del Sorbo
 ciudad: Madrid
 edicion: 1841
 year: 
