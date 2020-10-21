@@ -1,7 +1,7 @@
 ---
 title: Poesías
 layout: post
-editorial: Establecimiento Tipográfico
+editorial: Establecimiento Tipográfico Calle del Sordo num. 11
 ciudad: Madrid
 edicion: 1841
 year: 
