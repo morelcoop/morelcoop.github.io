@@ -1,7 +1,7 @@
 ---
 title: Los cálices vacíos
 layout: post
-editorial: 
+editorial: O. M. Bertani, Editor
 ciudad: Montevideo
 edicion: 1913
 year: 
