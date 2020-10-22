@@ -11,7 +11,7 @@ nacionalidad: España
 nacimiento: 1500 
 repositorio: European Libraries
 repurl: https://archive.org/details/europeanlibraries
-img: Cosas_Nueva_España_cinto.jpg
+img: Cosas_Nueva_España_cinco.jpg
 descarga: https://ia601408.us.archive.org/18/items/historia-general-de-las-cosas-de-nueva-espana-v/Historia%20general%20de%20las%20cosas%20de%20Nueva%20Espa%C3%B1a%20V.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/961047367
