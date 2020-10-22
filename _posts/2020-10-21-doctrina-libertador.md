@@ -1,7 +1,7 @@
 ---
 title: Doctrina del Libertador
 layout: post
-editorial: Fundación Biblioteca Ayacucho.
+editorial: Biblioteca Ayacucho
 ciudad: Caracas
 edicion: 1979
 year: 
