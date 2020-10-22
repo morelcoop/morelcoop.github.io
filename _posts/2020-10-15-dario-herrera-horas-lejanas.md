@@ -12,7 +12,7 @@ nacimiento: 1870
 repositorio: Biblioteca Digital del Patrimonio Iberoamericano
 repurl: http://www.iberoamericadigital.net
 img: dario_herrera_Morel.jpg
-descarga:  https://ia601505.us.archive.org/8/items/horaslejanas1/horaslejanas1.pdf
+descarga:  https://ia601509.us.archive.org/28/items/horas-lejanas/horas%20lejanas.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/2396704
 comprar: 
