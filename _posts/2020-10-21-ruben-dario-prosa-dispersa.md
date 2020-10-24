@@ -12,7 +12,6 @@ nacimiento: 1867
 repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: prosa_dispersa.jpg
-descarga: 
 epub: https://archive.org/download/pg55616-images/pg55616-images.epub
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/2934011
