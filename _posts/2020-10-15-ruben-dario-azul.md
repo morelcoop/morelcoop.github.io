@@ -13,6 +13,7 @@ repositorio: Biblioteca Virtual Miguel de Cervantes
 repurl: http://www.cervantesvirtual.com
 img: azul_ruben_dario_Morel.jpg
 descarga: https://ia601403.us.archive.org/35/items/azul_20201017/azul.pdf
+epub: https://archive.org/download/pg55616-images/pg55616-images.epub
 tag: Siglo XIX
 biblioteca: http://www.worldcat.org/oclc/9876259
 comprar: https://amzn.to/3j7x5qg
