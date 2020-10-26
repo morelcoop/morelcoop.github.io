@@ -13,6 +13,7 @@ repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: cuentos_blanco_fombona_Morel.jpg
 descarga: https://ia601503.us.archive.org/14/items/blanco-fombona-cuentos/blanco-fombona-cuentos.pdf
+epub: http://www.gutenberg.org/ebooks/60376.epub.images?session_id=8a4024cf856ba29732eb76440e3b05adf4b05442
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/633682205
 comprar: https://amzn.to/3fUqRIM
