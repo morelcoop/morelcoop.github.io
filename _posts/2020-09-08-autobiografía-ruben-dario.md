@@ -13,6 +13,7 @@ repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: autobiografía_ruben_dario_Morel.jpg
 descarga: https://ia601402.us.archive.org/9/items/la-vida-de-ruben-dario-narrada-por-el-mismo_202009/La%20vida%20de%20Rub%C3%A9n%20Dar%C3%ADo%20narrada%20por%20%C3%A9l%20mismo.pdf
+epub: https://archive.org/download/autobiografia-ruben-dario/Autobiograf%C3%ADa%20-%20Rub%C3%A9n%20Dar%C3%ADo.epub
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/2933935
 comprar: https://amzn.to/339y2Zo
