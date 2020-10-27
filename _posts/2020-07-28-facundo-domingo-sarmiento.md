@@ -10,9 +10,11 @@ category:
 nacionalidad: Argentina
 nacimiento: 1811
 repositorio: Consejo Latinoamericano de Ciencias Sociales
+repositorio2: Proyecto Gutenberg
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Domingo_Sarmiento_Facundo_Morel.jpg
 descarga: https://ia601500.us.archive.org/34/items/sarmiento-domingo-faustino.-facundo-1993/Sarmiento%2C%20Domingo%20Faustino.%20-%20Facundo%20%5B1993%5D.pdf
+epub: http://www.gutenberg.org/ebooks/33267.epub.images?session_id=f8b1c3a67b520045212b4d6d338ee9e3798c53ed
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/40897973
 comprar: https://amzn.to/3aqeS4B
