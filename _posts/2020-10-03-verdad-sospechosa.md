@@ -10,9 +10,11 @@ category:
 nacionalidad: México
 nacimiento: 1580
 repositorio: American Libraries
+repositorio2: Proyecto Gutenberg
 repurl: https://archive.org/details/americana
 img: verdad_sospechosa_Morel.jpg
 descarga: https://ia801404.us.archive.org/3/items/la-verdad-sospechosa-juan-ruiz-de-alarcon/La%20verdad%20sospechosa%20-%20Juan%20Ruiz%20de%20Alarc%C3%B3n.pdf
+epub: http://www.gutenberg.org/ebooks/57590.epub.images?session_id=73c74f0b4bcfbd23948e6b8fb2eb5767e7e716af
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/964455300
 comprar: https://amzn.to/2SlG38s
