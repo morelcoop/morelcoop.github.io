@@ -10,9 +10,11 @@ category:
 nacionalidad: México
 nacimiento: 1834
 repositorio: American Libraries
+repositorio2: Proyecto Gutenberg
 repurl: https://archive.org/details/americana
 img: navidad_atamirano.jpg
 descarga: https://ia601507.us.archive.org/14/items/la-navidad-en-las-montanas/La%20Navidad%20en%20las%20monta%C3%B1as.pdf
+epub: http://www.gutenberg.org/ebooks/10825.epub.noimages?session_id=bed68536272340d9f8ff6e3cb45c802e897df2ce
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/456785591
 comprar: https://amzn.to/31ztBHd
