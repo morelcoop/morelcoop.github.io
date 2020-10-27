@@ -13,6 +13,7 @@ repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: monja_casada_riva_Morel.jpg
 descarga: https://ia601508.us.archive.org/26/items/monja_casada_riva_Morel/monja_casada_riva_.pdf
+epub: http://www.gutenberg.org/ebooks/49560.epub.images?session_id=1497d4b888c5a6a3fbd04750da71f8985c80cb2e
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1131166364
 comprar: https://amzn.to/2PZ4Rli
