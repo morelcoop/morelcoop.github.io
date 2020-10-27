@@ -13,6 +13,7 @@ repositorio: Proyecto Gutenberg
 repurl: https://www.gutenberg.org
 img: marianela_cronicas_angelica_palma_Morel.jpg
 descarga: https://ia601502.us.archive.org/14/items/cronicas-de-marianela/Cronicas%20de%20Marianela.pdf
+epub: http://www.gutenberg.org/ebooks/34565.epub.images?session_id=55c08cb20d864d3bb585db22ed86a32eedafa4d7
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1191622485
 comprar: https://amzn.to/2DBUSQq
