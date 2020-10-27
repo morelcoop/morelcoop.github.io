@@ -10,9 +10,11 @@ category:
 nacionalidad: Uruguay
 nacimiento: 1871
 repositorio: Community Texts
+repositorio2: Proyecto Gutenberg
 repurl: https://archive.org/details/opensource
 img: Rodo_Ariel_Proteo_Selecto_Morel.jpg
 descarga: https://ia803100.us.archive.org/25/items/arielyproteoselectojoseenriquerodo684/Ariel%20y%20Proteo%20selecto%20-%20Jose%20Enrique%20Rodo_684.pdf
+epub: http://www.gutenberg.org/ebooks/22899.epub.images?session_id=f8b1c3a67b520045212b4d6d338ee9e3798c53ed
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/318209873
 comprar: https://amzn.to/34e5Jez
