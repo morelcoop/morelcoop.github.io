@@ -9,10 +9,12 @@ category:
 - José Hernandez
 nacionalidad: Argentina
 nacimiento: 1834
-repositorio: Community Texts 
+repositorio: Community Texts
+repositorio2: Proyecto Gutenberg
 repurl: https://archive.org/details/opensource
 img: martin_fierro_jose_hernandez_Morel.jpg
 descarga: https://ia601409.us.archive.org/9/items/martin-fierro/Martin%20Fierro.pdf
+epub: http://www.gutenberg.org/ebooks/14765.epub.noimages?session_id=55c08cb20d864d3bb585db22ed86a32eedafa4d7
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1010524694
 comprar: https://amzn.to/3iZXtTp
