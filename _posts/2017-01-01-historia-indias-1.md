@@ -5,7 +5,7 @@ editorial: "Imprenta de Miguel Ginesta"
 ciudad: Madrid
 edicion: 1875
 year: 1875
-category: "Bartolomé de Las Casas"
+category: Bartolomé de Las Casas
 repositorio: "Bibliotecas de la Universidad de California"
 repositorio2: "Proyecto Gutenberg"
 repurl: https://archive.org/details/university_of_california_libraries
