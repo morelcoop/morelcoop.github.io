@@ -13,7 +13,7 @@ repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: historia_tordesillas_cuatro_Morel.jpg
 descarga: https://ia601502.us.archive.org/29/items/tomo-iv/TomoIV.pdf
-tag: Colonial
+tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/3509220
 comprar: 
 ---
