@@ -11,7 +11,7 @@ nacionalidad: Uruguay
 nacimiento: 1861
 repositorio: Autores UY
 repurl: https://archive.org/details/autores
-img: versos_carlos_roxlo.jpg
+img: Versos_Carlos_Roxlo.jpg
 descarga: https://ia601508.us.archive.org/20/items/versos-carlos-roxlo/Versos_-_Carlos_Roxlo.pdf
 tag: "Siglo XIX"
 biblioteca: 
