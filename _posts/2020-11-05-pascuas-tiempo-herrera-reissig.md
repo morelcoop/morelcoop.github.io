@@ -15,7 +15,7 @@ img: pascuas_tiempo_poesias.jpg
 descarga: https://ia801506.us.archive.org/4/items/las-pascuas-del-tiempo-poesias-y-otros-poemas-01/las-pascuas-del-tiempo-poesias-y-otros-poemas--0%281%29.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/948872845
-comprar: 
+comprar: https://amzn.to/2UoQYPX
 ---
 {% include JB/setup %}
 
