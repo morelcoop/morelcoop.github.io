@@ -11,7 +11,7 @@ nacionalidad: Colombia
 nacimiento: 1865
 repositorio: Consejo Latinoamericano de Ciencias Sociales
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
-img: obra_completa_jose_asuncion.jpg
+img: Silva_Obra_completa.jpg
 descarga: https://ia801509.us.archive.org/7/items/silva-obra-completa/SILVA%20-%20Obra%20completa.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/860102551
