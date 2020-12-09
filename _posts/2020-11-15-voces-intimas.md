@@ -1,5 +1,5 @@
 ---
-title: Voces íntimas: Versos y Poemitas
+title: Voces íntimas, Versos y poemitas
 layout: post
 editorial: Imprenta Ecuador
 ciudad: Quito
