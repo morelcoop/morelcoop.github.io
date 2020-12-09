@@ -1,5 +1,5 @@
 ---
-title: Obras Completas VI: Opúsculos literarios y críticos
+title: Obras Completas VI, Opúsculos literarios y críticos
 layout: post
 editorial: Impreso Por Pedro G. Ramírez
 ciudad: Santiago de Chile	
