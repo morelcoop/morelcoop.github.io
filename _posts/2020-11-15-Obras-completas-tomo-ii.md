@@ -1,5 +1,5 @@
 ---
-title: Obras Completas II: Poema del Cid
+title: Obras Completas II, Poema del Cid
 layout: post
 editorial: Impreso Por Pedro G. Ramírez
 ciudad: Santiago de Chile	
