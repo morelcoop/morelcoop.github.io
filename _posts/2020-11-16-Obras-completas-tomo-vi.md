@@ -11,7 +11,7 @@ nacionalidad: Venezuela
 nacimiento: Andrés Bello
 repositorio: European Libraries
 repurl: https://archive.org/details/europeanlibraries
-img: Obras completasII_Andrés_Bello.JPG
+img: Obras_completas_VI_Andrés Bello.jpg
 descarga: https://ia601509.us.archive.org/35/items/obras-completas-de-don-andres-bello/Obras%20completas%20VI%20de%20don%20Andr%C3%A9s%20Bello.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/488513072
