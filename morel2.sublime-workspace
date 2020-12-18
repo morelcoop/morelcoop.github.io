@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 4816,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -28,6 +19,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			],
 			[
 				"pa",
 				"Package Control: Install Package"
@@ -57,11 +56,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/febres/Documentos/heliumjk.github.io",
-		"/home/febres/Documentos/heliumjk.github.io/_posts"
+		"/home/febres/Dev/morel"
 	],
 	"file_history":
 	[
+		"/home/febres/Dev/morel/_products/tshirt.md",
+		"/home/febres/Dev/morel/_products/cleaner.md",
+		"/home/febres/Dev/morel/_products/mouse.md",
+		"/home/febres/Dev/morel/_config.yml",
+		"/home/febres/Dev/morel/_products/plantilla.md",
+		"/home/febres/Dev/morel/products.html",
 		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-09-helium-jekyll-theme-markdown-examples.md",
 		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-10-helium-jekyll-theme-markdown-examples.md",
 		"/home/febres/Documentos/heliumjk.github.io/_posts/2017-10-11-helium-jekyll-theme-markdown-examples.md",
@@ -111,7 +115,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -176,49 +180,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4816,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								649,
-								650
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 36.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -251,7 +224,7 @@
 	"project": "morel2.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":

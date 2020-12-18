@@ -1,5 +1,5 @@
 ---
-title: Abuela: drama en tres actos
+title: "Abuela: drama en tres actos"
 layout: post
 editorial: Imprenta Mercantil
 ciudad: Guayaquil
