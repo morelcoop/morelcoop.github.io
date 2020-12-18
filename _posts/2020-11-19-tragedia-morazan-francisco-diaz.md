@@ -11,7 +11,7 @@ nacionalidad: El Salvador
 nacimiento: 1812
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
-img: Historia_asesinato_Gran_Mariscal_Ayacucho_Irisarri.jpg
+img: tragedia_Morazan_Francisco_Diaz.jpg
 descarga: https://ia801500.us.archive.org/31/items/tragedia-de-morazan-francisco-morazan_202012/Tragedia%20de%20Morazan%20-%20Francisco%20Diaz.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/3523857
