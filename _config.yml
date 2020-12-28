@@ -21,23 +21,23 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-title : Literatura venezolana
+title : Literatura latinoamericana
 tagline: libros gratis de dominio público
 author : 
   name : MOREL
-  site: https://morelcoop.xyz
+  site: https://morel.la
   description : Metadatos de Obras para Repositorios Electrónicos Latinoamericanos impulsa la creación de archivos digitales autosustentables administrados de forma cooperativa.
   image : avatar.png
   email : proyectomorel@gmail.com
   github : morelcoop
-  twitter : morelcoop
+  twitter : morelrep
   facebook: 
   linkedin: 
-  instagram: morelcoop
+  instagram: morelrep
   pinterest: 
   feedburner : 
 
-twitter_username: morelcoop
+twitter_username: morelrep
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls

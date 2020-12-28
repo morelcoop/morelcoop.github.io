@@ -5,7 +5,7 @@
   --color-2: #d4695c;
   --color-3: #86a27b;
   --background: #F9F9F9;
-  --fondo: rgba(235, 235, 235, 0.7) ; }
+  --fondo: rgba(235, 235, 235, 0.4) ; }
 h1,
 h2,
 h3,
@@ -267,7 +267,7 @@ strong {
 }
 
 .wrapper {
-    background: #fff;
+    background: var(--fondo);
     padding-bottom: 0px
 }
 
@@ -1855,7 +1855,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .info {
-    background: var(--fondo);
+    background: var(--background);
     padding: 15px 0 10px;
     text-align: center;
     margin-bottom: 25px;
@@ -4537,13 +4537,13 @@ ul.nav-tabs li a {
 }
 
 body {
-   background-color: var(--background);
   color: var(--color-1);
   font-family: 'Kanit', "Lucida Console", Monaco, monospace;
   line-height: 2em;
   font-size: 1em; 
-    letter-spacing: 0px;
+  letter-spacing: 0px;
     background-color: var(--background);
+    background-image: url('../../trama.png')
 }
 
 html,
