@@ -13,7 +13,7 @@ repositorio: Community Texts
 repurl: https://archive.org/details/opensource
 img: Obras_selectas_Sor_Juana.jpg
 descarga: https://ia801408.us.archive.org/9/items/obras-selectas-sor-juana-ines-de-la-cruz/Obras%20selectas%20-%20sor%20Juana%20Ines%20de%20la%20Cruz.pdf
-tag: "Siglo XVII"
+tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/3807267
 comprar: https://amzn.to/3gefuxa
 ---
