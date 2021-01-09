@@ -33,4 +33,4 @@ Micol: ¡Oh! ¡qué recuerdo á la memoria traes, anciano de Sion! ¡mi sangre h
 
 Gefe de tribu: Ya vuelve el rey; ¡miradle! torvo, altivo se muestra su semblante.
 
-Sela: Se revela en su mirada la inquietud del alma. 
+Sela: Se revela en su mirada la inquietud del alma.

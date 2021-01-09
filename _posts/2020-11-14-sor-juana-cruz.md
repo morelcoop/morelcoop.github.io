@@ -20,21 +20,36 @@ comprar: https://amzn.to/3gefuxa
 {% include JB/setup %}
 
 A la desdeñosa Dafne,
+ 
 A la infausta Nictimene,
+ 
 A la lijera Atalanta,
+ 
 Y á la celebrada Asterie;
+ 
 
 Y en fin la casa del Mundo
+ 
 Que tantas pinturas tiene
+ 
 De bellezas vividoras
-Que están sin envejecerse,
+ 
+Que están sin envejecerse, 
+ 
  
 Cuya dura fama el tiempo,
+ 
 Que todas las cosas muerde
+ 
 Con los bocados de siglos,
+ 
 No les puede entrar el diente,
  
+ 
 Revolví, como ya digo,
+ 
 Sin que entre todas pudiese
+ 
 Hallar una que siquiera
+ 
 En el vestido os semeje.

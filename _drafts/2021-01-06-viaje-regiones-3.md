@@ -18,5 +18,5 @@ tag: "Siglo XIX"
 ---
 {% include JB/setup %}
 
-Partimos de Caracas el 7 de febrero, con la fresca de la tarde, para emprender nuestro viaje al Orinoco. El recuerdo de esta partida es hoy para nosotros más dolo­roso de lo que fué hace algunos años. Nuestros ami­gos han perecido en las sangrientas revoluciones que a su vez han concedido o arrebatado la libertad a estas apartadas regiones. La casa que hemos habitado ya no es sino un montón de escombros. Pavorosos temblores de tierra han cambiado la superficie del suelo. La ciu­
+Partimos de Caracas el 7 de febrero, con la fresca de la tarde, para emprender nuestro viaje al Orinoco. El recuerdo de esta partida es hoy para nosotros más dolo­roso de lo que fué hace algunos años. Nuestros amigos han perecido en las sangrientas revoluciones que a su vez han concedido o arrebatado la libertad a estas apartadas regiones. La casa que hemos habitado ya no es sino un montón de escombros. Pavorosos temblores de tierra han cambiado la superficie del suelo. La ciu­
 dad que describí ha desaparecido. En sus propios asien­ tos, en esa tierra agrietada, se levanta con lentitud otraciudad. Las ruinas amontonadas, sepulcros de una nu­merosa población, ya son de nuevo morada de los hombres.
