@@ -1,8 +1,12 @@
-          <div class="blog-block about-sidebar-widget">
-            <img src="{{ BASE_PATH }}/assets/images/{{ site.author.image }}">
-            <h4><a class="morel" href="{{ site.author.site }}">{{ site.author.name }}</a></h4>
-            <p>{{ site.author.description }}</p>
-            {% include social-block.html %}
+          <div class="row blog-block about-sidebar-widget">
+            <div class="col-sm-12 col-md-6 col-lg-6">
+            	<img src="{{ BASE_PATH }}/assets/images/{{ site.author.image }}">
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+	            <h4><a class="morel" href="{{ site.author.site }}">{{ site.author.name }}</a></h4>
+	            <p>{{ site.author.description }}</p>
+	            {% include social-block.html %}
+            </div>
           </div>
 
           <div class="mb-60"></div>
