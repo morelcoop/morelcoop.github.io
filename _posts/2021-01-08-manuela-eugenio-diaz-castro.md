@@ -11,7 +11,7 @@ nacionalidad: Colombia
 nacimiento: 1803 
 repositorio: Biblioteca Virtual Banco de la República
 repurl: https://babel.banrepcultural.org/
-img: manuela_eugenio_diaz_Morel.jpg
+img: manuela_jose_eugenio-diaz-castro.jpg
 descarga: https://ia601400.us.archive.org/16/items/manuela_202101/Manuela.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1016240964
