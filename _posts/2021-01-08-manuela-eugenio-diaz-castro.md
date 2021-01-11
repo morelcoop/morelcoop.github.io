@@ -2,7 +2,7 @@
 title: Manuela
 layout: post
 editorial: Carvajal
-ciudad:, Cali
+ciudad: Cali
 edición: 1967
 year: 
 category: 
