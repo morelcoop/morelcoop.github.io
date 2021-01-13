@@ -1,7 +1,7 @@
 ---
 title: Obras Completas VI, Opúsculos literarios y críticos
 layout: post
-editorial: Impreso Por Pedro G. Ramírez
+editorial: Pedro G. Ramírez
 ciudad: Santiago de Chile	
 edicion: 1883
 year: 
