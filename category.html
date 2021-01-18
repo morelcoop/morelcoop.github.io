@@ -1,0 +1,41 @@
+---
+layout: page
+category-name: "Rubén Darío"
+permalink: /autores/dario
+title:
+img:
+---
+  <div class="header-style-2">
+        <div class="container">
+          <div class="row">
+            <div>
+              <div class="hero-content-v2" style="margin-top:10px!important;">
+                <h3><strong> Obras de {{ page.category-name }} en MOREL</strong></h3>
+                <div class="posts">
+                  {% for post in site.categories[page.category-name] %}
+                    <div class="post py3">
+                     <a href="{{ post.url | relative_url }}" class="post-link">
+                        <h2>
+                          {{ post.title }}
+                        </h2>
+                      </a>
+                      <p>Edición publicada en {{ post.ciudad }} por {{ post.editorial }} en {{ post.edicion }}</p>
+                    </div>
+                    <div class="mb-60"></div> 
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+  </div>
+  <!-- Blog content + sidebar -->
+  <section id="post" class="blog">
+    <div class="container">
+      <div class="row">                   
+        <div>
+          {% include side-bar.html %}
+        </div>
+      </div>
+     </div>
+   </section>
