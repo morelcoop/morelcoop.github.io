@@ -19,7 +19,7 @@ comprar: https://amzn.to/34jpOhV
 ---
 {% include JB/setup %}
  
-Cunde el terror en todos los corazones. Mina la desconfianza el entusiasmo del soldado. Caracas se estremece de espanto, como si ya golpearan á sus puertas las huestes del feroz asturiano. Decae la fe en los más alentados. Una parálisis violenta producida por el terror amenaza anonadar al patriotismo. Cual si uno de los gigantes de la andina cordillera hubiese vomitado in)proviso una tempestad de lavas y escorias capaces de soterrar el continente americano, todo tiembla y todo se derrumba. 
+Cunde el terror en todos los corazones. Mina la desconfianza el entusiasmo del soldado. Caracas se estremece de espanto, como si ya golpearan á sus puertas las huestes del feroz asturiano. Decae la fe en los más alentados. Una parálisis violenta producida por el terror amenaza anonadar al patriotismo. Cual si uno de los gigantes de la andina cordillera hubiese vomitado improviso una tempestad de lavas y escorias capaces de soterrar el continente americano, todo tiembla y todo se derrumba. 
  
 Sólo Bolívar no se conmueve; superior á las veleidades de la fortuna, para su alma no hay contrariedad, ni sacrificio, ni prueba desastrosa que la avasalle ni la postre.
 
