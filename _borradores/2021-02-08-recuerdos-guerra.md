@@ -12,9 +12,9 @@ nacimiento:
 repositorio: Biblioteca Digital del Patrimonio Iberoamericano
 repurl: iberoamericanadigital.net
 img: recuerdos_guerra_domingo_Morel.jpg
-descarga: 
-tag: Siglo XX
-biblioteca: 
+descarga: https://ia801403.us.archive.org/31/items/recuerdos-de-la-guerra-1/recuerdos%20de%20la%20guerra1.pdf
+tag: "Siglo XX"
+biblioteca: http://www.worldcat.org/oclc/948445396
 comprar: 
 ---
 {% include JB/setup %}
