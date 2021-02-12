@@ -12,9 +12,9 @@ nacionalidad: Chile
 nacimiento: 1867
 repositorio: Biblioteca Nacional de Chile
 repurl: memoriachilena.gob.cl
-img: Sub_sole_lillo_Morel.jpg
-descarga: 
-tag: Siglo XX
+img: Sub_terra_lillo_Morel.jpg
+descarga: https://ia801501.us.archive.org/25/items/sub-terra_202102/Sub%20terra.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/457446686
 comprar: 
 ---
