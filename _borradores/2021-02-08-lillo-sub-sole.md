@@ -12,8 +12,8 @@ nacimiento: 1867
 repositorio: Biblioteca Nacional de Chile
 repurl: memoriachilena.gob.cl
 img: Sub_sole_lillo_Morel.jpg
-descarga: 
-tag: Siglo XX
+descarga: https://ia801504.us.archive.org/7/items/sub-sole/Sub%20sole.pdf
+tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/186865935
 comprar: 
 ---
