@@ -10,9 +10,9 @@ category:
 nacionalidad: Argentina
 nacimiento: 1874
 repositorio: Microfilm
-repurl: 
+repurl: https://archive.org/details/microfilm
 img: payador_leopoldo_lugones_Morel.jpg
-descarga: https://archive.org/details/microfilm
+descarga: https://ia601407.us.archive.org/26/items/el-payador-lugones/El%20payador%20-%20Lugones.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/23226137
 comprar: 
