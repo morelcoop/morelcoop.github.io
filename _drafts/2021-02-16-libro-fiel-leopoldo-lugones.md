@@ -12,7 +12,7 @@ nacimiento: 1874
 repositorio: Microfilm
 repurl: https://archive.org/details/microfilm
 img: libro_fiel_leopoldo_lugones_Morel.jpg
-descarga: 
+descarga: https://ia601506.us.archive.org/11/items/el-libro-fiel-leopoldo-lugones/El%20libro%20fiel%20-%20Leopoldo%20Lugones.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/561103963
 comprar: 
