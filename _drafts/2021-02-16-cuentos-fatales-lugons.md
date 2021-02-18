@@ -12,7 +12,7 @@ nacimiento: 1874
 repositorio: Wikimedia Commons
 repurl: https://commons.wikimedia.org
 img: cuentos_fatales_leopoldo_lugones_Morel.jpg
-descarga: 
+descarga: https://ia601506.us.archive.org/35/items/cuentos-fatales-leopoldo-lugones/Cuentos%20Fatales%20-%20Leopoldo%20Lugones.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/669970609
 comprar: 
