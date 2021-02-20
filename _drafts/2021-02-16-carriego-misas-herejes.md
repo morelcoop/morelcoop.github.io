@@ -12,7 +12,7 @@ nacimiento: 1883
 repositorio: Microfilm
 repurl: https://archive.org/details/microfilm
 img: misas_herejes_carriego_Morel.jpg
-descarga: 
+descarga: https://ia601401.us.archive.org/0/items/misas-herejes-la-cancion-del-barrio/Misas%20herejes%20%3B%20La%20canci%C3%B3n%20del%20barrio.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/2963333
 comprar: 
