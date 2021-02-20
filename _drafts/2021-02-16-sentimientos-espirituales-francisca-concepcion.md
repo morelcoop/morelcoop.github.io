@@ -10,9 +10,9 @@ category:
 nacionalidad: 
 nacimiento: 
 repositorio: Biblioteca Digital del Patrimonio Iberoamericano
-repurl: 
+repurl: http://www.iberoamericadigital.net
 img: cuentos_blanco_fombona_Morel.jpg
-descarga: 
+descarga: https://ia601508.us.archive.org/4/items/sentimientos-espirituales-francisca-josefa/Sentimientos%20espirituales%20-%20Francisca%20Josefa.pdf
 tag: "Colonial"
 biblioteca: http://www.worldcat.org/oclc/55322225
 comprar: 
