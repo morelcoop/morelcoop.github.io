@@ -6,7 +6,7 @@ ciudad: Lima
 edicion: 1992
 year: 
 category: 
-- Cesar Vallejo
+- César Vallejo
 nacionalidad: Perú
 nacimiento: 1892
 repositorio: Community Texts
