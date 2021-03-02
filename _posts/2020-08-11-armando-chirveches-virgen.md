@@ -12,7 +12,7 @@ nacionalidad: Bolivia
 nacimiento: 1881
 repositorio: University of Toronto Libraries
 repurl: https://archive.org/details/robarts
-img: armando_chirveches_virgen_lago.jpg
+img: armando_chirveches_virgen_Morel.jpg
 descarga: https://ia601405.us.archive.org/7/items/lavirgendellagopdf/lavirgendellagopdf.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/558764606
