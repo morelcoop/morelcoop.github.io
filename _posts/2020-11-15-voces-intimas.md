@@ -19,13 +19,23 @@ comprar:
 ---
 {% include JB/setup %}
 
-La lóbrega existencia va cruzando por inclemente erial. ¡Oh, triste y mísera
+La lóbrega existencia va cruzando 
+ 
+por inclemente erial. ¡Oh, triste y mísera
+ 
 mujer! la mole de lo incierto abruma
+ 
 su flébil pecho. Sombras infernales,
+ 
 negros fantasmas de una mente enferma,
+ 
 -tempestad del averno-inundan su alma.
+ 
 
 El furioso rugir de las pasiones
+ 
 le amedrenta dondequiera. En vano ¡ay! huye...
+ 
 Si a combatir se alista, de sus débiles
+ 
 fuerzas es víctima... el león le acosa...
