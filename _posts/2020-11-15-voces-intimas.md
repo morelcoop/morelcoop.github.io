@@ -19,23 +19,28 @@ comprar:
 ---
 {% include JB/setup %}
 
-La lóbrega existencia va cruzando 
+Hay horas de dolor en que quisiera 
  
-por inclemente erial. ¡Oh, triste y mísera
+sepultarme en el seno de la nada; 
  
-mujer! la mole de lo incierto abruma
+con todo, aun en la nada, temería 
  
-su flébil pecho. Sombras infernales,
+que el destino me hiera con su espada...
  
-negros fantasmas de una mente enferma,
  
--tempestad del averno-inundan su alma.
+Hay horas que soñamos, en la brega, 
  
-
-El furioso rugir de las pasiones
+cruzar veloces venturoso edén; 
  
-le amedrenta dondequiera. En vano ¡ay! huye...
+mas, ¡ay! la realidad rápida llega, 
  
-Si a combatir se alista, de sus débiles
+y marchita del sueño el dulce bien. 
  
-fuerzas es víctima... el león le acosa...
+  
+No quiero despertar cuando columbro 
+ 
+en limpio cielo espiritual bonanza. 
+ 
+Tras negra tempestad mi ser alumbro 
+ 
+con la antorcha inmortal de' la esperanza». 
