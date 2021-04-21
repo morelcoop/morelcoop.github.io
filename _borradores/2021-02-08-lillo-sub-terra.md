@@ -1,4 +1,3 @@
-2021-02-08-lillo-sub-terra.md
 ---
 title: Sub terra
 layout: post
