@@ -11,7 +11,7 @@ nacionalidad: Venezuela
 nacimiento: 1874
 repositorio: American Libraries
 repurl: https://archive.org/details/americana
-img: grandes_literaria_ricardo_miro_Morel.jpg
+img: grandes_escritores_rufino_blanco_fombona_Morel.jpg
 descarga: https://archive.org/details/grandes-escritores-de-america/page/n3/mode/2up
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/567949813
