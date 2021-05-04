@@ -1,5 +1,5 @@
 ---
-title:  Nobleza de alma 
+title: Nobleza de alma 
 layout: post
 editorial: Biblioteca de El Salvador
 ciudad: 
