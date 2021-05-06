@@ -18,3 +18,5 @@ biblioteca: http://www.worldcat.org/oclc/503174862
 comprar: 
 ---
 {% include JB/setup %}
+
+Por doloroso que sea, opinó la camarilla, la espada de la justicia soberana debe cortar el espíritu de rebelión de un golpe, aunque sufran algunos inocentes. En el cuerpo humano, para extirpar el mal, es indispensable cortar por lo sano. 
