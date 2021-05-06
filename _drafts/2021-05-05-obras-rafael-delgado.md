@@ -19,3 +19,4 @@ comprar:
 ---
 {% include JB/setup %}
 
+Narrar el dulce idilio de esos amores, sería cosa muy larga, y baste decir que principia en el hueco de un zaguán y tiene por teatro dominguero, como alguna escena del "Don Juan" de Mozart, fresca y dilatada calle de árboles, en los confines alpinos de la Alameda ó en el remoto callejón, á la luz espléndida de una tarde de verano, al eco de las tórtolas que zurean en sus nidos ó á la margen del río que adormece á los amantes con el arrullo de las linfas parleras.
