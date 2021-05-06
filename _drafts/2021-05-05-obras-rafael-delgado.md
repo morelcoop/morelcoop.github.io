@@ -15,7 +15,7 @@ img: obras_rafel_delgado.jpg
 descarga: https://ia803401.us.archive.org/10/items/obras-i-rafael-delgado/Obras%20I%20-%20Rafael%20Delgado.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/367387957
-comprar: 
+comprar:
 ---
 {% include JB/setup %}
 
