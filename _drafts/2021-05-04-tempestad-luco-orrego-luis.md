@@ -1,7 +1,7 @@
 ---
 title: La Tempestad I
 layout: post
-editorial:  Sociedad Imprenta y litografía Universo
+editorial: Sociedad Imprenta y litografía Universo
 ciudad: Santiago de Chile
 edicion: 1914
 year: 
