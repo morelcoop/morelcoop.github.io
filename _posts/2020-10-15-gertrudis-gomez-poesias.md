@@ -12,7 +12,7 @@ nacimiento: 1814
 repositorio: Google Books
 repurl: http://books.google.com 
 img: gertrudis_avellaneda_poesias_Morel.jpg
-descarga:  https://ia601403.us.archive.org/8/items/poesias-gertrudis-gomez-de-avellaneda/Poes%C3%ADas%20-%20Gertrudis%20G%C3%B3mez%20de%20Avellaneda.pdf
+descarga: https://ia601403.us.archive.org/8/items/poesias-gertrudis-gomez-de-avellaneda/Poes%C3%ADas%20-%20Gertrudis%20G%C3%B3mez%20de%20Avellaneda.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/733444268
 comprar: https://amzn.to/3k9MSq2
