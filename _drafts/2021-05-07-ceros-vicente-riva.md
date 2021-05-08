@@ -1,0 +1,22 @@
+---
+title: Los Ceros
+layout: post
+editorial: Imprenta de F. Diaz de León
+ciudad: México
+edicion: 1882
+year: 
+category:
+- Vicente Riva Palacios
+nacionalidad: México
+nacimiento: 1832
+repositorio: Biblioteca Digital del Patrimonio Iberoamericano
+repurl: http://www.iberoamericadigital.net/es/Inicio/
+img: perla_antillas_maria_guadalupe_cartagena.jpg
+descarga: 
+tag: "Siglo XX"
+biblioteca: 
+comprar: 
+---
+{% include JB/setup %}
+
+Nuestra sociedad, nuestro pueblo, no tiene amor a sus tradiciones. De esto quizá tenga la culpa los escritores que buscan siempre por argumento de sus leyendas personajes de la Edad Media que aman y luchan en los fantásticos castillos de los bordes del Rhin, o damas y caballeros de los tiempos de Orgaz y de Villamediana: los novelistas que se desdeñan de nombrar siquiera en sus obras las comidas, los trajes y las costumbres de nuestra sociedad; que sueñan dar un corte aristocrático á sus novelas, fingiendo en México escenas parisienses y dibujando clases sociales que han visto al través de las páginas de Arssene Houssaye, de Emilio Zola, de Henry Bourger ó de Ponson du Terrail; y nuestros poetas que hablan siempre de ruiseñores y de alondras y de gacelas y de jacintos, sin atreverse nunca a dar lugar en sus endechas ni al cuitlacoche, ni al zenzontle, ni al cacomite, ni al yoloxochitl.
