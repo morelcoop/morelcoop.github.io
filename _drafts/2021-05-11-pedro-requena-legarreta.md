@@ -1,5 +1,5 @@
 ---
-title: Antología
+title: Poesías líricas
 layout: post
 editorial: Cultura
 ciudad: México
