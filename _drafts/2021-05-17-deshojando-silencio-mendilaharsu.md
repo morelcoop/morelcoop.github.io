@@ -14,7 +14,7 @@ repurl: http://bibliotecadigitalhispanica.bne.es/
 img: deshojando_silencio_mendilaharsu_Morel.jpg
 descarga: https://ia801805.us.archive.org/28/items/deshojando-el-silencio/Deshojando%20el%20silencio.pdf
 tag: "Siglo XX"
-biblioteca: http://www.worldcat.org/oclc/733564215
+biblioteca: http://www.worldcat.org/oclc/948877012
 comprar: 
 ---
 {% include JB/setup %}
