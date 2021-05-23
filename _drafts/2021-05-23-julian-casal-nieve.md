@@ -9,8 +9,8 @@ category:
 - Julián del Casal
 nacionalidad: Cuba
 nacimiento: 1863 
-repositorio: Biblioteca Digital Hispánica
-repurl: http://bibliotecadigitalhispanica.bne.es/
+repositorio: Canadian Libraries
+repurl: https://archive.org/details/toronto
 img: nieve_julian_casal_Morel.jpg
 descarga: https://ia801400.us.archive.org/33/items/nieve-julian-del-casal/Nieve%20-%20Julian%20del%20Casal.pdf
 tag: "Siglo XIX"
