@@ -1,0 +1,9 @@
+{% for book in site.books %}
+  {% if book.authors == page.authors %}
+  {% unless book.title == page.title %}
+  <a href="{{ book.url | relative_url }}" class="post-link">
+    <h2>{{ book.title }}</h2>
+  </a>
+  {% endunless %}
+  {% endif %}
+{% endfor %}
