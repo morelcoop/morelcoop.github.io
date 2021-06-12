@@ -1,27 +1,23 @@
----
-layout: page
-category-name: "Rubén Darío"
-permalink: /autores/dario
-title:
-img:
----
+
   <div class="header-style-2">
         <div class="container">
           <div class="row">
             <div>
               <div class="hero-content-v2" style="margin-top:10px!important;">
-                <h3><strong> Obras de {{ page.category-name }} en MOREL</strong></h3>
+                <h3><strong> Obras de {{ page.title }} en MOREL</strong></h3>
                 <div class="posts">
-                  {% for post in site.categories[page.category-name] %}
+                  {% for book in site.books %}
+                    {% if book.authors == page.title %}
                     <div class="post py3">
-                     <a href="{{ post.url | relative_url }}" class="post-link">
+                     <a href="{{ book.url | relative_url }}" class="post-link">
                         <h2>
-                          {{ post.title }}
+                          {{ book.title }}
                         </h2>
                       </a>
-                      <p>Edición publicada en {{ post.ciudad }} por {{ post.editorial }} en {{ post.edicion }}</p>
+                      <p>Edición publicada en {{ book.ciudad }} por {{ book.editorial }} en {{ book.edicion }}</p>
                     </div>
                     <div class="mb-60"></div> 
+                     {% endif %}
                   {% endfor %}
                 </div>
               </div>

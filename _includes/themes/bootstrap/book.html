@@ -1,0 +1,44 @@
+<!-- Post header -->
+      <div class="header-style-2">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+              <div class="hero-content-v2" style="margin-top:10px!important;">
+                <h3><strong>{{ page.title }}</strong></h3>
+                <p>Obra de {% for author in page.authors %}{{ author }},{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %} publicada en {{ page.ciudad }} por {{ page.editorial }} en {{ page.edicion }}{% if page.year %}. Publicada por primera vez en {{ page.year }}{% endif %}{% if page.repositorio %}. Recuperada por {{ page.repositorio }}{% endif %}{% if page.repositorio2 %} y {{ page.repositorio2 }}{% endif %}.
+                </p>
+                <a href="{{ page.descarga }}"><button>PDF</button></a>
+                {% if page.epub %}<a href="{{ page.epub }}"><button>EPUB</button></a>{% endif %}{% if page.biblioteca %}<a href="{{ page.biblioteca }}"><button>BIBLIOTECA</button></a>{% endif %}
+                <div class="mb-60"></div>                      
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              {% if page.img %}<figure>
+                <img src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="">
+              </figure>{% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+<!-- Post content+sidebar -->
+
+<div class="mb-60"></div>
+
+  <!-- Blog content + sidebar -->
+  <section id="post" class="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12" style="padding-bottom: 2rem">
+          
+           {{ content }}                 
+        </div>                    
+        <div>
+          {% include side-bar.html %}
+        </div>
+      </div>
+     </div>
+   </section>
+

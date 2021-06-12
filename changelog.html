@@ -1,0 +1,9 @@
+---
+layout: page
+title: loops
+authors:
+- Batman
+- Robin
+- 'La Mujer Maravilla'
+---
+La Liga de la Justicia la conforman {% for author in page.authors %}{{ author }},{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %} entre otros.
