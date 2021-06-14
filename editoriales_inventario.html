@@ -1,0 +1,19 @@
+---
+layout: page
+title:
+---
+
+
+<div id="archives">
+{% assign sorted = site.books | sort: 'editorial' %}
+{% for item in sorted %}
+  <div class="archive-group">
+    <h3 class="category-head">{{ item.editorial }}</h3>
+  {% for publisher in site.publishers %}
+      {% if publisher.title == item.editorial %}
+        <p>Tiene su ficha de editorial</p>
+      {% endif %}
+  </div>
+  {% endfor %}
+{% endfor %}
+</div>

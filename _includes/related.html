@@ -1,9 +1,77 @@
-{% for book in site.books %}
-  {% if book.authors == page.authors %}
-  {% unless book.title == page.title %}
-  <a href="{{ book.url | relative_url }}" class="post-link">
-    <h2>{{ book.title }}</h2>
-  </a>
-  {% endunless %}
-  {% endif %}
-{% endfor %}
+
+		{% for book in site.books %}
+		  	{% if book.author == page.author %}
+			  	{% unless book.title == page.title %}
+				  	 <h1><strong>Otras obras de {{ page.author }} en MOREL</strong></h1>
+				  <a href="{{ book.url | relative_url }}" class="post-link">
+				    <h2>{{ book.title }}</h2>
+				  </a>
+			  	{% endunless %}
+			{% elsif book.author2 == page.author %}
+			  	{% unless book.title == page.title %}
+				  	 <h1><strong>Otras obras de {{ page.author }} en MOREL</strong></h1>
+				  <a href="{{ book.url | relative_url }}" class="post-link">
+				    <h2>{{ book.title }}</h2>
+				  </a>
+			  	{% endunless %}
+	  		{% elsif book.author3 == page.author %}
+			  	{% unless book.title == page.title %}
+				  	 <h1><strong>Otras obras de {{ page.author }} en MOREL</strong></h1>
+				  <a href="{{ book.url | relative_url }}" class="post-link">
+				    <h2>{{ book.title }}</h2>
+				  </a>
+			  	{% endunless %}
+		  	{% endif %}
+		{% endfor %}
+		{% if page.author2 %}
+			{% for book in site.books %}
+			  	{% if book.author == page.author2 %}
+				  	{% unless book.title == page.title %}
+					  	 <h1><strong>Otras obras de {{ page.author2 }} en MOREL</strong></h1>
+					  <a href="{{ book.url | relative_url }}" class="post-link">
+					    <h2>{{ book.title }}</h2>
+					  </a>
+				  	{% endunless %}
+				{% elsif book.author2 == page.author2 %}
+				  	{% unless book.title == page.title %}
+					  	 <h1><strong>Otras obras de {{ page.author2 }} en MOREL</strong></h1>
+					  <a href="{{ book.url | relative_url }}" class="post-link">
+					    <h2>{{ book.title }}</h2>
+					  </a>
+				  	{% endunless %}
+		  		{% elsif book.author3 == page.author2 %}
+				  	{% unless book.title == page.title %}
+					  	 <h1><strong>Otras obras de {{ page.author2 }} en MOREL</strong></h1>
+					  <a href="{{ book.url | relative_url }}" class="post-link">
+					    <h2>{{ book.title }}</h2>
+					  </a>
+				  	{% endunless %}
+				{% endif %}
+			{% endfor %}
+		{% endif %} 
+		{% if page.author3 %}
+			{% for book in site.books %}
+			  	{% if book.author == page.author3 %}
+				  	{% unless book.title == page.title %}
+					  	 <h1><strong>Otras obras de {{ page.author3 }} en MOREL</strong></h1>
+					  <a href="{{ book.url | relative_url }}" class="post-link">
+					    <h2>{{ book.title }}</h2>
+					  </a>
+				  	{% endunless %}
+				{% elsif book.author2 == page.author3 %}
+				  	{% unless book.title == page.title %}
+					  	 <h1><strong>Otras obras de {{ page.author3 }} en MOREL</strong></h1>
+					  <a href="{{ book.url | relative_url }}" class="post-link">
+					    <h2>{{ book.title }}</h2>
+					  </a>
+				  	{% endunless %}
+		  		{% elsif book.author3 == page.author3 %}
+				  	{% unless book.title == page.title %}
+					  	 <h1><strong>Otras obras de {{ page.author3 }} en MOREL</strong></h1>
+					  <a href="{{ book.url | relative_url }}" class="post-link">
+					    <h2>{{ book.title }}</h2>
+					  </a>
+				  	{% endunless %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}

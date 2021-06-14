@@ -5,7 +5,7 @@ editorial: "Editorial Cruz del Sur"
 ciudad: Caracas
 edicion: 1951
 year: 1951
-authors: "Teresa de la Parra"
+author: "Teresa de la Parra"
 repositorio: "Biblioteca Digital César Rengifo"
 repurl: http://bibliotecadigital.bnv.gob.ve/
 img: cartas-teresa_de_la_parra-MOREL.jpg

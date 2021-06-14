@@ -1,0 +1,19 @@
+---
+layout: page
+title:
+---
+
+
+<div id="archives">
+{% assign sorted = site.books | sort: 'ciudad' %}
+{% for item in sorted %}
+  <div class="archive-group">
+    <h3 class="category-head">{{ item.ciudad }}</h3>
+  {% for city in site.cities %}
+      {% if city.title == item.ciudad %}
+        <p>Tiene su ficha de ciudad</p>
+      {% endif %}
+  </div>
+  {% endfor %}
+{% endfor %}
+</div>

@@ -1,0 +1,19 @@
+---
+layout: page
+title:
+---
+
+
+<div id="archives">
+{% assign sorted = site.books | sort: 'author' %}
+{% for item in sorted %}
+  <div class="archive-group">
+    <h3 class="category-head">{{ item.author }}</h3>
+  {% for author in site.authors %}
+      {% if author.title == item.author %}
+        <p>Tiene su ficha de autor</p>
+      {% endif %}
+  </div>
+  {% endfor %}
+{% endfor %}
+</div>

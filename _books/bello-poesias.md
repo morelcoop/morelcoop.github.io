@@ -5,7 +5,7 @@ editorial: Pedro G. Ramírez
 ciudad:  Santiago de Chile
 edicion: 1883
 year: 1883
-authors: "Andrés Bello"
+author: "Andrés Bello"
 repositorio: Cervantes Virtual
 repurl: http://www.cervantesvirtual.com/
 img: Andrés_Bello-obras_completas_tomo_3_poesias-MOREL.jpg

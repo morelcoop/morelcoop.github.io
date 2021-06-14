@@ -5,7 +5,7 @@ editorial: Imprenta Nacional
 ciudad:  Caracas
 edicion: 1885
 year: 1885
-authors: Zulima
+author: Zulima
 repositorio: Universidad de North Carolina en Chapell Hill
 repurl: https://archive.org/details/unclibraries
 img: Zulima_Maria-o-el-despotismo-MOREL.jpg

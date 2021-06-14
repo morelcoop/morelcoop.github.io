@@ -5,7 +5,7 @@ editorial: Ministerio de Educación Nacional de Venezuela
 ciudad:  Buenos Aires
 edicion: 1945
 year: 
-authors: "Teresa de la Parra"
+author: "Teresa de la Parra"
 repositorio: Biblioteca Digital César Rengifo
 repurl: http://bibliotecadigital.bnv.gob.ve/
 img: memorias_de_mama_blanca-teresa_de_la_parra-MOREL.jpg

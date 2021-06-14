@@ -5,7 +5,7 @@ editorial: Biblioteca Ayacucho
 ciudad: Caracas
 edicion: 1993
 year: 1900
-authors: "José Enrique Rodó"
+author: "José Enrique Rodó"
 nacionalidad: Uruguay
 nacimiento: 1871
 repositorio: Community Texts

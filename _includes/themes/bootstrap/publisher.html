@@ -4,7 +4,7 @@
           <div class="row">
             <div class="col-xs-12">
               <div class="hero-content-v2" style="margin-top:10px!important;">
-                <h3><strong>Obras publicadas en {{ page.title }}</strong></h3>                     
+                <h3><strong>Obras en MOREL publicadas por {{ page.title }}</strong></h3>                     
               </div>
             </div>
           </div>
@@ -24,9 +24,9 @@
         <div class="col-sm-12 col-md-12" style="padding-bottom: 2rem">
           
            {% for book in site.books %}
-  {% if book.ciudad == page.title %}
+  {% if book.editorial == page.title %}
   <a href="{{ book.url | relative_url }}" class="post-link">
-    <h2>{{ book.title }} -  {{ page.author }}{% if page.author2 %}, {{ page.author2 }}{% endif %}{% if page.author3 %}, {{ page.author3 }}{% endif %}</h2>
+    <h2>{{ book.title }} -  {{ book.author }}{% if book.author2 %}, {{ book.author2 }}{% endif %}{% if book.author3 %}, {{ book.author3 }}{% endif %}</h2>
   </a>
   {% endif %}
 {% endfor %}                

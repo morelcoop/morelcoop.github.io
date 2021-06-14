@@ -7,8 +7,28 @@
                 <h3><strong> Obras de {{ page.title }} en MOREL</strong></h3>
                 <div class="posts">
                   {% for book in site.books %}
-                    {% if book.authors == page.title %}
+                    {% if book.author == page.title %}
                     <div class="post py3">
+                     <a href="{{ book.url | relative_url }}" class="post-link">
+                        <h2>
+                          {{ book.title }}
+                        </h2>
+                      </a>
+                      <p>Edición publicada en {{ book.ciudad }} por {{ book.editorial }} en {{ book.edicion }}</p>
+                    </div>
+                    <div class="mb-60"></div> 
+                     {% elsif book.author2 == page.title %}
+                       <div class="post py3">
+                     <a href="{{ book.url | relative_url }}" class="post-link">
+                        <h2>
+                          {{ book.title }}
+                        </h2>
+                      </a>
+                      <p>Edición publicada en {{ book.ciudad }} por {{ book.editorial }} en {{ book.edicion }}</p>
+                    </div>
+                    <div class="mb-60"></div> 
+                     {% elsif book.author3 == page.title %}
+                      <div class="post py3">
                      <a href="{{ book.url | relative_url }}" class="post-link">
                         <h2>
                           {{ book.title }}

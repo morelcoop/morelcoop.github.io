@@ -5,10 +5,9 @@ editorial: "Biblioteca Venezolana de Cultura"
 ciudad:  Caracas
 edicion: 1941
 year: 
-authors: 
-- Alejandro de Humboldt
-- Aimé Bonpland
-- Lisandro Alvarado
+author: "Alejandro de Humboldt"
+author2: "Aimé Bonpland"
+author3: "Lisandro Alvarado"
 repositorio: Biblioteca Digital César Rengifo
 repurl: http://bibliotecadigital.bnv.gob.ve/s
 img: Alejandro_de_Humboldt-Viaje_regiones_equinocciales_2-MOREL.jpg
