@@ -1,7 +1,7 @@
 ---
 title: Ariel y Proteo selecto
 layout: book
-editorial: Biblioteca Ayacucho
+editorial: "Fundación Biblioteca Ayacucho"
 ciudad: Caracas
 edicion: 1993
 year: 1900
