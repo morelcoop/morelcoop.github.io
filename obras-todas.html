@@ -1,49 +1,48 @@
 ---
 layout: index
-title: Literatura venezolana
+title: Literatura latinoamericana
 tagline: libros gratis de dominio público
 ---
 {% include JB/setup %}
 
     <!-- Content Area Start -->
-    <div id="content">
+     <div id="content">
       <div class="container">
         <!-- row start -->
         <div class="row">
           <div class="col-md-12">
             <div class="page-header-title">
-              <h2 class="heading-title text-center">Descargas gratuitas</h2>
+              <h2 class="heading-title text-center">Libros gratis de dominio público</h2>
             </div>
-            <!-- Books row 02 -->
-            <div class="team-members mtb-50">
+            <!-- Books row 01 -->
+            <div class="team-members mtb-50" id="Recomendados">
               <div class="row">
-                {% for product in site.products %}
-                 <div class="col-sm-6 col-md-4 col-lg-3">
+                {% for book in site.books %}
+                <div class="col-sm-6 col-md-4 col-lg-3">
                   <!-- Team Item Starts -->
                   <div class="team-item">
                     <figure class="team-profile">
-                      <img src="{{ product.img }}" alt="">
+                      <img src="{{ BASE_PATH }}/assets/images/{{ book.img }}" 
+                      alt="{{ book.title}}">
                       <figcaption class="our-team">
                         <div class="details">
-                          <p class="content-white">{{ product.producto }}</p>
+                          <p class="content-white">Edición publicada en {{ book.ciudad }} por {{ book.editorial }} en {{ book.edicion }}</p>
                           <hr class="small-divider border-white">
                           <div class="social">
-                            <a class="facebook" href="{{ BASE_PATH }}{{ product.url }}"><i class="fa fa-eye"></i></a>
-                            <a class="twitter" href="{{ product.compra }}"><i class="fa fa-shopping-cart"></i></a>
+                            <a class="facebook" href="{{ BASE_PATH }}{{ book.url }}"><i class="fa fa-eye"></i></a>
+                            <a class="twitter" href="{{ book.descarga }}"><i class="fa fa-download"></i></a>
                           </div>
                         </div>
                       </figcaption>
                     </figure>
                     <div class="info">
-                      <h2>
-                        {{ product.price }}
-                      </h2>
+                      <a href="{{ BASE_PATH }}{{ book.url }}">
+                                            <h2>
+                                              {{ book.title }}
+                                            </h2>
+                                          </a>
                       <p>
-                      {% assign categories = product.categories %}
-                      {% for category in categories %}
-                      {{category}}
-                      {% unless forloop.last %}&nbsp;{% endunless %}
-                      {% endfor %}
+                      {{ book.author }}{% if book.author2 %}, {{ book.author2 }}{% endif %}{% if book.author3 %}, {{ book.author3 }}{% endif %}
                       </p>
                     </div>
                   </div>
@@ -52,7 +51,7 @@ tagline: libros gratis de dominio público
                 {% endfor %}
               </div>
             </div>
-            <!-- End Books row 02 -->
+            <!-- End Books row 01 -->
           </div>
         </div>
       </div>

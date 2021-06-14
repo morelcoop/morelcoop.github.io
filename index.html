@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Literatura latinoamericana
-tagline: libros gratis de dominio público
+tagline: obras gratis de dominio público
 ---
 {% include JB/setup %}
 
@@ -12,49 +12,93 @@ tagline: libros gratis de dominio público
         <div class="row">
           <div class="col-md-12">
             <div class="page-header-title">
-              <h2 class="heading-title text-center">Libros gratis de dominio público</h2>
+              <h2 class="heading-title text-center">obras gratis de dominio público</h2>
             </div>
-            <!-- Books row 02 -->
-            <div class="team-members mtb-50">
+            <!-- Books row 01 -->
+            <div class="team-members mtb-50" id="Recomendados">
+              <h2>Obras recomendadas</h2>
               <div class="row">
-                {% for post in site.posts %}
+                {% for book in site.books %}
+                {% if book.feature == true %}
                 <div class="col-sm-6 col-md-4 col-lg-3">
                   <!-- Team Item Starts -->
                   <div class="team-item">
                     <figure class="team-profile">
-                      <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }}">
+                      <img src="{{ BASE_PATH }}/assets/images/{{ book.img }}" 
+                      alt="{{ book.title}}">
                       <figcaption class="our-team">
                         <div class="details">
-                          <p class="content-white">Edición publicada en {{ post.ciudad }} por {{ post.editorial }} en {{ post.edicion }}</p>
+                          <p class="content-white">Edición publicada en {{ book.ciudad }} por {{ book.editorial }} en {{ book.edicion }}</p>
                           <hr class="small-divider border-white">
                           <div class="social">
-                            <a class="facebook" href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-eye"></i></a>
-                            <a class="twitter" href="{{ post.descarga }}"><i class="fa fa-download"></i></a>
+                            <a class="facebook" href="{{ BASE_PATH }}{{ book.url }}"><i class="fa fa-eye"></i></a>
+                            <a class="twitter" href="{{ book.descarga }}"><i class="fa fa-download"></i></a>
                           </div>
                         </div>
                       </figcaption>
                     </figure>
                     <div class="info">
-                      <a href="{{ BASE_PATH }}{{ post.url }}">
+                      <a href="{{ BASE_PATH }}{{ book.url }}">
                                             <h2>
-                                              {{ post.title }}
+                                              {{ book.title }}
                                             </h2>
                                           </a>
                       <p>
-                      {% assign categories = post.categories %}
-                      {% for category in categories %}
-                      {{category}}
-                      {% unless forloop.last %}&nbsp;{% endunless %}
-                      {% endfor %}
+                      {{ book.author }}{% if book.author2 %}, {{ book.author2 }}{% endif %}{% if book.author3 %}, {{ book.author3 }}{% endif %}
                       </p>
                     </div>
                   </div>
                   <!-- Team Item Ends -->
                 </div>
+                {% endif %}
                 {% endfor %}
               </div>
+              <a href="{{BASE_PATH}}/obras-todas">
+                <div class="ver-mas">ver todas las obras</div>
+              </a>
             </div>
-            <!-- End Books row 02 -->
+            <!-- End Books row 01 -->
+            <!-- Authors row 01 -->
+            <div class="team-members mtb-50" id="autoras">
+              <h2>Autoras del mes</h2>
+              <div class="row">
+                {% for author in site.authors %}
+                {% if author.feature == true %}
+                <div class="col-sm-6 col-md-4 col-lg-3">
+                  <!-- Team Item Starts -->
+                  <div class="team-item">
+                    <figure class="team-profile">
+                      <img src="{{ BASE_PATH }}/assets/images/{{ author.img }}" 
+                      alt="{{ author.title}}">
+                      <figcaption class="our-team">
+                        <div class="details">
+                          <p class="content-white">Nació el {{ author.city-born }} en {{ author.date-born }} y murió en {{ author.city-death }} el {{ author.date-death }}</p>
+                          <hr class="small-divider border-white">
+                          <div class="social">
+                            <a class="facebook" href="{{ BASE_PATH }}{{ author.url }}"><i class="fa fa-eye"></i></a>
+                          </div>
+                        </div>
+                      </figcaption>
+                    </figure>
+                    <div class="info">
+                      <a href="{{ BASE_PATH }}{{ author.url }}">
+                                            <h2>
+                                              {{ author.title }}
+                                            </h2>
+                      </a>
+                      
+                    </div>
+                  </div>
+                  <!-- Team Item Ends -->
+                </div>
+                {% endif %}
+                {% endfor %}
+              </div>
+              <a href="{{BASE_PATH}}/autoras-todas">
+                <div class="ver-mas">ver todas</div>
+              </a>
+            </div>
+            <!-- End Books row 01 -->
           </div>
         </div>
       </div>
