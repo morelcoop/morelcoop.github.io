@@ -1,5 +1,5 @@
 ---
-title: La torre de timón
+title: La torre de timon
 layout: book
 editorial: "Litografía y Tipografía Vargas"
 ciudad: Caracas
