@@ -2,7 +2,7 @@
 title: La torre de timón
 layout: book
 editorial: "Litografía y Tipografía Vargas"
-ciudad:  Caracas
+ciudad: Caracas
 edicion: 1925
 year: 1925
 author: "José Antonio Ramos Sucre""Teresa de la Parra"
