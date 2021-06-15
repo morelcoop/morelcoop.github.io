@@ -4,13 +4,13 @@ layout: book
 editorial: "Litografía y Tipografía Vargas"
 ciudad: Caracas
 edicion: 1925
-year:
+year: 1925
 author: "José Antonio Ramos Sucre"
 repositorio: "Biblioteca Digital Hispánica"
 repurl: http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html
 img: jose_antonio_ramos_sucre_la_torre_de_timon-MOREL.jpg
 descarga: https://ia601507.us.archive.org/14/items/latorredetimn-textoimpreso/LatorredetimnTextoimpreso.pdf
-comprar:
+comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=jose antonio ramos sucre&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=6f6e63325b571cdb210f31ac004c3b0d
 periodo: "Siglo XX"
 feature: true
 ---
