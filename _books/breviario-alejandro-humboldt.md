@@ -8,7 +8,7 @@ year:
 author: "Alejandro de Humboldt"
 nacionalidad: Alemania
 nacimiento: 1769
-repositorio: Consejo Latinoamericano de Ciencias Sociales
+repositorio: "Consejo Latinoamericano de Ciencias Sociales"
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: breviario_ignacio_rodriguez_Morel.jpg
 descarga: https://ia601507.us.archive.org/34/items/breviario-del-nuevo-mundo/Breviario-del-nuevo-mundo.pdf
