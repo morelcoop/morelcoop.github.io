@@ -1,16 +1,16 @@
 ---
 title: "María o el despotismo: drama en tres actos"
 layout: book
-editorial: Imprenta Nacional
-ciudad:  Caracas
+editorial: "Imprenta Nacional"
+ciudad: Caracas
 edicion: 1885
 year: 1885
 author: Zulima
-repositorio: Universidad de North Carolina en Chapell Hill
+repositorio: "University of North Carolina at Chapel Hill"
 repurl: https://archive.org/details/unclibraries
 img: Zulima_Maria-o-el-despotismo-MOREL.jpg
 descarga: https://archive.org/download/maraoeldespotism14318lpez/maraoeldespotism14318lpez.pdf
-tag: "Siglo XX"
+periodo: "Siglo XX"
 feature: true
 ---
 {% include JB/setup %}
