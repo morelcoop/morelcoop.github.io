@@ -8,7 +8,7 @@ year:
 author: "Fray Pedro Simón"
 nacionalidad: España
 nacimiento: 1628
-repositorio: "Biblioteca de la Universidad de California"
+repositorio: "University of California Libraries"
 repurl: https://archive.org/details/university_of_california_libraries
 img: Noticias_historiales-Fray_Pedro_Simon-MOREL.jpg
 descarga: https://ia803200.us.archive.org/33/items/pedro_simon-noticias_historiales_1/pedro_simon-noticias_historiales_1.pdf
