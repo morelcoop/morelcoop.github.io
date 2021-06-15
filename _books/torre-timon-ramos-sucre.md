@@ -1,11 +1,11 @@
 ---
-title: La torre de timon
+title: La torre de timón
 layout: book
 editorial: "Litografía y Tipografía Vargas"
 ciudad: Caracas
 edicion: 1925
-year: 1925
-author: "José Antonio Ramos Sucre""Teresa de la Parra"
+year:
+author: "José Antonio Ramos Sucre"
 repositorio: "Biblioteca Digital Hispánica"
 repurl: http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html
 img: jose_antonio_ramos_sucre_la_torre_de_timon-MOREL.jpg
