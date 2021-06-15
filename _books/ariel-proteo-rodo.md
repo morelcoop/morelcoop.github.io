@@ -8,8 +8,8 @@ year: 1900
 author: "José Enrique Rodó"
 nacionalidad: Uruguay
 nacimiento: 1871
-repositorio: Community Texts
-repositorio2: Proyecto Gutenberg
+repositorio: "Community Texts"
+repositorio2: "Proyecto Gutenberg"
 repurl: https://archive.org/details/opensource
 img: Rodo_Ariel_Proteo_Selecto_Morel.jpg
 descarga: https://ia803100.us.archive.org/25/items/arielyproteoselectojoseenriquerodo684/Ariel%20y%20Proteo%20selecto%20-%20Jose%20Enrique%20Rodo_684.pdf
