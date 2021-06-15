@@ -10,9 +10,9 @@ repositorio: "Biblioteca Digital Hispánica"
 repurl: http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html
 img: jose_antonio_ramos_sucre_la_torre_de_timon-MOREL.jpg
 descarga: https://ia601507.us.archive.org/14/items/latorredetimn-textoimpreso/LatorredetimnTextoimpreso.pdf
-comprar: 
+comprar:
 periodo: "Siglo XX"
-feature: 
+feature: true
 ---
 {% include JB/setup %}
 
