@@ -1,7 +1,7 @@
 ---
 title: Poesías
 layout: book
-editorial: "Tipografía Nacional"
+editorial: "Tipografía Nacional de Guatemala"
 ciudad: Guatemala
 edicion: 1902
 year: 
