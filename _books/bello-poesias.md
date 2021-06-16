@@ -6,7 +6,7 @@ ciudad:  "Santiago de Chile"
 edicion: 1883
 year: 1883
 author: "Andrés Bello"
-repositorio: "Cervantes Virtual"
+repositorio: "Biblioteca Virtual Miguel de Cervantes"
 repurl: http://www.cervantesvirtual.com/
 img: Andrés_Bello-obras_completas_tomo_3_poesias-MOREL.jpg
 descarga: https://ia601500.us.archive.org/15/items/andres-bello-obras-completas-tomo-3-poesias/Andr%C3%A9s_Bello_obras_completas_tomo_3_poesias.pdf
