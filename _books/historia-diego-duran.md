@@ -13,7 +13,7 @@ img: historia_indias_diego_duran_Morel.jpg
 descarga: https://ia601506.us.archive.org/30/items/historia-de-las-indias-de-nueva-espana-tomo-i-diego-duran/Historia%20de%20las%20Indias%20de%20Nueva-Espa%C3%B1a%20Tomo%20I%20-%20Diego%20Dur%C3%A1n.pdf
 biblioteca: http://www.worldcat.org/oclc/162657826
 comprar: https://amzn.to/2YGMZ3p
-periodo: "Siglo XIX"
+periodo: "Colonial"
 feature: 
 ---
 {% include JB/setup %}
