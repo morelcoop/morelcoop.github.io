@@ -1,5 +1,5 @@
 ---
-title: title: La tierra purpúrea. Allá lejos y hace tiempo
+title: La tierra purpúrea. Allá lejos y hace tiempo
 layout: book
 editorial: "Fundación Biblioteca Ayacucho"
 ciudad: Caracas
