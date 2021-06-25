@@ -19,3 +19,14 @@ feature:
 ---
 {% include JB/setup %}
 JUAN.- Dispués... La muchacha se había quedau muy tristona dente que los patrones se jueron... y un día desapareció.
+ 
+SARGENTO.- Se jué con otro, seguro.
+ 
+JUAN.- Hubiera sido mejor, sargento. A los tres días apareció ay (Señala el estanque.) boyando en aquel charco.
+
+SARGENTO.- Se mató! Vea usté pobre muchacha. Y el gurí?
+
+JUAN.-El gurí se jue criándo. Después don Belisario se hizo cargo del y lo hizo un hombre.
+
+(Pausa)
+
