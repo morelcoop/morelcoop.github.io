@@ -12,7 +12,7 @@ nacimiento: 1843
 repositorio: Biblioteca del Bicentenario de Bolivia Digital
 repurl: http://www.bbb.gob.bo
 img: nataniel_aguirre_memorias_soldado_Morel.jpg
-descarga: 
+descarga: https://ia801904.us.archive.org/28/items/juan-de-la-rosa-nataniel-aguirre/Juan%20de%20la%20Rosa%20-%20Nataniel%20Aguirre.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1055483064
 comprar: https://amzn.to/3apJi76
