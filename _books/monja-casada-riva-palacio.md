@@ -1,6 +1,6 @@
 ---
 title: Monja y casada, virgen y mártir
-layout: post
+layout: book
 editorial: "Imprenta de La Constitución social"
 ciudad: México
 edicion: 1868
