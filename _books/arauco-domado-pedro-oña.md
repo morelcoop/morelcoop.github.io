@@ -1,6 +1,6 @@
 ---
 title: Arauco Domado
-layout: post
+layout: book
 editorial: "Imprenta Universitaria"
 ciudad: Santiago de Chile
 edicion: 1917
