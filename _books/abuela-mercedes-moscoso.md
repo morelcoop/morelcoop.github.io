@@ -1,6 +1,6 @@
 ---
-title: Abuela: drama en tres actos
-layout: post
+title: Abuela, drama en tres actos
+layout: book
 editorial: "Imprenta Mercantil"
 ciudad: Guayaquil
 edicion: 1907
