@@ -1,6 +1,6 @@
 ---
 title: Alma enferma 
-layout: post
+layout: book
 editorial: "Tipografía Nacional"
 ciudad: Guatemala
 edicion: 1896
