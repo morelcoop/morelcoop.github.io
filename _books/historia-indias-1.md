@@ -1,6 +1,6 @@
 ---
 title: Historia de las Indias, tomo I
-layout: post
+layout: book
 editorial: "Imprenta de Miguel Ginesta"
 ciudad: Madrid
 edicion: 1875
