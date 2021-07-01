@@ -1,6 +1,6 @@
 ---
 title: Sub Sole
-layout: post
+layout: book
 editorial: "Imprenta y Encuadernación Universitaria"
 ciudad: "Santiago de Chile"
 edición: 1907
