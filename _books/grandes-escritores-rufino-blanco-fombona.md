@@ -10,7 +10,7 @@ nacionalidad: Venezuela
 repositorio: "American Libraries"
 repurl: https://archive.org/details/americana
 img: grandes_escritores_rufino_blanco_fombona_Morel.jpg
-descarga: https://archive.org/details/grandes-escritores-de-america/page/n3/mode/2up
+descarga: https://ia803405.us.archive.org/4/items/grandes-escritores-de-america/Grandes%20escritores%20de%20America.pdf
 biblioteca: http://www.worldcat.org/oclc/567949813
 comprar: 
 periodo: "Siglo XX"
