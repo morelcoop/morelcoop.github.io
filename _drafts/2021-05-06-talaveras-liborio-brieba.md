@@ -12,7 +12,7 @@ nacimiento: 1841
 repositorio: Biblioteca Nacional de Chile
 repurl: www.memoriachilena.gob.cl
 img: talaveras_liborio_brieba.jpg
-descarga: 
+descarga: https://ia803406.us.archive.org/4/items/mc-0031767-1/MC0031767%281%29.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1301656
 comprar: 
