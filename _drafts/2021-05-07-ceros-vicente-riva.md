@@ -11,8 +11,8 @@ nacionalidad: México
 nacimiento: 1832
 repositorio: Biblioteca Digital del Patrimonio Iberoamericano
 repurl: http://www.iberoamericadigital.net/es/Inicio/
-img: perla_antillas_maria_guadalupe_cartagena.jpg
-descarga: 
+img: ceros_vicente_Riva_palacios.jpg
+descarga: https://ia803405.us.archive.org/14/items/los-ceros-galeria-de-contemporaneos/Los%20ceros%3B%20galeria%20de%20contemporaneos.pdf
 tag: "Siglo XX"
 biblioteca: 
 comprar: 
