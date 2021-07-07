@@ -11,7 +11,7 @@ nacionalidad: Cuba
 nacimiento: 1814
 repositorio: University of Toronto
 repurl: https://archive.org/details/robarts
-img: lola_larrosa_los_esposos.jpg
+img: baltasar_gertrudis_avellaneda.jpg
 descarga: https://ia601407.us.archive.org/35/items/baltasar_202105/Baltasar.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/250764681
