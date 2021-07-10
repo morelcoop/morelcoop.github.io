@@ -7,11 +7,10 @@ edicion: 1871
 year: 
 author: "Carlos Augusto Salaverry"
 nacionalidad: Perú
-repositorio: "American Libraries
+repositorio: "American Libraries"
 repurl: https://archive.org/details/americana
 img: albores_carlos_augusto.jpg
 descarga: https://ia601408.us.archive.org/3/items/albores-y-destellos/Albores%20y%20destellos.pdf
-tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/682849932
 comprar: https://amzn.to/3kNhGNG
 periodo: "Siglo XIX"
