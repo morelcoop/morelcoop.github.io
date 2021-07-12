@@ -1,7 +1,7 @@
 ---
 title: Cecilia Valdes
 layout: book
-editorial: "Fundación Biblioteca Ayacucho
+editorial: "Fundación Biblioteca Ayacucho"
 ciudad: Caracas
 edicion: 1982
 year: 
