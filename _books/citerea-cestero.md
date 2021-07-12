@@ -1,7 +1,7 @@
 ---
 title: Citerea
 layout: book
-editorial: "Viuda de Rodríguez Serra”
+editorial: "Viuda de Rodríguez Serra"
 ciudad: Madrid
 edicion: 1907
 year: 
