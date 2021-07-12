@@ -1,11 +1,11 @@
 ---
-title: La victoria de Junín. Canto a Bolivar
+title: La victoria de Junín, Canto a Bolivar
 layout: book
 editorial: "Imprenta española"
 ciudad: Londres
 edicion: 1826
 year: 
-author: "José Joaquín de Olmedo
+author: "José Joaquín de Olmedo"
 nacionalidad: Ecuador
 repositorio: "Biblioteca Digital Hispánica"
 repurl: http://bibliotecadigitalhispanica.bne.es/
