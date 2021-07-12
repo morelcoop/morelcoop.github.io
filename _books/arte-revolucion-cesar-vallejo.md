@@ -5,7 +5,7 @@ editorial: "Editores Mosca Azul"
 ciudad: Lima
 edicion: 1973
 year: 
-author: "Cesar Vallejo"
+author: "César Vallejo"
 nacionalidad: Perú
 repositorio: "Community Texts"
 repurl: https://archive.org/details/opensource
