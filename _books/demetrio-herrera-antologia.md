@@ -12,7 +12,8 @@ repurl: http://www.iberoamericadigital.net
 img: antologia_poetica_demetrio_herrera.jpg
 descarga: https://ia601402.us.archive.org/25/items/antologia-poetica-demetrio-herrera-sevillano_202010/Antologia%20Poetica%20-%20Demetrio%20Herrera%20Sevillano.pdf
 biblioteca: http://www.worldcat.org/oclc/15253570
-comprar: periodo: "Siglo XX"
+comprar: 
+periodo: "Siglo XX"
 feature: 
 ---
 {% include JB/setup %}
