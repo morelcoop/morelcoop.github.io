@@ -12,7 +12,7 @@ nacimiento: 1868
 repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: seleccion_cuentos_javier_viana_dos_Morel.jpg
-descarga: https://ia601408.us.archive.org/4/items/seleccion-de-cuentos-javier-de-viana/Seleccion%20de%20cuentos%20-%20Javier%20de%20Viana.pdf
+descarga: https://ia903400.us.archive.org/29/items/seleccion-de-cuentos-ii-javier-de-viana/Seleccion%20de%20cuentos%20II%20-%20Javier%20de%20Viana.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/954552572
 comprar: 
