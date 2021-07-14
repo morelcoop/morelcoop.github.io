@@ -11,7 +11,7 @@ nacionalidad: Chile
 nacimiento: 
 repositorio: Biblioteca Nacional de Chile
 repurl: www.memoriachilena.gob.cl
-img: hijuna_carlos_sepulveda_leyton.jpg
+img: otros_tiempos_senen_palacios.jpg
 descarga: https://ia801800.us.archive.org/7/items/mc-0031772/MC0031772.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/55266868
