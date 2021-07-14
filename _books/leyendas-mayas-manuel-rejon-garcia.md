@@ -10,7 +10,7 @@ nacionalidad: México
 nacimiento: 1819
 repositorio: "American Libraries"
 repurl: https://archive.org/details/americana
-img: canto_argentina_ruben_dario.jpg
+img: leyendas_mayas_manuel_rejon_garcia.jpg
 descarga: https://ia801804.us.archive.org/19/items/supersticiones-y-leyendas-mayas-manuel-rejon-garcia/Supersticiones%20y%20leyendas%20mayas%20-%20Manuel%20Rej%C3%B3n%20Garc%C3%ADa.pdf
 periodo: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/465262072
