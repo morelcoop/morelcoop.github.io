@@ -11,7 +11,7 @@ nacionalidad: Nicaragua
 nacimiento: 1867
 repositorio: University of Toronto
 repurl: https://archive.org/details/robarts
-img: canto_argentina_ruben_dario.jpg
+img: sol_domingo_ruben_dario.jpg
 descarga: https://ia803404.us.archive.org/15/items/sol-del-domingo-poesias-ineditas/Sol%20del%20domingo%2C%20poesias%20in%C3%A9ditas.pdf
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/615293167
