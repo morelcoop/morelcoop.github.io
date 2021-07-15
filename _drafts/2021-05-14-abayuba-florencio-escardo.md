@@ -11,7 +11,7 @@ nacionalidad: Argentina
 nacimiento: 1904
 repositorio: Biblioteca Digital del Patrimonio Iberoamericano
 repurl: http://www.iberoamericadigital.net/es/Inicio/
-img: lola_larrosa_los_esposos.jpg
+img: abayuba_florencio_escardo.jpg
 descarga: https://ia803406.us.archive.org/28/items/abayuba-novela-historico/Abayub%C3%A1%20-%20Novela%20Hist%C3%B3rico.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1235508717
