@@ -11,7 +11,7 @@ nacionalidad: Uruguay
 nacimiento: 1859
 repositorio: Autores UY
 repurl: https://archive.org/details/autores
-img: lola_larrosa_el_lujo.jpg
+img: lola_larrosa_hija_mia.jpg
 descarga: https://ia801805.us.archive.org/1/items/larrosa-de-ansaldo-lola-los-esposos/Larrosa_de_Ansaldo_Lola_-_Hija_mia.pdf
 tag: "Siglo XIX"
 biblioteca:
