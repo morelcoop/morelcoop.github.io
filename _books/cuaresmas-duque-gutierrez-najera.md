@@ -9,7 +9,7 @@ author: "Manuel Gutiérrez Nájera"
 nacionalidad: México
 repositorio: "Biblioteca Digital Hispánica"
 repurl: http://bibliotecadigitalhispanica.bne.es/
-img: como_las_nubes_mendilaharsu_Morel.jpg
+img: Cuaresmas_Duque_Job.jpg
 descarga: https://ia601800.us.archive.org/1/items/cuaresmas-del-duque-job/Cuaresmas%20del%20Duque%20Job.pdf
 biblioteca: http://www.worldcat.org/oclc/778687723
 comprar: 
