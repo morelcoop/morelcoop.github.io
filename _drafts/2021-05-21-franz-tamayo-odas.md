@@ -11,7 +11,7 @@ nacionalidad: Bolivia
 nacimiento: 
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
-img: como_las_nubes_mendilaharsu_Morel.jpg
+img: odas_franz_tamayo_Morel.jpg
 descarga: https://ia803409.us.archive.org/4/items/odas-franz-tamayo/Odas%20-%20Franz%20Tamayo.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/462020267
