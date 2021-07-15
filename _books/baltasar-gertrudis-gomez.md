@@ -9,7 +9,7 @@ author: "Gertrudis Gómez de Avellaneda"
 nacionalidad: Cuba
 repositorio: "University of Toronto"
 repurl: https://archive.org/details/robarts
-img: baltasar_gertrudis_avellaneda.jpg
+img: gertrudis_gomez_avellaneda_baltasar.jpg
 descarga: https://ia601407.us.archive.org/35/items/baltasar_202105/Baltasar.pdf
 biblioteca: http://www.worldcat.org/oclc/250764681
 comprar: 
