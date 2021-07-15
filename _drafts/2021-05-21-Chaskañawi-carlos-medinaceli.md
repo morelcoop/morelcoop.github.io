@@ -1,5 +1,5 @@
 ---
-title: La Chakañawi
+title: La Chaskañawi
 layout: post
 editorial: Archivo y Biblioteca Nacionales de Bolivia
 ciudad: Bolivia
@@ -11,7 +11,7 @@ nacionalidad: Bolivia
 nacimiento: 1898
 repositorio: Archivo y Biblioteca Nacionales de Bolivia
 repurl: https://www.archivoybibliotecanacionales.org.bo/
-img: chakañaki_carlos_medinaceli_Morel.jpg
+img: chaskañaki_carlos_medinaceli_Morel.jpg
 descarga: https://ia801809.us.archive.org/35/items/lachaskac3b1awijy7/lachaskac3b1awijy7.pdf
 tag: "Siglo XX"
 biblioteca: 
