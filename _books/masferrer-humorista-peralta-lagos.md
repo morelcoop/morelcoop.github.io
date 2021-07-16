@@ -7,7 +7,7 @@ edicion: 1941
 year: 
 author: "José María Peralta Lagos"
 nacionalidad: El Salvador
-repositorio: "European Libraries
+repositorio: "European Libraries"
 repurl: https://archive.org/details/europeanlibraries
 img: masferrer_humorista_peralta.jpg
 descarga: https://ia601501.us.archive.org/15/items/masferrer-humorista.-jose-maria-peralta-lagos_202010/Masferrer%20Humorista.%20Jos%C3%A9%20Mar%C3%ADa%20Peralta%20Lagos.pdf
