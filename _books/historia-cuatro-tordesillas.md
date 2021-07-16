@@ -7,7 +7,7 @@ edicion: 1730
 year: 
 author: "Antonio de Herrera y Tordesillas"
 nacionalidad: España
-repositorio: "Biblioteca Digital Hispánica
+repositorio: "Biblioteca Digital Hispánica"
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: historia_tordesillas_cuatro_Morel.jpg
 descarga: https://ia601502.us.archive.org/29/items/tomo-iv/TomoIV.pdf
