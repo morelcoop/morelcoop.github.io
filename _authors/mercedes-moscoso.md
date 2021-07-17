@@ -1,6 +1,6 @@
 ---
 layout: author
-title: "Mercedes G. de Moscoso"
+title: "Mercedes González de Moscoso"
 feature: 
 img:
 city-born: 
