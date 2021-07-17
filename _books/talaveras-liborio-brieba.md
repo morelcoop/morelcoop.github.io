@@ -13,7 +13,7 @@ img: talaveras_liborio_brieba.jpg
 descarga: https://ia803406.us.archive.org/4/items/mc-0031767-1/MC0031767%281%29.pdf
 biblioteca: http://www.worldcat.org/oclc/1301656
 comprar: 
-periodo: "Siglo XIX
+periodo: "Siglo XIX"
 ---
 {% include JB/setup %}
 
