@@ -7,7 +7,7 @@ edicion: 1938
 year: 
 author: "Fray Bernardino de Sahagún"
 nacionalidad: España
-repositorio: "European Libraries
+repositorio: "European Libraries"
 repurl: https://archive.org/details/europeanlibraries
 img: Cosas_Nueva_España_cuatro.jpg
 descarga: https://ia601509.us.archive.org/10/items/historia-general-de-las-cosas-de-nueva-espana-iv/Historia%20general%20de%20las%20cosas%20de%20Nueva%20Espa%C3%B1a%20IV.pdf
