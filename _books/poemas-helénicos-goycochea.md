@@ -7,7 +7,7 @@ edicion: 1899
 year: 
 author: "Martín Goycoechea Menéndez"
 nacionalidad: Argentina
-repositorio: "Biblioteca Digital Hispánica
+repositorio: "Biblioteca Digital Hispánica"
 repurl: http://bibliotecadigitalhispanica.bne.es/
 img: Poemas_helénicos_Morel.jpg
 descarga: https://ia601505.us.archive.org/32/items/poemas-helenicos/Poemas%20hel%C3%A9nicos.pdf
