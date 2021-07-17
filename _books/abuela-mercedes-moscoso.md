@@ -5,7 +5,7 @@ editorial: "Imprenta Mercantil"
 ciudad: Guayaquil
 edicion: 1907
 year: 
-author: "Mercedes G. de Moscoso"
+author: Mercedes González de Moscoso"
 nacionalidad: Ecuador
 repositorio: "Biblioteca Digital Hispánica"
 repurl: http://bibliotecadigitalhispanica.bne.es/
