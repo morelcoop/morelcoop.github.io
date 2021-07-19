@@ -2,7 +2,7 @@
 title: La utopía de América
 layout: book
 editorial: "Fundación Biblioteca Ayacucho"
-ciudad: Caracas
+ciudad: Caracas 
 edicion: 1989 
 year: 
 author: "Pedro Henríquez Ureña"
