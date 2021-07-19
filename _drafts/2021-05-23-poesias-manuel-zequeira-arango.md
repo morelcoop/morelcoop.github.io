@@ -11,7 +11,7 @@ nacionalidad: Cuba
 nacimiento: 1764
 repositorio: Biblioteca Digital Hispánica
 repurl: http://bibliotecadigitalhispanica.bne.es/
-img: como_las_nubes_mendilaharsu_Morel.jpg
+img: poesias_manuel_zequeira_arango.jpg
 descarga: https://ia803401.us.archive.org/27/items/poesias-manuel-de-zequeira-y-arango/Poes%C3%ADas%20-%20Manuel%20de%20Zequeira%20y%20Arango.pdf
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/77727256
