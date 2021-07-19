@@ -9,7 +9,7 @@ author: "Miguel Cané"
 nacionalidad: Uruguay
 repositorio: "Canadian Libraries"
 repurl: https://archive.org/details/toronto
-img: juvenilia_miguel_cane.jpg
+img: prosa_ligera_miguel_cane.jpg
 descarga: https://ia803407.us.archive.org/30/items/prosa-ligera-miguel-cane/Prosa%20ligera%20-%20Miguel%20Can%C3%A9.pdf
 periodo: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/978127248
