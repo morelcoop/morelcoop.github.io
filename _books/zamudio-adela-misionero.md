@@ -1,7 +1,7 @@
 ---
 title: El misionero
 layout: book
-editorial: "Imprenta de El Heraldo”
+editorial: "Imprenta de El Heraldo"
 ciudad: Cochabamba
 edicion: 1879
 year: 
