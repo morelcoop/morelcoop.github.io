@@ -11,7 +11,7 @@ nacionalidad: Uruguay
 nacimiento: 1906
 repositorio: Autores UY
 repurl: https://autores.uy/
-img: como_las_nubes_mendilaharsu_Morel.jpg
+img: pais_memoria_susana_soca_Morel.jpg
 descarga: https://ia801801.us.archive.org/4/items/susana_soca_-_en_un_pais_de_la_memoria/susana_soca_-_en_un_pais_de_la_memoria.pdf
 tag: "Siglo XX"
 biblioteca: 
