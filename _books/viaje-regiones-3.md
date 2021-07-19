@@ -5,7 +5,7 @@ editorial: "Biblioteca Venezolana de Cultura"
 ciudad: Caracas
 edicion: 1941
 year: 
-author1: "Alejandro de Humboldt"
+author: "Alejandro de Humboldt"
 author2: "Aimé Bonpland"
 author3: "Lisandro Alvarado"
 repositorio: "Biblioteca Digital César Rengifo"
